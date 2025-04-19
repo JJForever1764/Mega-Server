@@ -475,7 +475,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-04-19 19:19:07 +0000",
       "minecraft:spider": "2025-04-19 19:10:55 +0000",
+      "minecraft:enderman": "2025-04-19 19:22:13 +0000",
       "minecraft:zombie": "2025-04-19 19:15:02 +0000"
     },
     "done": false
@@ -615,6 +617,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-04-19 19:06:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-04-19 19:25:32 +0000"
     },
     "done": true
   },
@@ -1024,6 +1032,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-04-19 18:49:21 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-04-19 19:20:43 +0000"
     },
     "done": true
   },
