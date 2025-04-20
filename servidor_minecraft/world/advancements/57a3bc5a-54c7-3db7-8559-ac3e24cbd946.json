@@ -1105,6 +1105,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_nucleeper": {
+    "criteria": {
+      "killed": "2025-04-20 22:42:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-04-20 22:03:00 +0000"
@@ -1231,6 +1237,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_brainiac": {
+    "criteria": {
+      "killed": "2025-04-20 22:42:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-04-20 20:42:10 +0000"
@@ -1336,6 +1348,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-04-20 21:33:29 +0000",
+      "cooked_beef": "2025-04-20 22:37:04 +0000",
       "tropical_fish": "2025-04-20 20:36:31 +0000",
       "mutton": "2025-04-20 20:28:31 +0000",
       "cooked_chicken": "2025-04-20 20:46:04 +0000",

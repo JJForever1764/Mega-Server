@@ -1215,6 +1215,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/nuclear_bomb": {
+    "criteria": {
+      "nuclear_bomb": "2025-04-20 22:37:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-04-20 21:10:25 +0000"
@@ -1595,9 +1601,12 @@
   },
   "alexscaves:alexscaves/hazmat_armor": {
     "criteria": {
-      "helmet": "2025-04-20 22:28:31 +0000"
+      "shirt": "2025-04-20 22:29:03 +0000",
+      "pants": "2025-04-20 22:28:37 +0000",
+      "helmet": "2025-04-20 22:28:31 +0000",
+      "boots": "2025-04-20 22:28:51 +0000"
     },
-    "done": false
+    "done": true
   },
   "iceandfire:recipes/tools/dragonbone_pickaxe": {
     "criteria": {
@@ -1983,9 +1992,21 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_brainiac": {
+    "criteria": {
+      "killed": "2025-04-20 22:34:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-04-20 22:06:09 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-04-20 22:43:29 +0000"
     },
     "done": true
   },
@@ -2076,6 +2097,12 @@
   "iceandfire:recipes/misc/dragon_horn": {
     "criteria": {
       "has_item": "2025-04-20 21:58:46 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-04-20 22:43:26 +0000"
     },
     "done": true
   },
