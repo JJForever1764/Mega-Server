@@ -74,3 +74,22 @@
 [20Apr2025 16:05:38.461] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
 [20Apr2025 16:08:55.100] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JJForever1764[/127.125.156.34:56495] logged in with entity id 752 at (79.8816360144741, 65.0, 67.15998963362549)
 [20Apr2025 16:08:55.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 joined the game
+[20Apr2025 16:25:51.269] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JJForever1764 lost connection: Disconnected
+[20Apr2025 16:25:51.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 left the game
+[20Apr2025 16:31:49.368] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Danielbox123[/127.43.57.201:44221] logged in with entity id 3711 at (71.5, 73.0, 45.5)
+[20Apr2025 16:31:49.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielbox123 joined the game
+[20Apr2025 16:31:49.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielbox123 has reached the goal [Easter]
+[20Apr2025 16:31:49.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielbox123 has made the advancement [Ice and Fire]
+[20Apr2025 16:32:43.510] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=75, y=65, z=60}
+[20Apr2025 16:32:43.767] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=76, y=65, z=60}
+[20Apr2025 16:32:47.061] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=82, y=64, z=62} BlockPos{x=77, y=65, z=60}
+[20Apr2025 16:32:47.117] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=82, y=64, z=62} BlockPos{x=78, y=65, z=58}
+[20Apr2025 16:32:52.965] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=82, y=64, z=62} BlockPos{x=75, y=65, z=50}
+[20Apr2025 16:32:55.860] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=82, y=64, z=62} BlockPos{x=75, y=65, z=50}
+[20Apr2025 16:33:00.618] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=82, y=64, z=62} BlockPos{x=68, y=63, z=56}
+[20Apr2025 16:33:00.668] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=82, y=64, z=62} BlockPos{x=69, y=63, z=56}
+[20Apr2025 16:33:00.959] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=82, y=64, z=62} BlockPos{x=69, y=63, z=56}
+[20Apr2025 16:33:01.167] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=82, y=64, z=62} BlockPos{x=69, y=63, z=56}
+[20Apr2025 16:33:01.473] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=82, y=64, z=62} BlockPos{x=69, y=63, z=56}
+[20Apr2025 16:34:41.319] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danielbox123 lost connection: Disconnected
+[20Apr2025 16:34:41.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielbox123 left the game
