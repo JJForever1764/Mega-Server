@@ -93,3 +93,9 @@
 [20Apr2025 16:33:01.473] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=82, y=64, z=62} BlockPos{x=69, y=63, z=56}
 [20Apr2025 16:34:41.319] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danielbox123 lost connection: Disconnected
 [20Apr2025 16:34:41.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielbox123 left the game
+[20Apr2025 16:42:10.270] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Danielbox123[/127.43.57.201:42199] logged in with entity id 4851 at (125.41596034743169, 68.0, 363.35017115654074)
+[20Apr2025 16:42:10.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielbox123 joined the game
+[20Apr2025 16:42:57.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielbox123 has made the advancement [Dark Metallurgy]
+[20Apr2025 16:43:37.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielbox123> aaaaaaaaaaaaa
+[20Apr2025 16:43:39.171] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danielbox123 lost connection: Disconnected
+[20Apr2025 16:43:39.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielbox123 left the game
