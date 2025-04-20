@@ -324,3 +324,85 @@
 [20Apr2025 20:58:59.781] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-441, y=73, z=-834}
 [20Apr2025 20:59:38.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
 [20Apr2025 21:00:33.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[20Apr2025 21:02:35.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[20Apr2025 21:03:29.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Spectator Mode]
+[20Apr2025 21:03:39.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[20Apr2025 21:04:07.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[20Apr2025 21:04:42.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to Danielbox123]
+[20Apr2025 21:05:27.746] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[20Apr2025 21:08:57.861] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JJForever1764 moved too quickly! 0.7467753060989253,-70.00133597911216,0.6877709274687049
+[20Apr2025 21:08:59.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JJForever1764 moved too quickly! 0.0,-10.728126108483131,0.0
+[20Apr2025 21:09:00.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[20Apr2025 21:09:01.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielbox123 has reached the goal [Strong or Careful]
+[20Apr2025 21:09:01.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielbox123 fell from a high place
+[20Apr2025 21:09:01.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielbox123 has made the advancement [Your First Grave]
+[20Apr2025 21:09:01.182] [Server thread/INFO] [tombstone/]: The player Danielbox123 has successfully been saved
+[20Apr2025 21:09:11.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to Danielbox123]
+[20Apr2025 21:10:06.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielbox123 has made the advancement [The Most Useful Key]
+[20Apr2025 21:10:10.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielbox123 has reached the goal [A Fast Comeback]
+[20Apr2025 21:10:14.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to Danielbox123]
+[20Apr2025 21:10:25.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Isn't It Iron Pick]
+[20Apr2025 21:10:32.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielbox123 has made the advancement [Isn't It Iron Pick]
+[20Apr2025 21:10:32.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[20Apr2025 21:11:41.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[20Apr2025 21:11:47.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to 38.500000, 66.500000, 214.500000]
+[20Apr2025 21:11:52.553] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danielbox123 moved too quickly! -4.400350707127757,2.1661092609382138,-9.138140188564762
+[20Apr2025 21:11:52.555] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JJForever1764 moved too quickly! -2.5402307548731073,8.937004644140586,-4.970046711015925
+[20Apr2025 21:11:52.573] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5530ms or 110 ticks behind
+[20Apr2025 21:11:56.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported 2 entities to JJForever1764]
+[20Apr2025 21:12:23.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[20Apr2025 21:13:30.452] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=70, z=159} BlockPos{x=79, y=65, z=53}
+[20Apr2025 21:13:30.752] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=70, z=159} BlockPos{x=79, y=65, z=54}
+[20Apr2025 21:13:54.901] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=70, z=159} BlockPos{x=77, y=63, z=56}
+[20Apr2025 21:13:54.998] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=70, z=159} BlockPos{x=79, y=62, z=57}
+[20Apr2025 21:13:56.149] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=70, z=159} BlockPos{x=78, y=63, z=54}
+[20Apr2025 21:13:56.300] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=70, z=159} BlockPos{x=78, y=63, z=54}
+[20Apr2025 21:13:56.498] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=70, z=159} BlockPos{x=78, y=63, z=54}
+[20Apr2025 21:13:56.697] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=70, z=159} BlockPos{x=78, y=63, z=54}
+[20Apr2025 21:13:56.900] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=70, z=159} BlockPos{x=78, y=63, z=54}
+[20Apr2025 21:13:57.048] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=70, z=159} BlockPos{x=78, y=63, z=54}
+[20Apr2025 21:13:57.499] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=70, z=159} BlockPos{x=78, y=63, z=54}
+[20Apr2025 21:13:57.700] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=70, z=159} BlockPos{x=78, y=63, z=54}
+[20Apr2025 21:14:01.767] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=70, z=159} BlockPos{x=74, y=65, z=54}
+[20Apr2025 21:14:02.450] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=70, z=159} BlockPos{x=75, y=65, z=57}
+[20Apr2025 21:14:02.601] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=70, z=159} BlockPos{x=75, y=65, z=58}
+[20Apr2025 21:14:02.801] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=70, z=159} BlockPos{x=73, y=66, z=56}
+[20Apr2025 21:14:26.848] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=70, z=159} BlockPos{x=75, y=65, z=53}
+[20Apr2025 21:14:26.950] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=70, z=159} BlockPos{x=75, y=64, z=53}
+[20Apr2025 21:14:31.502] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=70, z=159} BlockPos{x=77, y=65, z=52}
+[20Apr2025 21:14:38.602] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=70, z=159} BlockPos{x=77, y=64, z=52}
+[20Apr2025 21:14:38.653] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=70, z=159} BlockPos{x=77, y=63, z=53}
+[20Apr2025 21:14:38.851] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=70, z=159} BlockPos{x=76, y=64, z=53}
+[20Apr2025 21:14:38.902] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=70, z=159} BlockPos{x=76, y=63, z=54}
+[20Apr2025 21:14:41.399] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=70, z=159} BlockPos{x=74, y=63, z=54}
+[20Apr2025 21:15:27.649] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=70, z=159} BlockPos{x=80, y=52, z=47}
+[20Apr2025 21:15:33.699] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=70, z=159} BlockPos{x=65, y=52, z=57}
+[20Apr2025 21:15:38.450] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=70, z=159} BlockPos{x=63, y=52, z=57}
+[20Apr2025 21:15:38.651] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=70, z=159} BlockPos{x=63, y=52, z=57}
+[20Apr2025 21:15:40.299] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=70, z=159} BlockPos{x=63, y=52, z=50}
+[20Apr2025 21:15:40.850] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=70, z=159} BlockPos{x=65, y=53, z=51}
+[20Apr2025 21:16:30.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set Danielbox123's game mode to Creative Mode]
+[20Apr2025 21:16:58.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set Danielbox123's game mode to Survival Mode]
+[20Apr2025 21:18:03.150] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=82, y=53, z=57} BlockPos{x=77, y=52, z=52}
+[20Apr2025 21:18:03.249] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=82, y=53, z=57} BlockPos{x=77, y=51, z=53}
+[20Apr2025 21:18:05.400] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=82, y=53, z=57} BlockPos{x=76, y=51, z=53}
+[20Apr2025 21:18:05.453] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=82, y=53, z=57} BlockPos{x=76, y=51, z=52}
+[20Apr2025 21:18:05.501] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=82, y=53, z=57} BlockPos{x=77, y=52, z=52}
+[20Apr2025 21:18:18.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[20Apr2025 21:18:37.850] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=82, y=53, z=57} BlockPos{x=72, y=51, z=53}
+[20Apr2025 21:18:39.350] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=82, y=53, z=57} BlockPos{x=73, y=52, z=56}
+[20Apr2025 21:18:50.449] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=82, y=53, z=57} BlockPos{x=76, y=51, z=56}
+[20Apr2025 21:18:51.201] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=82, y=53, z=57} BlockPos{x=73, y=52, z=56}
+[20Apr2025 21:18:54.102] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=82, y=53, z=57} BlockPos{x=74, y=51, z=56}
+[20Apr2025 21:19:00.202] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=82, y=53, z=57} BlockPos{x=73, y=52, z=56}
+[20Apr2025 21:19:17.200] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=82, y=53, z=57} BlockPos{x=75, y=65, z=53}
+[20Apr2025 21:19:25.100] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=82, y=53, z=57} BlockPos{x=64, y=63, z=39}
+[20Apr2025 21:19:25.149] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=82, y=53, z=57} BlockPos{x=64, y=63, z=40}
+[20Apr2025 21:19:26.051] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=82, y=53, z=57} BlockPos{x=63, y=63, z=40}
+[20Apr2025 21:20:14.351] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=91, y=69, z=26} BlockPos{x=80, y=64, z=42}
+[20Apr2025 21:20:14.449] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=91, y=69, z=26} BlockPos{x=79, y=65, z=40}
+[20Apr2025 21:20:17.801] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=91, y=69, z=26} BlockPos{x=78, y=64, z=42}
+[20Apr2025 21:20:18.402] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=91, y=69, z=26} BlockPos{x=79, y=64, z=42}
+[20Apr2025 21:20:18.452] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=91, y=69, z=26} BlockPos{x=79, y=65, z=42}
+[20Apr2025 21:21:06.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielbox123 has made the advancement [Who You Gonna Call?]
+[20Apr2025 21:21:52.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported 2 entities to JJForever1764]
