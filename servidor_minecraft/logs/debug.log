@@ -2325,3 +2325,353 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [20Apr2025 20:29:20.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> mucho cuidado candela
 [20Apr2025 20:30:06.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielbox123 has made the advancement [Getting an Upgrade]
 [20Apr2025 20:31:05.973] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JJForever1764 moved too quickly! 0.5293855548009958,28.787602277463037,-1.0087238852602525
+[20Apr2025 20:32:30.362] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=39, y=-37, z=145}
+[20Apr2025 20:32:30.440] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=39, y=-37, z=145}
+[20Apr2025 20:32:30.654] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=46, y=-31, z=167}
+[20Apr2025 20:32:30.657] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=23, y=-50, z=179}
+[20Apr2025 20:32:30.663] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=67, y=-24, z=170}
+[20Apr2025 20:32:30.664] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=46, y=-31, z=167}
+[20Apr2025 20:32:30.667] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=52, y=-24, z=166}
+[20Apr2025 20:32:30.668] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=36, y=-31, z=166}
+[20Apr2025 20:32:30.669] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=49, y=-37, z=177}
+[20Apr2025 20:32:30.669] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=23, y=-50, z=179}
+[20Apr2025 20:32:30.706] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=160, y=-37, z=174}
+[20Apr2025 20:32:30.707] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=167, y=-37, z=179}
+[20Apr2025 20:32:30.714] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=168, y=-37, z=163}
+[20Apr2025 20:32:30.715] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=174, y=-37, z=161}
+[20Apr2025 20:32:33.268] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=96, y=-37, z=176}
+[20Apr2025 20:32:33.282] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=124, y=-37, z=197}
+[20Apr2025 20:32:33.283] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=125, y=-37, z=181}
+[20Apr2025 20:32:33.284] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=125, y=-37, z=178}
+[20Apr2025 20:32:33.290] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=96, y=-37, z=176}
+[20Apr2025 20:32:33.507] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=96, y=-37, z=176}
+[20Apr2025 20:32:33.510] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=47, y=-37, z=204}
+[20Apr2025 20:32:33.511] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=67, y=-24, z=170}
+[20Apr2025 20:32:33.569] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=47, y=-37, z=204}
+[20Apr2025 20:32:33.570] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=67, y=-24, z=170}
+[20Apr2025 20:32:33.571] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=50, y=-37, z=162}
+[20Apr2025 20:32:33.571] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=49, y=-37, z=177}
+[20Apr2025 20:32:33.571] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=42, y=-50, z=185}
+[20Apr2025 20:32:33.571] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=61, y=-30, z=188}
+[20Apr2025 20:32:33.572] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=62, y=-30, z=187}
+[20Apr2025 20:32:33.572] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=49, y=-30, z=187}
+[20Apr2025 20:32:33.593] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=47, y=-37, z=204}
+[20Apr2025 20:32:33.594] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=67, y=-24, z=170}
+[20Apr2025 20:32:33.594] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=46, y=-31, z=167}
+[20Apr2025 20:32:33.596] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=29, y=-37, z=191}
+[20Apr2025 20:32:33.596] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=49, y=-37, z=177}
+[20Apr2025 20:32:33.596] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=42, y=-50, z=185}
+[20Apr2025 20:32:33.597] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=40, y=-30, z=189}
+[20Apr2025 20:32:33.597] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=24, y=-50, z=184}
+[20Apr2025 20:32:33.597] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=61, y=-30, z=188}
+[20Apr2025 20:32:33.598] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=23, y=-50, z=179}
+[20Apr2025 20:32:33.598] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=37, y=-50, z=185}
+[20Apr2025 20:32:33.604] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=46, y=-31, z=167}
+[20Apr2025 20:32:33.605] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=29, y=-37, z=191}
+[20Apr2025 20:32:33.605] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=24, y=-50, z=184}
+[20Apr2025 20:32:33.605] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=23, y=-50, z=179}
+[20Apr2025 20:32:33.606] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=37, y=-50, z=185}
+[20Apr2025 20:32:33.768] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=125, y=-37, z=181}
+[20Apr2025 20:32:33.768] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=125, y=-37, z=178}
+[20Apr2025 20:32:33.769] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=160, y=-37, z=174}
+[20Apr2025 20:32:33.769] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=142, y=-37, z=179}
+[20Apr2025 20:32:33.783] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=160, y=-37, z=174}
+[20Apr2025 20:32:33.783] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=167, y=-37, z=179}
+[20Apr2025 20:32:33.790] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=160, y=-37, z=174}
+[20Apr2025 20:32:33.791] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=153, y=-37, z=179}
+[20Apr2025 20:32:35.546] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=47, y=-37, z=204}
+[20Apr2025 20:32:35.547] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=61, y=-37, z=219}
+[20Apr2025 20:32:35.548] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=62, y=-37, z=207}
+[20Apr2025 20:32:35.548] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=61, y=-30, z=188}
+[20Apr2025 20:32:35.548] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=62, y=-30, z=187}
+[20Apr2025 20:32:35.548] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=59, y=-30, z=197}
+[20Apr2025 20:32:35.568] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=96, y=-37, z=176}
+[20Apr2025 20:32:35.572] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=47, y=-37, z=204}
+[20Apr2025 20:32:35.572] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=62, y=-37, z=207}
+[20Apr2025 20:32:35.763] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=47, y=-37, z=204}
+[20Apr2025 20:32:35.764] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=29, y=-37, z=196}
+[20Apr2025 20:32:35.764] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=39, y=-37, z=197}
+[20Apr2025 20:32:35.765] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=40, y=-30, z=189}
+[20Apr2025 20:32:35.766] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=61, y=-30, z=188}
+[20Apr2025 20:32:35.766] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=37, y=-50, z=185}
+[20Apr2025 20:32:35.833] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=125, y=-37, z=181}
+[20Apr2025 20:32:35.840] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=97, y=-37, z=204}
+[20Apr2025 20:32:35.841] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=124, y=-37, z=197}
+[20Apr2025 20:32:35.841] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=125, y=-37, z=181}
+[20Apr2025 20:32:35.846] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=96, y=-37, z=176}
+[20Apr2025 20:32:35.850] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=97, y=-37, z=204}
+[20Apr2025 20:32:35.851] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=97, y=-37, z=205}
+[20Apr2025 20:32:35.857] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=96, y=-37, z=176}
+[20Apr2025 20:32:36.675] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=29, y=-37, z=196}
+[20Apr2025 20:32:36.675] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=39, y=-37, z=197}
+[20Apr2025 20:32:36.677] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=37, y=-50, z=185}
+[20Apr2025 20:32:38.681] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=61, y=-37, z=219}
+[20Apr2025 20:32:38.682] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=62, y=-37, z=207}
+[20Apr2025 20:32:38.682] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=52, y=-51, z=216}
+[20Apr2025 20:32:38.683] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=61, y=-37, z=234}
+[20Apr2025 20:32:38.683] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=52, y=-37, z=233}
+[20Apr2025 20:32:38.684] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=62, y=-37, z=222}
+[20Apr2025 20:32:38.688] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=96, y=-37, z=176}
+[20Apr2025 20:32:38.694] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=62, y=-37, z=207}
+[20Apr2025 20:32:38.694] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=62, y=-37, z=222}
+[20Apr2025 20:32:38.702] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=39, y=-37, z=197}
+[20Apr2025 20:32:38.703] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=52, y=-51, z=216}
+[20Apr2025 20:32:38.704] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=40, y=-30, z=189}
+[20Apr2025 20:32:38.704] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=52, y=-37, z=233}
+[20Apr2025 20:32:38.709] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=39, y=-37, z=197}
+[20Apr2025 20:32:38.875] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=96, y=-37, z=176}
+[20Apr2025 20:32:38.887] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=96, y=-37, z=176}
+[20Apr2025 20:32:38.891] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=97, y=-37, z=205}
+[20Apr2025 20:32:43.542] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=96, y=-37, z=176}
+[20Apr2025 20:32:43.551] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=96, y=-37, z=176}
+[20Apr2025 20:32:43.699] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=96, y=-37, z=176}
+[20Apr2025 20:32:43.704] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=62, y=-37, z=222}
+[20Apr2025 20:32:43.705] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=60, y=-51, z=236}
+[20Apr2025 20:32:44.128] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=61, y=-37, z=234}
+[20Apr2025 20:32:44.128] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=59, y=-37, z=252}
+[20Apr2025 20:32:44.129] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=52, y=-37, z=233}
+[20Apr2025 20:32:44.129] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=62, y=-37, z=222}
+[20Apr2025 20:32:44.129] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=54, y=-37, z=244}
+[20Apr2025 20:32:44.130] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=60, y=-51, z=236}
+[20Apr2025 20:32:44.229] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=52, y=-37, z=233}
+[20Apr2025 20:32:44.230] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=54, y=-37, z=244}
+[20Apr2025 20:32:47.575] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=60, y=-51, z=236}
+[20Apr2025 20:32:47.576] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=62, y=-37, z=255}
+[20Apr2025 20:32:47.582] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=59, y=-37, z=252}
+[20Apr2025 20:32:47.583] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=54, y=-37, z=244}
+[20Apr2025 20:32:47.583] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=61, y=-37, z=267}
+[20Apr2025 20:32:47.583] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=60, y=-51, z=236}
+[20Apr2025 20:32:47.584] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=62, y=-37, z=255}
+[20Apr2025 20:32:47.587] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=54, y=-37, z=244}
+[20Apr2025 20:32:50.805] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 20:32:50.812] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 20:32:54.587] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=61, y=-37, z=267}
+[20Apr2025 20:32:54.588] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=52, y=-37, z=265}
+[20Apr2025 20:32:54.588] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=53, y=-37, z=268}
+[20Apr2025 20:32:54.588] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=62, y=-37, z=255}
+[20Apr2025 20:32:54.589] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=52, y=-37, z=281}
+[20Apr2025 20:32:54.589] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=62, y=-37, z=271}
+[20Apr2025 20:32:54.593] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=52, y=-37, z=265}
+[20Apr2025 20:32:54.593] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=52, y=-37, z=281}
+[20Apr2025 20:32:54.824] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=62, y=-37, z=255}
+[20Apr2025 20:32:54.825] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=62, y=-37, z=271}
+[20Apr2025 20:32:56.525] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=52, y=-37, z=281}
+[20Apr2025 20:32:57.770] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=53, y=-37, z=268}
+[20Apr2025 20:32:57.771] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=52, y=-37, z=281}
+[20Apr2025 20:32:57.771] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=62, y=-37, z=271}
+[20Apr2025 20:32:57.771] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=59, y=-37, z=300}
+[20Apr2025 20:32:59.771] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=62, y=-37, z=271}
+[20Apr2025 20:33:05.265] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=59, y=-37, z=300}
+[20Apr2025 20:33:05.266] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=60, y=-37, z=290}
+[20Apr2025 20:33:05.266] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=54, y=-37, z=300}
+[20Apr2025 20:35:15.554] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[20Apr2025 20:35:24.000] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[20Apr2025 20:35:46.946] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=367, y=9, z=504} but found not block entity block Block{minecraft:water}[level=1] at location
+[20Apr2025 20:35:46.946] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=367, y=9, z=504}
+[20Apr2025 20:35:46.946] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=366, y=9, z=504} but found not block entity block Block{minecraft:water}[level=1] at location
+[20Apr2025 20:35:46.947] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=366, y=9, z=504}
+[20Apr2025 20:36:18.802] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[20Apr2025 20:37:31.558] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=205, y=48, z=709} but found not block entity block Block{minecraft:water}[level=0] at location
+[20Apr2025 20:37:31.558] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=205, y=48, z=709}
+[20Apr2025 20:37:31.559] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=204, y=48, z=711} but found not block entity block Block{minecraft:water}[level=0] at location
+[20Apr2025 20:37:31.560] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=204, y=48, z=711}
+[20Apr2025 20:37:31.560] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=205, y=48, z=710} but found not block entity block Block{minecraft:water}[level=0] at location
+[20Apr2025 20:37:31.561] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=205, y=48, z=710}
+[20Apr2025 20:37:31.561] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=205, y=50, z=709} but found not block entity block Block{minecraft:water}[level=8] at location
+[20Apr2025 20:37:31.562] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=205, y=50, z=709}
+[20Apr2025 20:37:31.562] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=205, y=49, z=709} but found not block entity block Block{minecraft:water}[level=8] at location
+[20Apr2025 20:37:31.562] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=205, y=49, z=709}
+[20Apr2025 20:37:31.563] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=206, y=49, z=708} but found not block entity block Block{minecraft:water}[level=0] at location
+[20Apr2025 20:37:31.563] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=206, y=49, z=708}
+[20Apr2025 20:37:31.563] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=204, y=47, z=713} but found not block entity block Block{minecraft:water}[level=8] at location
+[20Apr2025 20:37:31.564] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=204, y=47, z=713}
+[20Apr2025 20:37:31.564] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=203, y=46, z=714} but found not block entity block Block{minecraft:water}[level=8] at location
+[20Apr2025 20:37:31.564] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=203, y=46, z=714}
+[20Apr2025 20:37:31.565] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=204, y=48, z=712} but found not block entity block Block{minecraft:water}[level=8] at location
+[20Apr2025 20:37:31.565] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=204, y=48, z=712}
+[20Apr2025 20:37:31.565] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=204, y=47, z=712} but found not block entity block Block{minecraft:water}[level=1] at location
+[20Apr2025 20:37:31.566] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=204, y=47, z=712}
+[20Apr2025 20:37:31.566] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=207, y=52, z=704} but found not block entity block Block{minecraft:water}[level=0] at location
+[20Apr2025 20:37:31.567] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=207, y=52, z=704}
+[20Apr2025 20:37:31.567] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=206, y=50, z=706} but found not block entity block Block{minecraft:water}[level=0] at location
+[20Apr2025 20:37:31.567] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=206, y=50, z=706}
+[20Apr2025 20:37:31.568] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=205, y=50, z=708} but found not block entity block Block{minecraft:water}[level=0] at location
+[20Apr2025 20:37:31.568] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=205, y=50, z=708}
+[20Apr2025 20:37:31.568] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=206, y=50, z=707} but found not block entity block Block{minecraft:water}[level=0] at location
+[20Apr2025 20:37:31.569] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=206, y=50, z=707}
+[20Apr2025 20:37:31.569] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=206, y=51, z=705} but found not block entity block Block{minecraft:water}[level=0] at location
+[20Apr2025 20:37:31.569] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=206, y=51, z=705}
+[20Apr2025 20:37:31.569] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=206, y=51, z=706} but found not block entity block Block{minecraft:water}[level=8] at location
+[20Apr2025 20:37:31.570] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=206, y=51, z=706}
+[20Apr2025 20:37:50.780] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 20:37:50.788] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 20:39:21.549] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[20Apr2025 20:42:10.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielbox123 has made the advancement [Acquire Hardware]
+[20Apr2025 20:42:50.783] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 20:42:50.790] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 20:43:03.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielbox123 has made the advancement [Suit Up]
+[20Apr2025 20:43:05.049] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[20Apr2025 20:43:41.153] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[20Apr2025 20:44:51.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Suit Up]
+[20Apr2025 20:45:12.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielbox123> comida
+[20Apr2025 20:45:14.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielbox123> help
+[20Apr2025 20:45:21.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> pera
+[20Apr2025 20:45:23.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielbox123> altoke
+[20Apr2025 20:45:27.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielbox123> me queda poco
+[20Apr2025 20:45:36.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Surge Protector]
+[20Apr2025 20:45:42.168] [Server thread/DEBUG] [mixin/]: Mixing ItemInputMixin from tombstone.mixins.json into net.minecraft.commands.arguments.item.ItemInput
+[20Apr2025 20:45:42.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Gave 64 [Cooked Chicken] to Danielbox123]
+[20Apr2025 20:45:43.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielbox123> ALTOKEEEEEEEEEEEEEEEEEEE
+[20Apr2025 20:45:51.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> ya te di
+[20Apr2025 20:46:08.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielbox123> buen chico
+[20Apr2025 20:46:26.500] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[20Apr2025 20:46:52.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> ya quipato llamda
+[20Apr2025 20:46:57.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> me faltan 2 hojas
+[20Apr2025 20:47:50.819] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 20:47:50.826] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 20:50:50.409] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-256, y=3, z=-291} but found not block entity block Block{minecraft:water}[level=8] at location
+[20Apr2025 20:50:50.410] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-256, y=3, z=-291}
+[20Apr2025 20:50:50.410] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-255, y=3, z=-292} but found not block entity block Block{minecraft:water}[level=8] at location
+[20Apr2025 20:50:50.410] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-255, y=3, z=-292}
+[20Apr2025 20:50:50.410] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-254, y=3, z=-293} but found not block entity block Block{minecraft:water}[level=8] at location
+[20Apr2025 20:50:50.411] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-254, y=3, z=-293}
+[20Apr2025 20:50:50.411] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-255, y=3, z=-293} but found not block entity block Block{minecraft:water}[level=0] at location
+[20Apr2025 20:50:50.411] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-255, y=3, z=-293}
+[20Apr2025 20:50:50.411] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-254, y=3, z=-294} but found not block entity block Block{minecraft:water}[level=0] at location
+[20Apr2025 20:50:50.411] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-254, y=3, z=-294}
+[20Apr2025 20:50:50.412] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-253, y=3, z=-295} but found not block entity block Block{minecraft:water}[level=0] at location
+[20Apr2025 20:50:50.412] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-253, y=3, z=-295}
+[20Apr2025 20:50:50.412] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-256, y=5, z=-291} but found not block entity block Block{minecraft:water}[level=8] at location
+[20Apr2025 20:50:50.412] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-256, y=5, z=-291}
+[20Apr2025 20:50:50.413] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-255, y=1, z=-291} but found not block entity block Block{minecraft:water}[level=8] at location
+[20Apr2025 20:50:50.413] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-255, y=1, z=-291}
+[20Apr2025 20:50:50.413] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-255, y=1, z=-292} but found not block entity block Block{minecraft:water}[level=0] at location
+[20Apr2025 20:50:50.413] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-255, y=1, z=-292}
+[20Apr2025 20:50:50.413] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-256, y=5, z=-292} but found not block entity block Block{minecraft:water}[level=0] at location
+[20Apr2025 20:50:50.414] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-256, y=5, z=-292}
+[20Apr2025 20:50:50.414] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-255, y=5, z=-293} but found not block entity block Block{minecraft:water}[level=8] at location
+[20Apr2025 20:50:50.414] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-255, y=5, z=-293}
+[20Apr2025 20:50:50.414] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-254, y=5, z=-294} but found not block entity block Block{minecraft:water}[level=8] at location
+[20Apr2025 20:50:50.415] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-254, y=5, z=-294}
+[20Apr2025 20:50:50.415] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-253, y=5, z=-295} but found not block entity block Block{minecraft:water}[level=8] at location
+[20Apr2025 20:50:50.416] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-253, y=5, z=-295}
+[20Apr2025 20:50:50.416] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-255, y=2, z=-292} but found not block entity block Block{minecraft:water}[level=0] at location
+[20Apr2025 20:50:50.416] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-255, y=2, z=-292}
+[20Apr2025 20:50:50.416] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-254, y=2, z=-293} but found not block entity block Block{minecraft:water}[level=0] at location
+[20Apr2025 20:50:50.417] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-254, y=2, z=-293}
+[20Apr2025 20:50:50.417] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-256, y=4, z=-291} but found not block entity block Block{minecraft:water}[level=8] at location
+[20Apr2025 20:50:50.417] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-256, y=4, z=-291}
+[20Apr2025 20:50:50.417] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-255, y=4, z=-292} but found not block entity block Block{minecraft:water}[level=8] at location
+[20Apr2025 20:50:50.417] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-255, y=4, z=-292}
+[20Apr2025 20:50:50.417] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-256, y=4, z=-292} but found not block entity block Block{minecraft:water}[level=0] at location
+[20Apr2025 20:50:50.417] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-256, y=4, z=-292}
+[20Apr2025 20:50:50.418] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-255, y=4, z=-293} but found not block entity block Block{minecraft:water}[level=8] at location
+[20Apr2025 20:50:50.418] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-255, y=4, z=-293}
+[20Apr2025 20:50:50.418] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-254, y=4, z=-294} but found not block entity block Block{minecraft:water}[level=8] at location
+[20Apr2025 20:50:50.418] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-254, y=4, z=-294}
+[20Apr2025 20:50:50.419] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-253, y=4, z=-295} but found not block entity block Block{minecraft:water}[level=8] at location
+[20Apr2025 20:50:50.419] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-253, y=4, z=-295}
+[20Apr2025 20:50:50.419] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-252, y=4, z=-296} but found not block entity block Block{minecraft:water}[level=0] at location
+[20Apr2025 20:50:50.419] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-252, y=4, z=-296}
+[20Apr2025 20:50:50.419] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-253, y=4, z=-296} but found not block entity block Block{minecraft:water}[level=0] at location
+[20Apr2025 20:50:50.420] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-253, y=4, z=-296}
+[20Apr2025 20:50:57.781] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-257, y=4, z=-290} but found not block entity block Block{minecraft:water}[level=8] at location
+[20Apr2025 20:50:57.781] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-257, y=4, z=-290}
+[20Apr2025 20:50:57.781] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-257, y=5, z=-290} but found not block entity block Block{minecraft:water}[level=8] at location
+[20Apr2025 20:50:57.781] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-257, y=5, z=-290}
+[20Apr2025 20:50:57.782] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-257, y=5, z=-291} but found not block entity block Block{minecraft:water}[level=8] at location
+[20Apr2025 20:50:57.782] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-257, y=5, z=-291}
+[20Apr2025 20:51:08.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielbox123> oe
+[20Apr2025 20:51:11.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielbox123> como q traveler
+[20Apr2025 20:51:47.705] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[20Apr2025 20:52:11.127] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-396, y=11, z=-907} but found not block entity block Block{minecraft:water}[level=8] at location
+[20Apr2025 20:52:11.128] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-396, y=11, z=-907}
+[20Apr2025 20:52:24.654] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-263, y=70, z=-1024} but found not block entity block Block{minecraft:water}[level=0] at location
+[20Apr2025 20:52:24.655] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-263, y=70, z=-1024}
+[20Apr2025 20:52:24.655] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-263, y=69, z=-1023} but found not block entity block Block{minecraft:water}[level=0] at location
+[20Apr2025 20:52:24.655] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-263, y=69, z=-1023}
+[20Apr2025 20:52:24.656] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-262, y=69, z=-1024} but found not block entity block Block{minecraft:water}[level=0] at location
+[20Apr2025 20:52:24.656] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-262, y=69, z=-1024}
+[20Apr2025 20:52:24.657] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-263, y=68, z=-1022} but found not block entity block Block{minecraft:water}[level=0] at location
+[20Apr2025 20:52:24.657] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-263, y=68, z=-1022}
+[20Apr2025 20:52:24.657] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-262, y=68, z=-1023} but found not block entity block Block{minecraft:water}[level=0] at location
+[20Apr2025 20:52:24.658] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-262, y=68, z=-1023}
+[20Apr2025 20:52:24.659] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-263, y=69, z=-1022} but found not block entity block Block{minecraft:water}[level=8] at location
+[20Apr2025 20:52:24.660] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-263, y=69, z=-1022}
+[20Apr2025 20:52:24.660] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-262, y=69, z=-1023} but found not block entity block Block{minecraft:water}[level=8] at location
+[20Apr2025 20:52:24.660] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-262, y=69, z=-1023}
+[20Apr2025 20:52:24.661] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-262, y=68, z=-1021} but found not block entity block Block{minecraft:water}[level=8] at location
+[20Apr2025 20:52:24.662] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-262, y=68, z=-1021}
+[20Apr2025 20:52:24.663] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-261, y=68, z=-1022} but found not block entity block Block{minecraft:water}[level=8] at location
+[20Apr2025 20:52:24.663] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-261, y=68, z=-1022}
+[20Apr2025 20:52:24.664] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-263, y=68, z=-1021} but found not block entity block Block{minecraft:water}[level=0] at location
+[20Apr2025 20:52:24.664] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-263, y=68, z=-1021}
+[20Apr2025 20:52:24.664] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-262, y=68, z=-1022} but found not block entity block Block{minecraft:water}[level=0] at location
+[20Apr2025 20:52:24.665] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-262, y=68, z=-1022}
+[20Apr2025 20:52:24.665] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-261, y=68, z=-1023} but found not block entity block Block{minecraft:water}[level=0] at location
+[20Apr2025 20:52:24.666] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-261, y=68, z=-1023}
+[20Apr2025 20:52:24.666] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-262, y=67, z=-1020} but found not block entity block Block{minecraft:water}[level=0] at location
+[20Apr2025 20:52:24.666] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-262, y=67, z=-1020}
+[20Apr2025 20:52:24.667] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-261, y=67, z=-1021} but found not block entity block Block{minecraft:water}[level=0] at location
+[20Apr2025 20:52:24.667] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-261, y=67, z=-1021}
+[20Apr2025 20:52:24.668] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-262, y=67, z=-1021} but found not block entity block Block{minecraft:water}[level=0] at location
+[20Apr2025 20:52:24.668] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-262, y=67, z=-1021}
+[20Apr2025 20:52:24.668] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-261, y=67, z=-1022} but found not block entity block Block{minecraft:water}[level=0] at location
+[20Apr2025 20:52:24.669] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-261, y=67, z=-1022}
+[20Apr2025 20:52:24.669] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-261, y=66, z=-1020} but found not block entity block Block{minecraft:water}[level=0] at location
+[20Apr2025 20:52:24.671] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-261, y=66, z=-1020}
+[20Apr2025 20:52:24.671] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-261, y=65, z=-1019} but found not block entity block Block{minecraft:water}[level=0] at location
+[20Apr2025 20:52:24.671] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-261, y=65, z=-1019}
+[20Apr2025 20:52:24.672] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-261, y=66, z=-1019} but found not block entity block Block{minecraft:water}[level=8] at location
+[20Apr2025 20:52:24.672] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-261, y=66, z=-1019}
+[20Apr2025 20:52:24.673] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-261, y=65, z=-1018} but found not block entity block Block{minecraft:water}[level=0] at location
+[20Apr2025 20:52:24.673] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-261, y=65, z=-1018}
+[20Apr2025 20:52:24.912] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-263, y=71, z=-1025} but found not block entity block Block{minecraft:water}[level=8] at location
+[20Apr2025 20:52:24.913] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-263, y=71, z=-1025}
+[20Apr2025 20:52:24.913] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-263, y=70, z=-1025} but found not block entity block Block{minecraft:water}[level=0] at location
+[20Apr2025 20:52:24.913] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-263, y=70, z=-1025}
+[20Apr2025 20:52:50.780] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 20:52:50.787] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 20:52:58.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> ?
+[20Apr2025 20:53:09.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> q fue
+[20Apr2025 20:53:22.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielbox123> me aparecio una barrita y decia traveler xd
+[20Apr2025 20:53:52.826] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-740, y=74, z=-576} but found not block entity block Block{minecraft:water}[level=0] at location
+[20Apr2025 20:53:52.826] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-740, y=74, z=-576}
+[20Apr2025 20:53:52.827] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-740, y=75, z=-575} but found not block entity block Block{minecraft:water}[level=0] at location
+[20Apr2025 20:53:52.827] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-740, y=75, z=-575}
+[20Apr2025 20:53:52.827] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-740, y=75, z=-576} but found not block entity block Block{minecraft:water}[level=1] at location
+[20Apr2025 20:53:52.827] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=-740, y=75, z=-576}
+[20Apr2025 20:54:15.100] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[20Apr2025 20:55:06.749] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[20Apr2025 20:56:42.727] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10484ms or 209 ticks behind
+[20Apr2025 20:57:22.693] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11350ms or 227 ticks behind
+[20Apr2025 20:58:12.629] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 20:58:12.639] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 20:58:25.087] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-137, y=48, z=-470} but found not block entity block Block{minecraft:water}[level=8] at location
+[20Apr2025 20:58:25.087] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-137, y=48, z=-470}
+[20Apr2025 20:58:25.087] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-137, y=48, z=-469} but found not block entity block Block{minecraft:water}[level=8] at location
+[20Apr2025 20:58:25.088] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-137, y=48, z=-469}
+[20Apr2025 20:58:25.088] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-137, y=47, z=-469} but found not block entity block Block{minecraft:water}[level=8] at location
+[20Apr2025 20:58:25.088] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-137, y=47, z=-469}
+[20Apr2025 20:58:25.088] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-137, y=47, z=-467} but found not block entity block Block{minecraft:water}[level=8] at location
+[20Apr2025 20:58:25.088] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-137, y=47, z=-467}
+[20Apr2025 20:58:25.088] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-136, y=47, z=-468} but found not block entity block Block{minecraft:water}[level=8] at location
+[20Apr2025 20:58:25.088] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-136, y=47, z=-468}
+[20Apr2025 20:58:25.089] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-137, y=47, z=-468} but found not block entity block Block{minecraft:water}[level=8] at location
+[20Apr2025 20:58:25.089] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-137, y=47, z=-468}
+[20Apr2025 20:58:25.089] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-136, y=47, z=-469} but found not block entity block Block{minecraft:water}[level=8] at location
+[20Apr2025 20:58:25.089] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-136, y=47, z=-469}
+[20Apr2025 20:58:25.089] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-137, y=47, z=-466} but found not block entity block Block{minecraft:water}[level=8] at location
+[20Apr2025 20:58:25.089] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-137, y=47, z=-466}
+[20Apr2025 20:58:36.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to Danielbox123]
+[20Apr2025 20:58:59.780] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-441, y=74, z=-835} but found not block entity block Block{minecraft:water}[level=8] at location
+[20Apr2025 20:58:59.780] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-441, y=74, z=-835}
+[20Apr2025 20:58:59.780] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-441, y=73, z=-834} but found not block entity block Block{minecraft:water}[level=8] at location
+[20Apr2025 20:58:59.781] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-441, y=73, z=-834}
+[20Apr2025 20:59:38.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[20Apr2025 21:00:33.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[20Apr2025 21:00:44.552] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [57a3bc5a-54c7-3db7-8559-ac3e24cbd946]
+[20Apr2025 21:00:45.102] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [57a3bc5a-54c7-3db7-8559-ac3e24cbd946]
+[20Apr2025 21:00:45.901] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [57a3bc5a-54c7-3db7-8559-ac3e24cbd946]
+[20Apr2025 21:00:47.054] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [57a3bc5a-54c7-3db7-8559-ac3e24cbd946]
+[20Apr2025 21:01:14.302] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [57a3bc5a-54c7-3db7-8559-ac3e24cbd946]
