@@ -25,6 +25,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-04-20 22:21:21 +0000",
       "minecraft:birch_forest": "2025-04-20 22:00:42 +0000",
       "minecraft:wooded_badlands": "2025-04-20 20:58:37 +0000",
       "minecraft:beach": "2025-04-19 19:05:49 +0000",
@@ -349,7 +350,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-04-20 22:07:07 +0000",
+      "cooked_beef": "2025-04-20 22:12:04 +0000",
       "beef": "2025-04-20 21:46:15 +0000",
+      "porkchop": "2025-04-20 22:11:12 +0000",
       "apple": "2025-04-19 18:43:45 +0000",
       "bread": "2025-04-19 19:01:58 +0000",
       "cooked_chicken": "2025-04-20 21:05:22 +0000",
@@ -1087,6 +1090,7 @@
       "minecraft:cave_spider": "2025-04-20 22:07:39 +0000",
       "minecraft:piglin": "2025-04-20 21:55:14 +0000",
       "minecraft:enderman": "2025-04-19 19:22:13 +0000",
+      "minecraft:endermite": "2025-04-20 22:23:27 +0000",
       "minecraft:zombie": "2025-04-19 19:15:02 +0000"
     },
     "done": false
@@ -1373,6 +1377,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-04-20 22:15:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-04-20 21:47:57 +0000"
@@ -1583,6 +1593,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/hazmat_armor": {
+    "criteria": {
+      "helmet": "2025-04-20 22:28:31 +0000"
+    },
+    "done": false
+  },
   "iceandfire:recipes/tools/dragonbone_pickaxe": {
     "criteria": {
       "has_item": "2025-04-20 21:58:46 +0000"
@@ -1604,6 +1620,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-04-20 19:47:02 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_toxic_caves": {
+    "criteria": {
+      "discover": "2025-04-20 22:27:17 +0000"
     },
     "done": true
   },
@@ -1679,6 +1701,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-20 22:15:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-04-20 21:47:57 +0000"
@@ -1712,6 +1740,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-20 21:06:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-04-20 22:15:51 +0000"
     },
     "done": true
   },
@@ -1754,6 +1788,18 @@
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-20 21:54:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-04-20 22:11:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-04-20 22:15:51 +0000"
     },
     "done": true
   },
