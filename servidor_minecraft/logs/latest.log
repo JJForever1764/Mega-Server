@@ -406,3 +406,18 @@
 [20Apr2025 21:20:18.452] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=91, y=69, z=26} BlockPos{x=79, y=65, z=42}
 [20Apr2025 21:21:06.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielbox123 has made the advancement [Who You Gonna Call?]
 [20Apr2025 21:21:52.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported 2 entities to JJForever1764]
+[20Apr2025 21:23:03.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[20Apr2025 21:23:52.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Spectator Mode]
+[20Apr2025 21:24:19.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported 2 entities to JJForever1764]
+[20Apr2025 21:24:22.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[20Apr2025 21:24:53.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Spectator Mode]
+[20Apr2025 21:24:58.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[20Apr2025 21:25:06.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Spectator Mode]
+[20Apr2025 21:25:32.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported 2 entities to JJForever1764]
+[20Apr2025 21:25:34.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[20Apr2025 21:26:10.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Cover Me with Diamonds]
+[20Apr2025 21:27:10.539] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danielbox123 moved too quickly! 0.0038804378362726766,-26.00133597911214,0.7804016054719511
+[20Apr2025 21:27:12.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JJForever1764 moved too quickly! 0.04084309743086578,-26.00133597911214,0.78040128770769
+[20Apr2025 21:30:11.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported 2 entities to JJForever1764]
+[20Apr2025 21:30:37.978] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JJForever1764 moved too quickly! 1.2272427697034516,31.580000013113022,-5.167558892695126
+[20Apr2025 21:30:40.161] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danielbox123 moved too quickly! 1.7651323913241157,30.833890739061786,-5.186246553101654

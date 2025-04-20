@@ -2793,3 +2793,33 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [20Apr2025 21:22:24.377] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [3edfd802-4dad-4585-81f2-8361f4e81395]
 [20Apr2025 21:22:25.250] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [3edfd802-4dad-4585-81f2-8361f4e81395]
 [20Apr2025 21:22:44.602] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [3edfd802-4dad-4585-81f2-8361f4e81395]
+[20Apr2025 21:22:52.201] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [57a3bc5a-54c7-3db7-8559-ac3e24cbd946]
+[20Apr2025 21:22:53.203] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: onLivingEquipmentChangeEvent from:
+1 scroll
+784fe8c0
+[20Apr2025 21:22:53.203] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: onLivingEquipmentChangeEvent to:
+1 gold_backpack
+280e21a7
+[20Apr2025 21:23:03.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[20Apr2025 21:23:18.090] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 21:23:18.098] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 21:23:52.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Spectator Mode]
+[20Apr2025 21:24:19.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported 2 entities to JJForever1764]
+[20Apr2025 21:24:22.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[20Apr2025 21:24:41.455] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [57a3bc5a-54c7-3db7-8559-ac3e24cbd946]
+[20Apr2025 21:24:42.401] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [2fc0fc16-538b-40eb-b333-1784793c03de]
+[20Apr2025 21:24:43.205] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [cfbe8510-4846-48f3-9b1f-d7fdce24a681]
+[20Apr2025 21:24:44.051] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [2fc0fc16-538b-40eb-b333-1784793c03de]
+[20Apr2025 21:24:53.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Spectator Mode]
+[20Apr2025 21:24:58.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[20Apr2025 21:25:06.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Spectator Mode]
+[20Apr2025 21:25:32.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported 2 entities to JJForever1764]
+[20Apr2025 21:25:34.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[20Apr2025 21:26:10.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Cover Me with Diamonds]
+[20Apr2025 21:27:10.539] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danielbox123 moved too quickly! 0.0038804378362726766,-26.00133597911214,0.7804016054719511
+[20Apr2025 21:27:12.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JJForever1764 moved too quickly! 0.04084309743086578,-26.00133597911214,0.78040128770769
+[20Apr2025 21:28:18.088] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 21:28:18.095] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 21:30:11.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported 2 entities to JJForever1764]
+[20Apr2025 21:30:37.978] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JJForever1764 moved too quickly! 1.2272427697034516,31.580000013113022,-5.167558892695126
+[20Apr2025 21:30:40.161] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danielbox123 moved too quickly! 1.7651323913241157,30.833890739061786,-5.186246553101654

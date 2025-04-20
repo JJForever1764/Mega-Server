@@ -283,6 +283,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-20 21:20:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-04-20 20:27:57 +0000"
@@ -493,6 +499,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-20 21:20:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-04-20 20:27:57 +0000"
@@ -515,6 +527,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-04-20 20:48:31 +0000",
       "minecraft:spider": "2025-04-20 20:48:08 +0000",
+      "minecraft:enderman": "2025-04-20 21:22:50 +0000",
       "minecraft:zombie": "2025-04-20 20:25:17 +0000"
     },
     "done": false
@@ -1041,6 +1054,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-20 21:21:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-04-20 20:27:57 +0000"
@@ -1056,6 +1075,12 @@
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-20 20:27:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-04-20 21:24:56 +0000"
     },
     "done": true
   },
@@ -1082,6 +1107,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-20 20:27:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-04-20 21:24:56 +0000"
     },
     "done": true
   },
