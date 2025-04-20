@@ -84,3 +84,48 @@
 [20Apr2025 19:46:59.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielbox123> vava
 [20Apr2025 20:04:50.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Spectator Mode]
 [20Apr2025 20:04:55.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to Danielbox123]
+[20Apr2025 20:14:55.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[20Apr2025 20:14:56.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[20Apr2025 20:15:49.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Spectator Mode]
+[20Apr2025 20:19:02.680] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=83, y=70, z=12} BlockPos{x=74, y=63, z=45}
+[20Apr2025 20:19:02.975] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=83, y=70, z=12} BlockPos{x=74, y=63, z=46}
+[20Apr2025 20:19:03.274] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=83, y=70, z=12} BlockPos{x=74, y=63, z=49}
+[20Apr2025 20:19:03.324] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=83, y=70, z=12} BlockPos{x=74, y=64, z=50}
+[20Apr2025 20:19:03.374] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=83, y=70, z=12} BlockPos{x=74, y=64, z=48}
+[20Apr2025 20:19:19.477] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=83, y=70, z=12} BlockPos{x=76, y=65, z=52}
+[20Apr2025 20:19:19.527] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=83, y=70, z=12} BlockPos{x=76, y=65, z=53}
+[20Apr2025 20:19:20.327] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=83, y=70, z=12} BlockPos{x=75, y=65, z=53}
+[20Apr2025 20:20:24.850] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[20Apr2025 20:20:39.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[20Apr2025 20:20:58.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Spectator Mode]
+[20Apr2025 20:21:03.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielbox123> oe deja p
+[20Apr2025 20:21:09.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> yo no fui
+[20Apr2025 20:21:16.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[20Apr2025 20:21:17.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielbox123> na q no fuieste oe
+[20Apr2025 20:21:21.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielbox123> e acabo de ver
+[20Apr2025 20:21:23.848] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danielbox123 moved too quickly! -0.01948287483892841,-26.00133597911214,0.7813892600835572
+[20Apr2025 20:21:26.228] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JJForever1764 moved too quickly! -0.11557048366776712,-26.176759275064242,0.7845169757030703
+[20Apr2025 20:21:52.290] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[20Apr2025 20:21:52.356] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [136 absolute-0 below top]
+[20Apr2025 20:21:53.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielbox123 has made the advancement [Easter Egg Searcher]
+[20Apr2025 20:21:54.187] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JJForever1764 moved too quickly! 1.6838941643282368,30.833890739061786,-5.6401438542989695
+[20Apr2025 20:22:00.269] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JJForever1764 moved too quickly! -0.36642422308754874,-26.207651548327547,-0.34138389153690696
+[20Apr2025 20:22:40.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielbox123> oe sin creativo ps
+[20Apr2025 20:22:54.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> aun noestoy
+[20Apr2025 20:23:00.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> me falta terminar la wbd
+[20Apr2025 20:23:13.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielbox123> termina tonces
+[20Apr2025 20:23:18.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielbox123> y deja de ver q hago xd
+[20Apr2025 20:23:19.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> ya
+[20Apr2025 20:25:17.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielbox123 has made the advancement [Monster Hunter]
+[20Apr2025 20:25:17.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielbox123 has made the advancement [Knowledge of Death]
+[20Apr2025 20:25:17.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielbox123 has made the advancement [A Strange Grave Dust]
+[20Apr2025 20:27:54.169] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8426ms or 168 ticks behind
+[20Apr2025 20:27:57.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielbox123 has made the advancement [Stone Age]
+[20Apr2025 20:28:01.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> ala
+[20Apr2025 20:28:06.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> esos logros
+[20Apr2025 20:28:54.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielbox123 has made the advancement [Alex's Caves]
+[20Apr2025 20:28:55.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has reached the goal [Horror of the Depths]
+[20Apr2025 20:29:14.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> como que alex caves
+[20Apr2025 20:29:20.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> mucho cuidado candela
+[20Apr2025 20:30:06.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielbox123 has made the advancement [Getting an Upgrade]
+[20Apr2025 20:31:05.973] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JJForever1764 moved too quickly! 0.5293855548009958,28.787602277463037,-1.0087238852602525
