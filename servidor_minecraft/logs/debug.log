@@ -2823,3 +2823,18 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [20Apr2025 21:30:11.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported 2 entities to JJForever1764]
 [20Apr2025 21:30:37.978] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JJForever1764 moved too quickly! 1.2272427697034516,31.580000013113022,-5.167558892695126
 [20Apr2025 21:30:40.161] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danielbox123 moved too quickly! 1.7651323913241157,30.833890739061786,-5.186246553101654
+[20Apr2025 21:33:13.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Local Brewery]
+[20Apr2025 21:33:18.088] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 21:33:18.096] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 21:33:51.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[20Apr2025 21:34:09.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[20Apr2025 21:36:55.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Gave 1 [White Bed] to Danielbox123]
+[20Apr2025 21:37:02.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielbox123 has made the advancement [Sweet Dreams]
+[20Apr2025 21:38:11.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has reached the goal [Quaint Scribe]
+[20Apr2025 21:38:18.088] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 21:38:18.095] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 21:39:24.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported 2 entities to JJForever1764]
+[20Apr2025 21:39:31.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielbox123 has reached the goal [Quaint Scribe]
+[20Apr2025 21:39:33.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has reached the goal [Zombie Doctor]
+[20Apr2025 21:39:34.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[20Apr2025 21:41:48.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
