@@ -1435,3 +1435,6 @@
 [27Apr2025 21:29:10.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Best Friends Forever]
 [27Apr2025 21:31:08.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielbox123> q fue? xd
 [27Apr2025 21:31:13.763] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/762, l='ServerLevel[world]', x=188.76, y=118.00, z=-169.07] died, message: 'Nitwit was slain by Zombie Lumberjack'
+[27Apr2025 21:41:10.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielbox123> hablamos mno
+[27Apr2025 21:41:16.815] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danielbox123 lost connection: Disconnected
+[27Apr2025 21:41:16.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielbox123 left the game

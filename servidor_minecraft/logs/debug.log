@@ -4043,3 +4043,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [27Apr2025 21:29:14.792] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [27Apr2025 21:31:08.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielbox123> q fue? xd
 [27Apr2025 21:31:13.763] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/762, l='ServerLevel[world]', x=188.76, y=118.00, z=-169.07] died, message: 'Nitwit was slain by Zombie Lumberjack'
+[27Apr2025 21:34:14.774] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 21:34:14.781] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Apr2025 21:39:14.774] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 21:39:14.781] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Apr2025 21:41:10.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielbox123> hablamos mno
+[27Apr2025 21:41:16.815] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danielbox123 lost connection: Disconnected
+[27Apr2025 21:41:16.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielbox123 left the game
