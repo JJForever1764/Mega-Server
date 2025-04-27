@@ -1424,3 +1424,14 @@
 [27Apr2025 21:08:59.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
 [27Apr2025 21:09:25.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
 [27Apr2025 21:11:44.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[27Apr2025 21:19:58.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set the time to 1000]
+[27Apr2025 21:20:26.210] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/754, l='ServerLevel[world]', x=135.42, y=113.42, z=-131.52] died, message: 'Farmer was slain by Fallen Chaos Knight'
+[27Apr2025 21:21:14.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[27Apr2025 21:21:29.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 was slain by Fallen Chaos Knight
+[27Apr2025 21:21:29.013] [Server thread/INFO] [tombstone/]: The player JJForever1764 has successfully been saved
+[27Apr2025 21:21:39.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Dark Metallurgy]
+[27Apr2025 21:21:50.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[27Apr2025 21:29:10.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Buck Beak]
+[27Apr2025 21:29:10.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Best Friends Forever]
+[27Apr2025 21:31:08.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielbox123> q fue? xd
+[27Apr2025 21:31:13.763] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/762, l='ServerLevel[world]', x=188.76, y=118.00, z=-169.07] died, message: 'Nitwit was slain by Zombie Lumberjack'

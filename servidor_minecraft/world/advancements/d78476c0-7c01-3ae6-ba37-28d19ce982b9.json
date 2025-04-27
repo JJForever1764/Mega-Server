@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-27 21:26:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_chainmail_helmet": "2025-04-27 20:39:22 +0000"
@@ -215,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-04-27 21:26:21 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/ink_root": {
     "criteria": {
       "requirement": "2025-04-27 20:19:40 +0000"
@@ -363,6 +375,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-04-27 20:55:22 +0000",
       "minecraft:spider": "2025-04-27 20:55:14 +0000",
+      "minecraft:creeper": "2025-04-27 21:19:03 +0000",
       "minecraft:zombie": "2025-04-27 20:56:21 +0000"
     },
     "done": false
@@ -484,6 +497,12 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-04-27 20:36:56 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-04-27 21:21:39 +0000"
     },
     "done": true
   },
@@ -709,6 +728,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-04-27 21:29:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-27 20:24:28 +0000"
@@ -760,6 +785,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-04-27 20:18:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-04-27 21:26:21 +0000"
     },
     "done": true
   },
@@ -999,6 +1030,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-04-27 21:20:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "porkchop": "2025-04-27 20:23:52 +0000",
@@ -1006,6 +1043,12 @@
       "bread": "2025-04-27 20:41:46 +0000"
     },
     "done": false
+  },
+  "iceandfire:iceandfire/tame_hippogryph": {
+    "criteria": {
+      "tame_rat": "2025-04-27 21:29:10 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
@@ -1022,6 +1065,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-04-27 20:29:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-04-27 21:20:52 +0000"
     },
     "done": true
   },
