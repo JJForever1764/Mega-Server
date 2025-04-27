@@ -3985,3 +3985,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [27Apr2025 20:40:07.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported Danielbox123 to JJForever1764]
 [27Apr2025 20:41:34.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [What a Deal!]
 [27Apr2025 20:42:11.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [A Seedy Place]
+[27Apr2025 20:43:30.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Getting an Upgrade]
+[27Apr2025 20:44:14.777] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 20:44:14.784] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Apr2025 20:48:56.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielbox123 has made the advancement [Monster Hunter]
+[27Apr2025 20:49:14.782] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 20:49:14.789] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Apr2025 20:50:54.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to 153.500000, 112.500000, -281.500000]
+[27Apr2025 20:51:54.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielbox123 has made the advancement [What a Deal!]
