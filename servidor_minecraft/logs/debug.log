@@ -3831,3 +3831,46 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [27Apr2025 20:19:54.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielbox123 has reached the goal [Quaint Scribe]
 [27Apr2025 20:21:13.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielbox123 has made the advancement [Tools of the Trade]
 [27Apr2025 20:22:44.766] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[27Apr2025 20:23:54.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 was crushed by Cryomancer's giant block of ice
+[27Apr2025 20:23:54.976] [Server thread/DEBUG] [tombstone/]: A new grave of the player JJForever1764 was created at position [x:47, y:82, z:158, dim:minecraft:overworld]
+[27Apr2025 20:23:54.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Your First Grave]
+[27Apr2025 20:23:54.987] [Server thread/INFO] [tombstone/]: The player JJForever1764 has successfully been saved
+[27Apr2025 20:24:14.783] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 20:24:14.793] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Apr2025 20:24:58.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 was mauled by Cryomancer's polar bear
+[27Apr2025 20:24:58.407] [Server thread/DEBUG] [tombstone/]: A new grave of the player JJForever1764 was created at position [x:-3, y:72, z:113, dim:minecraft:overworld]
+[27Apr2025 20:24:58.417] [Server thread/INFO] [tombstone/]: The player JJForever1764 has successfully been saved
+[27Apr2025 20:25:04.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielbox123 was pierced by Cryomancer's icicle
+[27Apr2025 20:25:04.213] [Server thread/DEBUG] [tombstone/]: A new grave of the player Danielbox123 was created at position [x:6, y:73, z:149, dim:minecraft:overworld]
+[27Apr2025 20:25:04.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielbox123 has made the advancement [Your First Grave]
+[27Apr2025 20:25:04.216] [Server thread/INFO] [tombstone/]: The player Danielbox123 has successfully been saved
+[27Apr2025 20:25:28.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has reached the goal [Here They Come]
+[27Apr2025 20:26:29.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to Danielbox123]
+[27Apr2025 20:26:37.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[27Apr2025 20:26:38.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Spectator Mode]
+[27Apr2025 20:26:46.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[27Apr2025 20:26:47.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[27Apr2025 20:26:50.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported Danielbox123 to JJForever1764]
+[27Apr2025 20:27:10.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Sweet Dreams]
+[27Apr2025 20:27:12.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielbox123 has made the advancement [Sweet Dreams]
+[27Apr2025 20:28:30.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielbox123 has made the advancement [Stone Age]
+[27Apr2025 20:29:12.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielbox123 has made the advancement [Getting an Upgrade]
+[27Apr2025 20:29:14.779] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 20:29:14.786] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Apr2025 20:29:17.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Stone Age]
+[27Apr2025 20:29:37.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Spectator Mode]
+[27Apr2025 20:29:52.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[27Apr2025 20:29:55.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported Danielbox123 to JJForever1764]
+[27Apr2025 20:31:24.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielbox123 was frozen solid by Cryomancer's
+[27Apr2025 20:31:24.059] [Server thread/DEBUG] [tombstone/]: A new grave of the player Danielbox123 was created at position [x:72, y:98, z:129, dim:minecraft:overworld]
+[27Apr2025 20:31:24.060] [Server thread/INFO] [tombstone/]: The player Danielbox123 has successfully been saved
+[27Apr2025 20:31:26.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 was frozen solid by Cryomancer's
+[27Apr2025 20:31:26.559] [Server thread/DEBUG] [tombstone/]: A new grave of the player JJForever1764 was created at position [x:76, y:94, z:141, dim:minecraft:overworld]
+[27Apr2025 20:31:26.562] [Server thread/INFO] [tombstone/]: The player JJForever1764 has successfully been saved
+[27Apr2025 20:32:33.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 was pierced by Cryomancer's icicle
+[27Apr2025 20:32:33.210] [Server thread/DEBUG] [tombstone/]: A new grave of the player JJForever1764 was created at position [x:63, y:89, z:118, dim:minecraft:overworld]
+[27Apr2025 20:32:33.212] [Server thread/INFO] [tombstone/]: The player JJForever1764 has successfully been saved
+[27Apr2025 20:32:33.401] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[27Apr2025 20:32:51.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielbox123 was frozen to death by Cryomancer
+[27Apr2025 20:32:51.562] [Server thread/DEBUG] [tombstone/]: A new grave of the player Danielbox123 was created at position [x:65, y:88, z:116, dim:minecraft:overworld]
+[27Apr2025 20:32:51.563] [Server thread/INFO] [tombstone/]: The player Danielbox123 has successfully been saved
