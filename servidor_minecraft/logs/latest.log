@@ -103,3 +103,53 @@
 [29Apr2025 20:25:14.436] [Server thread/INFO] [tombstone/]: The player JJForever1764 has successfully been saved
 [29Apr2025 20:25:46.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported xTEricTx to JJForever1764]
 [29Apr2025 20:25:48.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[29Apr2025 20:27:28.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has reached the goal [I Am Become Death]
+[29Apr2025 20:28:41.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Century Egg]
+[29Apr2025 20:29:01.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported xTEricTx to JJForever1764]
+[29Apr2025 20:29:49.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[29Apr2025 20:30:02.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xTEricTx has made the advancement [The Big Red Button]
+[29Apr2025 20:30:08.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[29Apr2025 20:30:17.863] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/1425, l='ServerLevel[world]', x=143.24, y=118.90, z=-209.15] died, message: 'Armorer was reduced to atoms'
+[29Apr2025 20:30:17.865] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/1426, l='ServerLevel[world]', x=142.78, y=118.90, z=-209.80] died, message: 'Farmer became death, the destroyer of worlds'
+[29Apr2025 20:30:17.866] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/661, l='ServerLevel[world]', x=138.29, y=116.00, z=-175.42] died, message: 'Farmer was atomized'
+[29Apr2025 20:30:17.867] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/657, l='ServerLevel[world]', x=139.55, y=118.00, z=-141.44] died, message: 'Villager didn't duck and cover'
+[29Apr2025 20:30:17.868] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/654, l='ServerLevel[world]', x=139.38, y=113.88, z=-142.30] died, message: 'Cleric didn't duck and cover'
+[29Apr2025 20:30:17.869] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/658, l='ServerLevel[world]', x=147.54, y=114.00, z=-161.45] died, message: 'Farmer didn't duck and cover'
+[29Apr2025 20:30:17.870] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/653, l='ServerLevel[world]', x=157.78, y=120.00, z=-151.58] died, message: 'Weaponsmith was reduced to atoms'
+[29Apr2025 20:30:17.871] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/703, l='ServerLevel[world]', x=170.93, y=118.56, z=-149.83] died, message: 'Mason didn't duck and cover'
+[29Apr2025 20:30:17.875] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/1341, l='ServerLevel[world]', x=195.55, y=100.00, z=-151.52] died, message: 'Nitwit was reduced to atoms'
+[29Apr2025 20:30:17.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [The Folly of Man]
+[29Apr2025 20:30:17.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xTEricTx has made the advancement [The Folly of Man]
+[29Apr2025 20:30:21.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[29Apr2025 20:31:03.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[29Apr2025 20:31:06.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xTEricTx has made the advancement [Stone Age]
+[29Apr2025 20:31:54.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[29Apr2025 20:32:34.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[29Apr2025 20:32:35.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[29Apr2025 20:32:42.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has reached the goal [King of Monsters]
+[29Apr2025 20:33:06.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[29Apr2025 20:34:28.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[29Apr2025 20:34:52.959] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=475, y=62, z=-382} but found not block entity block Block{minecraft:water}[level=0] at location
+[29Apr2025 20:34:52.959] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=475, y=62, z=-382}
+[29Apr2025 20:34:52.960] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=475, y=61, z=-380} but found not block entity block Block{minecraft:water}[level=0] at location
+[29Apr2025 20:34:52.960] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=475, y=61, z=-380}
+[29Apr2025 20:34:52.960] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=475, y=62, z=-379} but found not block entity block Block{minecraft:water}[level=1] at location
+[29Apr2025 20:34:52.960] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=475, y=62, z=-379}
+[29Apr2025 20:34:52.960] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=475, y=61, z=-379} but found not block entity block Block{minecraft:water}[level=0] at location
+[29Apr2025 20:34:52.960] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=475, y=61, z=-379}
+[29Apr2025 20:34:52.961] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=475, y=62, z=-381} but found not block entity block Block{minecraft:water}[level=0] at location
+[29Apr2025 20:34:52.961] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=475, y=62, z=-381}
+[29Apr2025 20:34:52.961] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=475, y=62, z=-380} but found not block entity block Block{minecraft:water}[level=0] at location
+[29Apr2025 20:34:52.961] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=475, y=62, z=-380}
+[29Apr2025 20:34:52.961] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=475, y=60, z=-377} but found not block entity block Block{minecraft:water}[level=0] at location
+[29Apr2025 20:34:52.961] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=475, y=60, z=-377}
+[29Apr2025 20:34:52.962] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=475, y=61, z=-378} but found not block entity block Block{minecraft:water}[level=0] at location
+[29Apr2025 20:34:52.962] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=475, y=61, z=-378}
+[29Apr2025 20:35:36.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[29Apr2025 20:36:08.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xTEricTx was melted by a radioactive beam by Tremorzilla
+[29Apr2025 20:36:08.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xTEricTx has made the advancement [Your First Grave]
+[29Apr2025 20:36:08.174] [Server thread/INFO] [tombstone/]: The player xTEricTx has successfully been saved
+[29Apr2025 20:36:22.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Who You Gonna Call?]
+[29Apr2025 20:36:30.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xTEricTx has made the advancement [Knowledge of Death]
+[29Apr2025 20:36:30.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xTEricTx has reached the goal [Here They Come]
+[29Apr2025 20:36:35.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported xTEricTx to JJForever1764]
