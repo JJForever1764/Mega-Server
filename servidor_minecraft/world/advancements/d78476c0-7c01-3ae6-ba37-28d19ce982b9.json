@@ -26,6 +26,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cherry_grove": "2025-04-27 20:19:00 +0000",
+      "minecraft:river": "2025-04-29 20:34:56 +0000",
       "minecraft:meadow": "2025-04-27 20:40:25 +0000",
       "minecraft:plains": "2025-04-27 20:16:47 +0000"
     },
@@ -922,7 +923,8 @@
       "minecraft:spider": "2025-04-27 20:55:14 +0000",
       "minecraft:creeper": "2025-04-27 21:19:03 +0000",
       "minecraft:enderman": "2025-04-28 21:30:46 +0000",
-      "minecraft:zombie": "2025-04-27 20:56:21 +0000"
+      "minecraft:zombie": "2025-04-27 20:56:21 +0000",
+      "minecraft:drowned": "2025-04-29 20:36:08 +0000"
     },
     "done": false
   },
@@ -1232,6 +1234,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-04-29 20:32:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-29 20:32:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-29 20:32:37 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/tremorzilla_egg": {
     "criteria": {
       "quarry": "2025-04-29 20:28:41 +0000"
@@ -1241,6 +1261,66 @@
   "alexscaves:alexscaves/hatch_tremorzilla_egg": {
     "criteria": {
       "hatch_tremorzilla_egg": "2025-04-29 20:30:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-29 20:32:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-29 20:32:37 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tame_tremorzilla": {
+    "criteria": {
+      "killed": "2025-04-29 20:32:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-04-29 20:38:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-29 20:32:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-04-29 20:32:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-29 20:36:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-04-29 20:32:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-04-29 20:32:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-29 20:32:37 +0000"
     },
     "done": true
   },
