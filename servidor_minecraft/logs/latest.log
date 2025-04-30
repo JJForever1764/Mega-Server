@@ -1355,3 +1355,145 @@
 [30Apr2025 21:16:20.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Acquire Hardware]
 [30Apr2025 21:19:43.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xTEricTx has made the advancement [Acquire Hardware]
 [30Apr2025 21:19:50.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[30Apr2025 21:20:20.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 was shot by Supreme Bonescaller
+[30Apr2025 21:20:20.370] [Server thread/INFO] [tombstone/]: The player JJForever1764 has successfully been saved
+[30Apr2025 21:20:32.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has reached the goal [Chain Death]
+[30Apr2025 21:20:32.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 was slain by Bone Imp
+[30Apr2025 21:20:32.474] [Server thread/INFO] [tombstone/]: The player JJForever1764 has successfully been saved
+[30Apr2025 21:20:40.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[30Apr2025 21:20:58.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[30Apr2025 21:20:59.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has reached the goal [Senior Summoner]
+[30Apr2025 21:21:06.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xTEricTx has made the advancement [Monster Hunter]
+[30Apr2025 21:21:14.927] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=292, y=52, z=-228} but found not block entity block Block{minecraft:water}[level=0] at location
+[30Apr2025 21:21:14.927] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=292, y=52, z=-228}
+[30Apr2025 21:21:14.927] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=290, y=52, z=-225} but found not block entity block Block{minecraft:water}[level=0] at location
+[30Apr2025 21:21:14.928] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=290, y=52, z=-225}
+[30Apr2025 21:21:14.928] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=291, y=52, z=-226} but found not block entity block Block{minecraft:water}[level=0] at location
+[30Apr2025 21:21:14.928] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=291, y=52, z=-226}
+[30Apr2025 21:21:14.928] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=292, y=52, z=-227} but found not block entity block Block{minecraft:water}[level=8] at location
+[30Apr2025 21:21:14.928] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=292, y=52, z=-227}
+[30Apr2025 21:21:14.928] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=292, y=51, z=-227} but found not block entity block Block{minecraft:water}[level=8] at location
+[30Apr2025 21:21:14.928] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=292, y=51, z=-227}
+[30Apr2025 21:21:14.929] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=291, y=52, z=-225} but found not block entity block Block{minecraft:water}[level=8] at location
+[30Apr2025 21:21:14.929] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=291, y=52, z=-225}
+[30Apr2025 21:21:14.929] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=291, y=51, z=-225} but found not block entity block Block{minecraft:water}[level=8] at location
+[30Apr2025 21:21:14.929] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=291, y=51, z=-225}
+[30Apr2025 21:21:14.929] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=292, y=51, z=-226} but found not block entity block Block{minecraft:water}[level=8] at location
+[30Apr2025 21:21:14.929] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=292, y=51, z=-226}
+[30Apr2025 21:21:14.929] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=292, y=51, z=-225} but found not block entity block Block{minecraft:water}[level=8] at location
+[30Apr2025 21:21:14.929] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=292, y=51, z=-225}
+[30Apr2025 21:21:14.996] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=290, y=52, z=-224} but found not block entity block Block{minecraft:water}[level=0] at location
+[30Apr2025 21:21:14.996] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=290, y=52, z=-224}
+[30Apr2025 21:22:04.929] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=339, y=33, z=-327} but found not block entity block Block{minecraft:water}[level=0] at location
+[30Apr2025 21:22:04.929] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=339, y=33, z=-327}
+[30Apr2025 21:22:04.929] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=340, y=33, z=-328} but found not block entity block Block{minecraft:water}[level=0] at location
+[30Apr2025 21:22:04.930] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=340, y=33, z=-328}
+[30Apr2025 21:22:04.930] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=341, y=33, z=-329} but found not block entity block Block{minecraft:water}[level=0] at location
+[30Apr2025 21:22:04.930] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=341, y=33, z=-329}
+[30Apr2025 21:22:04.930] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=343, y=34, z=-330} but found not block entity block Block{minecraft:water}[level=8] at location
+[30Apr2025 21:22:04.930] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=343, y=34, z=-330}
+[30Apr2025 21:22:04.930] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=341, y=34, z=-329} but found not block entity block Block{minecraft:water}[level=8] at location
+[30Apr2025 21:22:04.930] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=341, y=34, z=-329}
+[30Apr2025 21:22:04.930] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=341, y=32, z=-327} but found not block entity block Block{minecraft:water}[level=8] at location
+[30Apr2025 21:22:04.931] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=341, y=32, z=-327}
+[30Apr2025 21:22:04.931] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=341, y=33, z=-327} but found not block entity block Block{minecraft:water}[level=8] at location
+[30Apr2025 21:22:04.931] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=341, y=33, z=-327}
+[30Apr2025 21:22:04.931] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=342, y=33, z=-328} but found not block entity block Block{minecraft:water}[level=8] at location
+[30Apr2025 21:22:04.931] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=342, y=33, z=-328}
+[30Apr2025 21:22:04.931] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=340, y=33, z=-327} but found not block entity block Block{minecraft:water}[level=0] at location
+[30Apr2025 21:22:04.931] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=340, y=33, z=-327}
+[30Apr2025 21:22:04.931] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=341, y=33, z=-328} but found not block entity block Block{minecraft:water}[level=0] at location
+[30Apr2025 21:22:04.931] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=341, y=33, z=-328}
+[30Apr2025 21:22:04.932] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=342, y=33, z=-329} but found not block entity block Block{minecraft:water}[level=8] at location
+[30Apr2025 21:22:04.932] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=342, y=33, z=-329}
+[30Apr2025 21:22:10.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[30Apr2025 21:23:44.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Isn't It Iron Pick]
+[30Apr2025 21:23:48.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[30Apr2025 21:24:00.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[30Apr2025 21:25:59.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to -192.500000, 77.500000, -256.500000]
+[30Apr2025 21:26:17.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to -63.500000, 70.500000, -323.500000]
+[30Apr2025 21:27:05.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[30Apr2025 21:29:20.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to 130.500000, 72.500000, -430.500000]
+[30Apr2025 21:29:24.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xTEricTx has made the advancement [Suit Up]
+[30Apr2025 21:30:03.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xTEricTx has made the advancement [Who You Gonna Call?]
+[30Apr2025 21:31:18.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[30Apr2025 21:31:30.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Hot Stuff]
+[30Apr2025 21:34:19.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xTEricTx has made the advancement [Not Today, Thank You]
+[30Apr2025 21:34:59.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported xTEricTx to JJForever1764]
+[30Apr2025 21:35:01.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[30Apr2025 21:38:09.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to 23.500000, 71.500000, -589.500000]
+[30Apr2025 21:39:11.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 was struck with lightning by Lightning Dragon
+[30Apr2025 21:39:11.474] [Server thread/INFO] [tombstone/]: The player JJForever1764 has successfully been saved
+[30Apr2025 21:39:27.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to 70.500000, 95.500000, -651.500000]
+[30Apr2025 21:39:30.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 was struck with lightning by Lightning Dragon
+[30Apr2025 21:39:30.622] [Server thread/INFO] [tombstone/]: The player JJForever1764 has successfully been saved
+[30Apr2025 21:39:40.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to 67.500000, 94.500000, -648.500000]
+[30Apr2025 21:39:41.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[30Apr2025 21:40:10.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [The Wind Darkening]
+[30Apr2025 21:42:09.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[30Apr2025 21:42:17.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 was struck with lightning by Lightning Dragon
+[30Apr2025 21:42:17.674] [Server thread/INFO] [tombstone/]: The player JJForever1764 has successfully been saved
+[30Apr2025 21:42:32.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Dragonslayer]
+[30Apr2025 21:42:35.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 was slain by Skeleton
+[30Apr2025 21:42:35.968] [Server thread/INFO] [tombstone/]: The player JJForever1764 has successfully been saved
+[30Apr2025 21:43:05.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 was slain by Skeleton
+[30Apr2025 21:43:05.621] [Server thread/INFO] [tombstone/]: The player JJForever1764 has successfully been saved
+[30Apr2025 21:45:15.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[30Apr2025 21:45:15.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xTEricTx was slain by Enderman
+[30Apr2025 21:45:15.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xTEricTx has made the advancement [Your First Grave]
+[30Apr2025 21:45:15.918] [Server thread/INFO] [tombstone/]: The player xTEricTx has successfully been saved
+[30Apr2025 21:46:39.929] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Danielbox123[/127.171.119.248:43935] logged in with entity id 18357 at (-61.5, 72.0, -62.5)
+[30Apr2025 21:46:39.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielbox123 joined the game
+[30Apr2025 21:46:39.973] [Server thread/INFO] [Jade/]: Syncing config to Danielbox123 (57a3bc5a-54c7-3db7-8559-ac3e24cbd946)
+[30Apr2025 21:46:40.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielbox123 has made the advancement [Ice and Fire]
+[30Apr2025 21:47:11.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[30Apr2025 21:47:20.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 was slain by Fire Dragon
+[30Apr2025 21:47:20.639] [Server thread/INFO] [tombstone/]: The player JJForever1764 has successfully been saved
+[30Apr2025 21:47:21.856] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Apr2025 21:47:27.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JJForever1764 moved too quickly! -9.923067040678838,0.0,-1.452904593417088
+[30Apr2025 21:47:27.809] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2811ms or 56 ticks behind
+[30Apr2025 21:48:07.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 was turned into KFC by Fire Dragon
+[30Apr2025 21:48:07.430] [Server thread/INFO] [tombstone/]: The player JJForever1764 has successfully been saved
+[30Apr2025 21:49:08.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Diamonds!]
+[30Apr2025 21:49:25.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Suit Up]
+[30Apr2025 21:49:37.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielbox123 has made the advancement [Acquire Hardware]
+[30Apr2025 21:49:53.071] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=52, y=66, z=-1109} BlockPos{x=51, y=65, z=-1109}
+[30Apr2025 21:50:25.652] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[30Apr2025 21:50:43.076] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=42, y=67, z=-1108} BlockPos{x=42, y=65, z=-1107}
+[30Apr2025 21:50:44.728] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=42, y=67, z=-1111} BlockPos{x=43, y=65, z=-1110}
+[30Apr2025 21:50:44.777] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=42, y=67, z=-1111} BlockPos{x=43, y=65, z=-1110}
+[30Apr2025 21:51:06.356] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Apr2025 21:51:08.861] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Apr2025 21:51:15.460] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Apr2025 21:51:31.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xTEricTx has made the advancement [Double Trouble]
+[30Apr2025 21:51:56.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 was blown up by Death Worm
+[30Apr2025 21:51:56.347] [Server thread/INFO] [tombstone/]: The player JJForever1764 has successfully been saved
+[30Apr2025 21:52:23.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xTEricTx was blown up by Creeper
+[30Apr2025 21:52:23.734] [Server thread/INFO] [tombstone/]: The player xTEricTx has successfully been saved
+[30Apr2025 21:54:27.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported Danielbox123 to JJForever1764]
+[30Apr2025 21:55:21.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 was slain by Zombie
+[30Apr2025 21:55:21.029] [Server thread/INFO] [tombstone/]: The player JJForever1764 has successfully been saved
+[30Apr2025 21:55:36.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to -67.500000, 67.500000, -877.500000]
+[30Apr2025 21:55:41.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Spectator Mode]
+[30Apr2025 21:55:43.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielbox123 was slain by Nightmare Stalker
+[30Apr2025 21:55:43.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielbox123 has made the advancement [Your First Grave]
+[30Apr2025 21:55:43.030] [Server thread/INFO] [tombstone/]: The player Danielbox123 has successfully been saved
+[30Apr2025 21:55:50.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> 7
+[30Apr2025 21:55:58.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set the time to 1000]
+[30Apr2025 21:56:07.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported Danielbox123 to JJForever1764]
+[30Apr2025 21:56:10.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[30Apr2025 21:57:15.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielbox123 has made the advancement [Isn't It Iron Pick]
+[30Apr2025 21:57:33.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to -230.500000, 71.500000, -708.500000]
+[30Apr2025 21:58:35.329] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-589, y=46, z=-575} but found not block entity block Block{minecraft:water}[level=8] at location
+[30Apr2025 21:58:35.329] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-589, y=46, z=-575}
+[30Apr2025 21:59:00.154] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_plains took 1173 ms
+[30Apr2025 21:59:17.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to -2175.500000, 105.000000, -463.500000]
+[30Apr2025 21:59:17.152] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10904ms or 218 ticks behind
+[30Apr2025 21:59:17.228] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danielbox123 moved too quickly! 9.285948657736043,-2.796735600668711,3.005154292996849
+[30Apr2025 21:59:17.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JJForever1764 moved too quickly! 0.0,-10.806526110008988,0.0
+[30Apr2025 21:59:17.390] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/30260, l='ServerLevel[world]', x=71.84, y=98.38, z=-1120.03]
+[30Apr2025 21:59:17.391] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/30264, l='ServerLevel[world]', x=69.78, y=99.08, z=-1120.10]
+[30Apr2025 21:59:24.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielbox123 has made the advancement [Ice Bucket Challenge]
+[30Apr2025 21:59:53.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xTEricTx has made the advancement [The Wind Darkening]
+[30Apr2025 22:00:04.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xTEricTx was caught by Necromancer's fangs
+[30Apr2025 22:00:04.553] [Server thread/INFO] [tombstone/]: The player xTEricTx has successfully been saved
