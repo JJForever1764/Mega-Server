@@ -2805,3 +2805,8 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [30Apr2025 10:12:46.203] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
 [30Apr2025 10:13:25.513] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/2972, l='ServerLevel[world]', x=248.46, y=64.00, z=119.47] died, message: 'Librarian was slain by Zombie'
 [30Apr2025 10:14:00.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Local Brewery]
+[30Apr2025 10:15:22.632] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Apr2025 10:15:22.639] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Apr2025 10:18:54.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has reached the goal [Zombie Doctor]
+[30Apr2025 10:20:22.632] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Apr2025 10:20:22.641] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
