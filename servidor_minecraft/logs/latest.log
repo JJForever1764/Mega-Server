@@ -1686,3 +1686,66 @@
 [30Apr2025 23:09:45.323] [Server thread/INFO] [tombstone/]: The player xTEricTx has successfully been saved
 [30Apr2025 23:10:17.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xTEricTx was slain by Fire Dragon
 [30Apr2025 23:10:17.622] [Server thread/INFO] [tombstone/]: The player xTEricTx has successfully been saved
+[30Apr2025 23:11:04.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xTEricTx was slain by Fire Dragon
+[30Apr2025 23:11:04.823] [Server thread/INFO] [tombstone/]: The player xTEricTx has successfully been saved
+[30Apr2025 23:11:20.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielbox123 has made the advancement [Cover Me with Diamonds]
+[30Apr2025 23:11:58.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[30Apr2025 23:12:00.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xTEricTx was doomed to fall by Fire Dragon
+[30Apr2025 23:12:00.147] [Server thread/INFO] [tombstone/]: The player xTEricTx has successfully been saved
+[30Apr2025 23:13:06.115] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/71300, l='ServerLevel[world]', x=-2174.87, y=68.00, z=-438.42] died, message: 'Librarian was slain by Zombie'
+[30Apr2025 23:15:12.051] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[30Apr2025 23:17:05.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has reached the goal [Zombie Doctor]
+[30Apr2025 23:18:01.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Spectator Mode]
+[30Apr2025 23:18:04.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> afk
+[30Apr2025 23:19:15.150] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[30Apr2025 23:20:36.115] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/78250, l='ServerLevel[world]', x=-2853.46, y=115.36, z=50.70] died, message: 'Unemployed was slain by Zombie'
+[30Apr2025 23:21:24.099] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[30Apr2025 23:21:38.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielbox123 was slain by Nightmare Stalker
+[30Apr2025 23:21:38.033] [Server thread/INFO] [tombstone/]: The player Danielbox123 has successfully been saved
+[30Apr2025 23:21:56.872] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JJForever1764 lost connection: Timed out
+[30Apr2025 23:21:56.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 left the game
+[30Apr2025 23:23:35.299] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[30Apr2025 23:24:25.688] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3200, y=36, z=8} but found not block entity block Block{minecraft:water}[level=8] at location
+[30Apr2025 23:24:25.688] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-3200, y=36, z=8}
+[30Apr2025 23:24:25.688] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3199, y=35, z=9} but found not block entity block Block{minecraft:water}[level=8] at location
+[30Apr2025 23:24:25.688] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-3199, y=35, z=9}
+[30Apr2025 23:24:27.134] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3201, y=37, z=7} but found not block entity block Block{minecraft:water}[level=8] at location
+[30Apr2025 23:24:27.134] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-3201, y=37, z=7}
+[30Apr2025 23:24:27.134] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3201, y=37, z=8} but found not block entity block Block{minecraft:water}[level=8] at location
+[30Apr2025 23:24:27.135] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-3201, y=37, z=8}
+[30Apr2025 23:24:27.135] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3203, y=39, z=7} but found not block entity block Block{minecraft:water}[level=8] at location
+[30Apr2025 23:24:27.135] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-3203, y=39, z=7}
+[30Apr2025 23:24:27.135] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3202, y=38, z=7} but found not block entity block Block{minecraft:water}[level=0] at location
+[30Apr2025 23:24:27.135] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-3202, y=38, z=7}
+[30Apr2025 23:25:30.751] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[30Apr2025 23:27:06.502] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[30Apr2025 23:27:11.953] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[30Apr2025 23:27:36.351] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[30Apr2025 23:27:39.600] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[30Apr2025 23:28:17.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xTEricTx has made the advancement [Best Friends Forever]
+[30Apr2025 23:28:40.227] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2757, y=-32, z=941} but found not block entity block Block{minecraft:lava}[level=2] at location
+[30Apr2025 23:28:40.227] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lava}[level=2] but failed at location BlockPos{x=-2757, y=-32, z=941}
+[30Apr2025 23:30:12.500] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[30Apr2025 23:30:44.649] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[30Apr2025 23:31:18.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xTEricTx was slain by Ice Dragon
+[30Apr2025 23:31:18.571] [Server thread/INFO] [tombstone/]: The player xTEricTx has successfully been saved
+[30Apr2025 23:31:46.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xTEricTx was slain by Ice Dragon
+[30Apr2025 23:31:46.931] [Server thread/INFO] [tombstone/]: The player xTEricTx has successfully been saved
+[30Apr2025 23:32:13.201] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[30Apr2025 23:32:41.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xTEricTx was turned to ice by Ice Dragon
+[30Apr2025 23:32:41.528] [Server thread/INFO] [tombstone/]: The player xTEricTx has successfully been saved
+[30Apr2025 23:33:01.150] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[30Apr2025 23:33:31.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xTEricTx was slain by Ice Dragon
+[30Apr2025 23:33:31.976] [Server thread/INFO] [tombstone/]: The player xTEricTx has successfully been saved
+[30Apr2025 23:33:59.486] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danielbox123 lost connection: Disconnected
+[30Apr2025 23:33:59.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielbox123 left the game
+[30Apr2025 23:34:54.556] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xTEricTx lost connection: Disconnected
+[30Apr2025 23:34:54.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xTEricTx left the game
+[30Apr2025 23:35:35.971] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JJForever1764[/127.125.156.34:58893] logged in with entity id 89117 at (-2172.2785963817137, 63.0, -451.4399535686677)
+[30Apr2025 23:35:35.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 joined the game
+[30Apr2025 23:35:35.989] [Server thread/INFO] [Jade/]: Syncing config to JJForever1764 (d78476c0-7c01-3ae6-ba37-28d19ce982b9)
+[30Apr2025 23:35:47.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[30Apr2025 23:37:25.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Ambush]
+[30Apr2025 23:37:33.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has reached the goal [Fortuitous Militia]
+[30Apr2025 23:37:33.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has reached the goal [Bone Crusher]
+[30Apr2025 23:41:10.350] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
