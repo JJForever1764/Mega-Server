@@ -184,3 +184,40 @@
 [02May2025 19:55:31.195] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
 [02May2025 20:03:49.845] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
 [02May2025 20:03:49.896] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[02May2025 20:11:40.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Lorem Ipsum]
+[02May2025 20:12:17.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [The Journey Begins]
+[02May2025 20:12:21.073] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:magnetic_caves at -2406 -56 3216 in 1s
+[02May2025 20:12:57.399] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xTEricTx[/127.221.210.13:41645] logged in with entity id 8760 at (-2184.698643325547, 43.0, 1190.554729999129)
+[02May2025 20:12:57.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xTEricTx joined the game
+[02May2025 20:12:57.426] [Server thread/INFO] [Jade/]: Syncing config to xTEricTx (322b665a-7d1a-3589-be1a-21d498555ae6)
+[02May2025 20:13:27.471] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xTEricTx lost connection: Timed out
+[02May2025 20:13:27.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xTEricTx left the game
+[02May2025 20:14:07.502] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:magnetic_caves at -2393 -56 3219 in 1s
+[02May2025 20:14:43.646] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[02May2025 20:15:24.773] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xTEricTx[/127.221.210.13:39669] logged in with entity id 9415 at (-2184.698643325547, 43.0, 1190.554729999129)
+[02May2025 20:15:24.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xTEricTx joined the game
+[02May2025 20:15:24.790] [Server thread/INFO] [Jade/]: Syncing config to xTEricTx (322b665a-7d1a-3589-be1a-21d498555ae6)
+[02May2025 20:19:17.248] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[02May2025 20:20:44.545] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[02May2025 20:22:09.747] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[02May2025 20:23:25.847] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[02May2025 20:23:30.496] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[02May2025 20:27:17.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: The difficulty has been set to Hard]
+[02May2025 20:31:17.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to xTEricTx]
+[02May2025 20:31:20.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[02May2025 20:31:53.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xTEricTx has made the advancement [Junior Summoner]
+[02May2025 20:32:38.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xTEricTx has made the advancement [The Journey Begins]
+[02May2025 20:32:56.961] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/15748, l='ServerLevel[world]', x=-3137.39, y=83.35, z=946.43]
+[02May2025 20:32:56.962] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/15749, l='ServerLevel[world]', x=-3138.58, y=82.81, z=946.70]
+[02May2025 20:32:56.962] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/15750, l='ServerLevel[world]', x=-3136.37, y=83.35, z=941.94]
+[02May2025 20:32:56.962] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/15751, l='ServerLevel[world]', x=-3137.34, y=82.81, z=941.21]
+[02May2025 20:32:56.963] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/15752, l='ServerLevel[world]', x=-3136.95, y=83.62, z=943.08]
+[02May2025 20:32:56.963] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/15753, l='ServerLevel[world]', x=-3137.72, y=83.22, z=942.33]
+[02May2025 20:32:56.963] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/15754, l='ServerLevel[world]', x=-3138.39, y=82.94, z=941.66]
+[02May2025 20:32:56.963] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/15755, l='ServerLevel[world]', x=-3139.26, y=82.68, z=940.81]
+[02May2025 20:34:08.680] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JJForever1764 moved too quickly! 7.5027644208821584,1.1955949591606796,6.741428158320559
+[02May2025 20:34:41.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to -2701.500000, 78.500000, 1163.500000]
+[02May2025 20:34:44.245] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[02May2025 20:35:31.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to -2641.500000, 63.500000, 1176.500000]
+[02May2025 20:35:55.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[02May2025 20:36:19.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
