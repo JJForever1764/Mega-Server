@@ -46,6 +46,7 @@
       "minecraft:ocean": "2025-05-02 20:50:06 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-05-02 01:39:11 +0000",
       "minecraft:snowy_beach": "2025-04-30 23:24:22 +0000",
+      "minecraft:flower_forest": "2025-05-02 21:30:49 +0000",
       "minecraft:meadow": "2025-04-30 22:37:36 +0000",
       "minecraft:savanna": "2025-04-30 21:02:37 +0000",
       "minecraft:plains": "2025-04-30 21:11:20 +0000"
@@ -758,7 +759,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-05-02 21:24:48 +0000",
       "minecraft:skeleton": "2025-04-30 22:08:19 +0000",
+      "minecraft:vindicator": "2025-05-02 21:25:00 +0000",
       "minecraft:spider": "2025-05-02 01:03:17 +0000",
       "minecraft:creeper": "2025-04-30 22:07:52 +0000",
       "minecraft:enderman": "2025-04-30 21:47:22 +0000",
@@ -3185,6 +3188,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-02 21:29:08 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/alarm": {
     "criteria": {
       "has_redstone": "2025-05-02 21:08:37 +0000"
@@ -3209,9 +3218,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-02 21:25:42 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_bronze_chestplate": {
     "criteria": {
       "has_item": "2025-05-02 20:31:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/use_tide_trident": {
+    "criteria": {
+      "shot_arrow": "2025-05-02 21:42:39 +0000"
     },
     "done": true
   },
@@ -3239,15 +3260,51 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
+    "criteria": {
+      "has_dragonscales_bronze": "2025-05-02 21:23:47 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_siren": {
     "criteria": {
       "killed_fire_dragon": "2025-05-02 20:42:22 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-05-02 21:23:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-05-02 21:23:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-05-02 21:32:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-02 21:25:42 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_piston": {
     "criteria": {
       "has_redstone": "2025-05-02 21:08:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-02 21:29:08 +0000"
     },
     "done": true
   },
@@ -3272,6 +3329,12 @@
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-05-02 21:08:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-05-02 21:44:58 +0000"
     },
     "done": true
   },
@@ -3311,6 +3374,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-05-02 21:44:58 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-05-02 21:24:48 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/keypad_frame": {
     "criteria": {
       "has_redstone": "2025-05-02 21:08:37 +0000"
@@ -3329,6 +3404,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_6": "2025-05-02 21:40:04 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-05-02 21:08:37 +0000"
@@ -3344,6 +3425,12 @@
   "iceandfire:recipes/combat/armor_red_leggings": {
     "criteria": {
       "has_item": "2025-05-02 21:04:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-05-02 21:44:58 +0000"
     },
     "done": true
   },
@@ -3365,15 +3452,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-02 21:29:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-05-02 21:08:37 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-05-02 21:44:58 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/universal_block_modifier": {
     "criteria": {
       "has_redstone": "2025-05-02 21:08:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-02 21:23:47 +0000"
     },
     "done": true
   },
@@ -3386,6 +3491,12 @@
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2025-05-02 20:42:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-05-02 21:23:47 +0000"
     },
     "done": true
   },
