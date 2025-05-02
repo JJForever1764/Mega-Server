@@ -172,3 +172,5 @@
 [02May2025 19:32:47.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Once Upon a Cave]
 [02May2025 19:33:23.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [It Belongs in a Museum]
 [02May2025 19:34:44.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to -2168.500000, 71.500000, -445.500000]
+[02May2025 19:37:10.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[02May2025 19:41:44.300] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/3072, l='ServerLevel[world]', x=-2149.30, y=79.88, z=-455.52] died, message: 'Librarian burned to death'
