@@ -3345,3 +3345,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [03May2025 17:50:23.286] [Server thread/DEBUG] [mixin/]: Mixing boat.VanillaInventoryCodeHooksMixin from securitycraft.mixins.json into net.minecraftforge.items.VanillaInventoryCodeHooks
 [03May2025 17:50:23.286] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0(Lnet/geforcemods/securitycraft/entity/SecuritySeaBoat;Lnet/minecraftforge/items/IItemHandler;)Lorg/apache/commons/lang3/tuple/Pair; to md7c105e$lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0$0 in securitycraft.mixins.json:boat.VanillaInventoryCodeHooksMixin
 [03May2025 17:51:56.376] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[03May2025 17:52:44.506] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 17:52:44.516] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 17:56:34.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Spectator Mode]
+[03May2025 17:56:49.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[03May2025 17:57:44.505] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 17:57:44.514] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 17:58:08.875] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
