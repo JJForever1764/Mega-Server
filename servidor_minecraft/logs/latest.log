@@ -166,3 +166,8 @@
 [03May2025 17:23:59.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
 [03May2025 17:27:55.136] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
 [03May2025 17:28:46.175] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[03May2025 17:38:19.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[03May2025 17:38:51.175] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[03May2025 17:39:05.085] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/764, l='ServerLevel[world]', x=-2176.95, y=72.90, z=-447.45] died, message: 'Nitwit was slain by Zombie'
+[03May2025 17:39:12.579] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/763, l='ServerLevel[world]', x=-2177.56, y=72.90, z=-447.96] died, message: 'Armorer was slain by Zombie'
+[03May2025 17:41:21.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Tech-It]
