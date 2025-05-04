@@ -42,12 +42,15 @@
       "minecraft:lush_caves": "2025-05-02 01:34:43 +0000",
       "minecraft:frozen_ocean": "2025-04-30 23:24:35 +0000",
       "minecraft:deep_frozen_ocean": "2025-05-02 20:29:45 +0000",
+      "minecraft:windswept_forest": "2025-05-04 20:35:30 +0000",
       "minecraft:jungle": "2025-04-30 22:06:26 +0000",
       "minecraft:ocean": "2025-05-02 20:50:06 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-05-02 01:39:11 +0000",
       "minecraft:snowy_beach": "2025-04-30 23:24:22 +0000",
+      "minecraft:windswept_savanna": "2025-05-04 20:24:09 +0000",
       "minecraft:flower_forest": "2025-05-02 21:30:49 +0000",
       "minecraft:meadow": "2025-04-30 22:37:36 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-05-04 20:29:54 +0000",
       "minecraft:savanna": "2025-04-30 21:02:37 +0000",
       "minecraft:plains": "2025-04-30 21:11:20 +0000"
     },
@@ -4377,6 +4380,102 @@
       "helmet": "2025-05-03 22:33:46 +0000"
     },
     "done": false
+  },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_by_vallumraptor": "2025-05-04 21:16:46 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tree_star": {
+    "criteria": {
+      "tree_star": "2025-05-04 21:32:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2025-05-04 21:04:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2025-05-04 21:04:19 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/summon_luxtructosaurus": {
+    "criteria": {
+      "summon_luxtructosaurus": "2025-05-04 21:36:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2025-05-04 20:54:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2025-05-04 21:07:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-04 21:29:45 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-05-04 21:14:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-05-04 21:29:45 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/limestone": {
+    "criteria": {
+      "limestone": "2025-05-04 21:19:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-05-04 21:29:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-05-04 21:29:45 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/primitive_club": {
+    "criteria": {
+      "limestone": "2025-05-04 21:30:13 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_big_dinosaur": {
+    "criteria": {
+      "killed_relicheirus": "2025-05-04 21:26:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-04 21:29:45 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
