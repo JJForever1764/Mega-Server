@@ -4978,3 +4978,264 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [05May2025 23:18:33.019] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05May2025 23:18:46.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
 [05May2025 23:19:00.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xTEricTx> usa eso
+[05May2025 23:19:37.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> haz crecer el dragon
+[05May2025 23:19:45.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xTEricTx> no hay comida
+[05May2025 23:19:59.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xTEricTx> no hay plata
+[05May2025 23:20:09.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> en el cofre esta xd
+[05May2025 23:20:50.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xTEricTx> mira q tengo
+[05May2025 23:20:53.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xTEricTx> de tantos diamantes
+[05May2025 23:20:59.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> esa cosa xd
+[05May2025 23:21:07.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> ya quedo obsoleto
+[05May2025 23:21:19.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> lo mas nuevo es el enchanting infuser
+[05May2025 23:21:39.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xTEricTx> si no es el de netherite no p
+[05May2025 23:21:49.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> ya tengo el netherite xd
+[05May2025 23:21:53.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xTEricTx> el de aca medio bodrio
+[05May2025 23:21:57.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> te alquilo pero hay un costo
+[05May2025 23:22:17.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xTEricTx> no sirve si tengo este p
+[05May2025 23:22:17.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> ala
+[05May2025 23:22:38.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> o mira xdd
+[05May2025 23:23:07.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xTEricTx> ya mucho server
+[05May2025 23:23:18.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> godzilla crecio
+[05May2025 23:23:29.610] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[05May2025 23:23:30.426] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xTEricTx lost connection: Disconnected
+[05May2025 23:23:30.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xTEricTx left the game
+[05May2025 23:23:33.003] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 23:23:33.011] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 23:25:27.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Spectator Mode]
+[05May2025 23:25:43.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[05May2025 23:27:38.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.5076115206375107
+[05May2025 23:27:38.138] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.9985359625470664
+[05May2025 23:27:38.199] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.4689299724832381
+[05May2025 23:27:38.278] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.9163818683132376
+[05May2025 23:27:38.331] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.42322998556801394
+[05May2025 23:27:38.347] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.4021343730923945
+[05May2025 23:27:38.427] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.38559541291124333
+[05May2025 23:27:38.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.7582242810408388
+[05May2025 23:27:38.494] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.35051407480113994
+[05May2025 23:27:44.513] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[05May2025 23:27:51.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.2780551569421732
+[05May2025 23:27:51.879] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.49820142090902664
+[05May2025 23:27:51.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.8909423558261551
+[05May2025 23:27:51.940] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.4189975127683283
+[05May2025 23:27:51.988] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 2.053139019777973
+[05May2025 23:27:52.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.4673132054626876
+[05May2025 23:27:52.129] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.5325198170498879
+[05May2025 23:27:52.138] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.3661616175841118
+[05May2025 23:27:52.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.623721435585594
+[05May2025 23:27:52.237] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.5288653050520224
+[05May2025 23:27:52.322] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.6797790576288207
+[05May2025 23:27:52.344] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.6990930451479471
+[05May2025 23:27:52.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.7142352113628476
+[05May2025 23:27:52.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.7261066696755734
+[05May2025 23:27:52.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.7115205626682837
+[05May2025 23:27:52.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 2.7042313187416767
+[05May2025 23:27:52.622] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.7484314967286991
+[05May2025 23:27:52.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.7529165574023864
+[05May2025 23:27:52.695] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.7593494023726635
+[05May2025 23:27:52.739] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.7591896144240309
+[05May2025 23:27:52.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.770540536099361
+[05May2025 23:27:52.844] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.7630453865604068
+[05May2025 23:27:52.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.7638617044217426
+[05May2025 23:27:52.973] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.7645016976248371
+[05May2025 23:27:53.026] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.7650034522962414
+[05May2025 23:27:53.042] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.7804002802549803
+[05May2025 23:27:53.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.7654379199243522
+[05May2025 23:27:53.146] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.7806467415343832
+[05May2025 23:27:53.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.7644920840407394
+[05May2025 23:27:53.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.7639301617859928
+[05May2025 23:27:53.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.7771438402778585
+[05May2025 23:27:53.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.762651955588808
+[05May2025 23:27:53.422] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.774863520422059
+[05May2025 23:27:53.472] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.761596614714108
+[05May2025 23:27:53.489] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.7611144938205143
+[05May2025 23:27:53.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.75729501140313
+[05May2025 23:27:53.626] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.7465167181499055
+[05May2025 23:27:53.653] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.728612032321962
+[05May2025 23:27:53.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.6773677960491113
+[05May2025 23:27:53.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.6684225199278444
+[05May2025 23:27:53.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.6399207872423176
+[05May2025 23:27:53.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.6156748682992657
+[05May2025 23:27:53.924] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.4620644294745944
+[05May2025 23:27:53.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 2.293334309864349
+[05May2025 23:27:54.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.5694160506541266
+[05May2025 23:27:54.039] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.3795386987953862
+[05May2025 23:27:54.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.55283662057127
+[05May2025 23:27:54.146] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.5473090960440459
+[05May2025 23:27:54.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.5439042512020933
+[05May2025 23:27:54.273] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.5424566329061236
+[05May2025 23:27:54.326] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.3349526777601568
+[05May2025 23:27:54.348] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.5501306956612098
+[05May2025 23:27:54.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.365388857664584
+[05May2025 23:27:54.472] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.5893857380528971
+[05May2025 23:27:54.488] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.6192356285046117
+[05May2025 23:27:54.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.651465152349374
+[05May2025 23:27:54.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.5819250945833119
+[05May2025 23:27:54.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.7053989772871319
+[05May2025 23:27:54.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.725150825543551
+[05May2025 23:27:54.738] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.7159846140039008
+[05May2025 23:27:54.823] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.753523880641751
+[05May2025 23:27:54.841] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.7669967935539717
+[05May2025 23:27:54.926] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.7714699493931221
+[05May2025 23:27:54.973] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.7795528031697359
+[05May2025 23:27:55.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.8192661795937966
+[05May2025 23:27:55.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.7535110173453177
+[05May2025 23:27:55.129] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.5402636549438284
+[05May2025 23:27:55.138] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.36681406787738524
+[05May2025 23:27:55.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.3711386761556241
+[05May2025 23:27:55.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.35348993224874903
+[05May2025 23:27:55.738] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.5977818435342215
+[05May2025 23:27:55.823] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.033598613267543
+[05May2025 23:28:01.239] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.6537441418731191
+[05May2025 23:28:01.295] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.8986809291477584
+[05May2025 23:28:01.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.3356481576457213
+[05May2025 23:28:01.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.9231672520627967
+[05May2025 23:28:01.472] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.4217397559308438
+[05May2025 23:28:01.493] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.514277363629219
+[05May2025 23:28:01.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.5868268480647316
+[05May2025 23:28:01.589] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.6430096682544786
+[05May2025 23:28:01.670] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.5410037601961903
+[05May2025 23:28:01.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.526404804207516
+[05May2025 23:28:01.773] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.2276552193519024
+[05May2025 23:28:01.823] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.3096069362605931
+[05May2025 23:28:01.889] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.6759052886068275
+[05May2025 23:28:02.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.27008475377624563
+[05May2025 23:28:02.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.0308596915156159
+[05May2025 23:28:02.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.8597385506291175
+[05May2025 23:28:02.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.742010884100182
+[05May2025 23:28:02.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.5203098800552652
+[05May2025 23:28:02.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.5531284994299313
+[05May2025 23:28:02.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.5788582970194511
+[05May2025 23:28:02.971] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.5990304583297075
+[05May2025 23:28:03.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.6176988284391882
+[05May2025 23:28:03.073] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.627244372779387
+[05May2025 23:28:03.096] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.668032451817453
+[05May2025 23:28:03.142] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.6445862245795979
+[05May2025 23:28:03.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.6505611535371827
+[05May2025 23:28:03.273] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.6552454978395872
+[05May2025 23:28:03.322] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.6589180237729124
+[05May2025 23:28:03.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.6632992952522727
+[05May2025 23:28:03.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.734818429376901
+[05May2025 23:28:03.447] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.6714118878244335
+[05May2025 23:28:03.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.6740460532619181
+[05May2025 23:28:03.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.675893874157282
+[05May2025 23:28:03.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.6772394418744625
+[05May2025 23:28:03.672] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.7593567461517523
+[05May2025 23:28:03.724] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.6791214282357032
+[05May2025 23:28:03.771] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.6797698442719593
+[05May2025 23:28:03.824] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.7638709840289266
+[05May2025 23:28:03.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.6801930432029621
+[05May2025 23:28:03.924] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.5750234474935496
+[05May2025 23:28:03.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.41197427042743584
+[05May2025 23:28:04.025] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.3094337672442549
+[05May2025 23:28:04.051] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.158295979479726
+[05May2025 23:28:04.098] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.35325186087085936
+[05May2025 23:28:04.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.41318265043112107
+[05May2025 23:28:04.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.46834349704846545
+[05May2025 23:28:04.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.5126521453935311
+[05May2025 23:28:04.326] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.5473901256960971
+[05May2025 23:28:04.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.5746247022533453
+[05May2025 23:28:04.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.5748423662673152
+[05May2025 23:28:04.473] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.6127165061625419
+[05May2025 23:28:04.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.6258405845389916
+[05May2025 23:28:04.546] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.6596585793101153
+[05May2025 23:28:04.625] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.6441966555047429
+[05May2025 23:28:04.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.6911510861119896
+[05May2025 23:28:04.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.6554793246602344
+[05May2025 23:28:04.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.6593666342412234
+[05May2025 23:28:04.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.7175764817150132
+[05May2025 23:28:04.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.6645199683680971
+[05May2025 23:28:04.928] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.6646234755278329
+[05May2025 23:28:04.937] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.724225053900998
+[05May2025 23:28:05.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.6583842184045352
+[05May2025 23:28:05.042] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.7077891907070222
+[05May2025 23:28:05.092] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.6300561814866228
+[05May2025 23:28:05.174] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.606803126185639
+[05May2025 23:28:05.199] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.6416407039154544
+[05May2025 23:28:05.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.5601193643114512
+[05May2025 23:28:05.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.5430386087470386
+[05May2025 23:28:05.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.5952090927860412
+[05May2025 23:28:05.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.5256573558963663
+[05May2025 23:28:05.476] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.5216827225826909
+[05May2025 23:28:05.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.5200063731756556
+[05May2025 23:28:05.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.5195866200138185
+[05May2025 23:28:05.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.5963650770670648
+[05May2025 23:28:05.681] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.5203220249172101
+[05May2025 23:28:05.726] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.5209317926363572
+[05May2025 23:28:05.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.5215369948965907
+[05May2025 23:28:05.822] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.5220893526423749
+[05May2025 23:28:05.872] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.5222725151506877
+[05May2025 23:28:05.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.5182873409639253
+[05May2025 23:28:05.974] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.5121478246708209
+[05May2025 23:28:06.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.5121687227357391
+[05May2025 23:28:06.073] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.575484036505528
+[05May2025 23:28:06.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.5339350826909429
+[05May2025 23:28:06.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.5486491328961008
+[05May2025 23:28:06.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.5634613690059626
+[05May2025 23:28:06.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.5808616784971565
+[05May2025 23:28:06.288] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.626424145970698
+[05May2025 23:28:06.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.6158998753858214
+[05May2025 23:28:06.404] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.6170529240980613
+[05May2025 23:28:06.473] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.6117118502329504
+[05May2025 23:28:06.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.6012122051538427
+[05May2025 23:28:06.537] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.5889714694694703
+[05May2025 23:28:06.621] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.5520629351381103
+[05May2025 23:28:06.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.469770111091293
+[05May2025 23:28:06.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 2.3480867006323933
+[05May2025 23:28:06.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.604523672069206
+[05May2025 23:28:07.112] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[05May2025 23:28:08.495] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.5854600714942535
+[05May2025 23:28:08.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.9563799835540294
+[05May2025 23:28:08.621] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.203233475203774
+[05May2025 23:28:08.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.3808290695913001
+[05May2025 23:28:13.892] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.75
+[05May2025 23:28:13.938] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.75
+[05May2025 23:28:13.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.9780689553545017
+[05May2025 23:28:14.050] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.0
+[05May2025 23:28:14.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.2980615208934978
+[05May2025 23:28:14.174] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.956840236957305
+[05May2025 23:28:14.227] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.49574824391083894
+[05May2025 23:28:14.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.5639323537429846
+[05May2025 23:28:14.295] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.4313210495943167
+[05May2025 23:28:14.375] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.6592984680642076
+[05May2025 23:28:14.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.6921557294790546
+[05May2025 23:28:14.472] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.7179158224284947
+[05May2025 23:28:14.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.738111735300663
+[05May2025 23:28:14.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.7420570662930004
+[05May2025 23:28:14.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.763658639746609
+[05May2025 23:28:14.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.762245699077539
+[05May2025 23:28:14.724] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.7582556864317667
+[05May2025 23:28:14.771] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.7551275165174047
+[05May2025 23:28:14.824] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.7526750313045341
+[05May2025 23:28:14.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.7507522828977926
+[05May2025 23:28:14.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.7492448481466454
+[05May2025 23:28:14.972] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.7426770824636151
+[05May2025 23:28:15.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.7319292367396883
+[05May2025 23:28:15.076] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.71780280873827
+[05May2025 23:28:15.129] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.7047190449006848
+[05May2025 23:28:15.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.6944613740520253
+[05May2025 23:28:15.228] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.6457726286184879
+[05May2025 23:28:15.259] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.6076006521989257
+[05May2025 23:28:15.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.5776738226859379
+[05May2025 23:28:15.372] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.5542111883473808
+[05May2025 23:28:15.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.3400276713737185
+[05May2025 23:28:15.475] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.5213950340544216
+[05May2025 23:28:15.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.2814836521151847
+[05May2025 23:28:15.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.5012243879214111
+[05May2025 23:28:15.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.4942748314920209
+[05May2025 23:28:15.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.48524148879596396
+[05May2025 23:28:15.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.42142256885563256
+[05May2025 23:28:15.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.32529800282827637
+[05May2025 23:28:20.262] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[05May2025 23:28:21.911] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[05May2025 23:28:33.058] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 23:28:33.068] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 23:28:44.537] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.0108757608865915
+[05May2025 23:28:44.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 2.014562475659318
+[05May2025 23:28:44.672] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 2.9981223789692706
+[05May2025 23:28:44.695] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 3.9259100226054784
+[05May2025 23:28:44.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 4.740000863916379
+[05May2025 23:28:44.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.62972536694474
+[05May2025 23:28:44.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.4851828350416838
+[05May2025 23:28:44.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.37186149002968705
+[05May2025 23:28:44.971] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.2830175555402832
+[05May2025 23:29:01.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Voluntary Exile]
