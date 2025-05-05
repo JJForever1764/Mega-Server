@@ -3058,9 +3058,10 @@
   "alexscaves:alexscaves/eat_radiation_foods": {
     "criteria": {
       "slam": "2025-05-03 22:19:45 +0000",
+      "green_soylent": "2025-05-05 22:30:03 +0000",
       "spelunkie": "2025-05-03 22:19:54 +0000"
     },
-    "done": false
+    "done": true
   },
   "alexscaves:alexscaves/radon_bottle": {
     "criteria": {
@@ -3884,6 +3885,36 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
     "criteria": {
       "has_polished_deepslate": "2025-05-04 22:50:39 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/nuclear_bomb": {
+    "criteria": {
+      "nuclear_bomb": "2025-05-05 22:33:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-05-05 22:53:24 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/tools/phasometer": {
+    "criteria": {
+      "has_spyglass": "2025-05-05 22:51:57 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_nucleeper": {
+    "criteria": {
+      "killed": "2025-05-05 22:29:02 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_brainiac": {
+    "criteria": {
+      "killed": "2025-05-05 22:29:32 +0000"
     },
     "done": true
   },
