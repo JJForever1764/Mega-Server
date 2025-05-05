@@ -4335,3 +4335,43 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [05May2025 22:06:37.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xTEricTx joined the game
 [05May2025 22:06:37.265] [Server thread/INFO] [Jade/]: Syncing config to xTEricTx (322b665a-7d1a-3589-be1a-21d498555ae6)
 [05May2025 22:07:02.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[05May2025 22:07:23.467] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 22:07:23.477] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 22:07:50.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[05May2025 22:07:58.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[05May2025 22:08:47.168] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[05May2025 22:10:14.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Devorador de Mundos (vehicle of JJForever1764) moved wrongly! 0.5504739170976336
+[05May2025 22:10:14.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Devorador de Mundos (vehicle of JJForever1764) moved wrongly! 1.4956885710179222
+[05May2025 22:10:14.456] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Devorador de Mundos (vehicle of JJForever1764) moved wrongly! 2.0
+[05May2025 22:10:14.499] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Devorador de Mundos (vehicle of JJForever1764) moved wrongly! 2.0
+[05May2025 22:10:47.635] [Worker-Main-40/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[05May2025 22:10:49.146] [Worker-Main-39/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[05May2025 22:10:49.574] [Worker-Main-51/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation COUNTERCLOCKWISE_90 at (-1012 | 28 | 33)
+[05May2025 22:10:49.594] [Worker-Main-51/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation COUNTERCLOCKWISE_90 at (-1012 | 28 | 33)
+[05May2025 22:10:54.899] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (-977 | 46 | 43)
+[05May2025 22:10:54.901] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (-977 | 46 | 43)
+[05May2025 22:10:54.902] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation COUNTERCLOCKWISE_90 at (-977 | 46 | 32)
+[05May2025 22:10:54.902] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation COUNTERCLOCKWISE_90 at (-977 | 46 | 32)
+[05May2025 22:10:54.913] [Worker-Main-41/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation COUNTERCLOCKWISE_90 at (-977 | 46 | 32)
+[05May2025 22:10:54.914] [Worker-Main-41/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation COUNTERCLOCKWISE_90 at (-977 | 46 | 32)
+[05May2025 22:10:54.914] [Worker-Main-41/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (-977 | 46 | 59)
+[05May2025 22:10:54.914] [Worker-Main-41/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (-977 | 46 | 59)
+[05May2025 22:11:50.714] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[05May2025 22:12:23.452] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 22:12:23.459] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 22:12:33.062] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[05May2025 22:12:35.565] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[05May2025 22:12:47.513] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[05May2025 22:14:02.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[05May2025 22:15:06.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> sobri quieres ver como eclosiono a godzilla?
+[05May2025 22:15:13.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to -2168.500000, 71.500000, -445.500000]
+[05May2025 22:15:20.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xTEricTx> tepea a la aldea p
+[05May2025 22:15:30.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> asi tovadia
+[05May2025 22:15:30.577] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[05May2025 22:15:37.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[05May2025 22:15:40.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported xTEricTx to JJForever1764]
+[05May2025 22:15:48.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> mira
+[05May2025 22:16:34.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[05May2025 22:16:58.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[05May2025 22:17:23.423] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 22:17:23.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

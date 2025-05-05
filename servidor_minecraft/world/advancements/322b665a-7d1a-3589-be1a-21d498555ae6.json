@@ -2041,21 +2041,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
-    "criteria": {
-      "has_wheat": "2025-05-02 00:44:52 +0000"
-    },
-    "done": true
-  },
   "witherstormmod:recipes/food/golden_apple_stew": {
     "criteria": {
       "has_golden_apple": "2025-05-02 00:44:52 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/sc_manual": {
-    "criteria": {
-      "has_wood": "2025-05-02 00:44:52 +0000"
     },
     "done": true
   },
@@ -2065,207 +2053,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/sentry": {
-    "criteria": {
-      "has_iron": "2025-05-02 00:45:45 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/blacklist_module": {
-    "criteria": {
-      "has_iron": "2025-05-02 00:45:45 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/limited_use_keycard": {
-    "criteria": {
-      "has_iron": "2025-05-02 00:45:45 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/bouncing_betty": {
-    "criteria": {
-      "has_iron": "2025-05-02 00:45:45 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/disguise_module": {
-    "criteria": {
-      "has_iron": "2025-05-02 00:45:45 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/block_change_detector": {
-    "criteria": {
-      "has_iron": "2025-05-02 00:45:45 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/floor_trap": {
-    "criteria": {
-      "has_iron": "2025-05-02 00:45:45 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/storage_module": {
-    "criteria": {
-      "has_iron": "2025-05-02 00:45:45 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/transportation/track_mine": {
-    "criteria": {
-      "has_iron": "2025-05-02 00:45:45 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/whitelist_module": {
-    "criteria": {
-      "has_iron": "2025-05-02 00:45:45 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/security_camera": {
-    "criteria": {
-      "has_iron": "2025-05-02 00:45:45 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/briefcase": {
-    "criteria": {
-      "has_iron": "2025-05-02 00:45:45 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_fence_gate": {
-    "criteria": {
-      "has_iron": "2025-05-02 00:45:45 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/electrified_iron_fence": {
-    "criteria": {
-      "has_iron": "2025-05-02 00:45:45 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/keycard_lv5": {
-    "criteria": {
-      "has_iron": "2025-05-02 00:45:45 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/keycard_lv3": {
-    "criteria": {
-      "has_iron": "2025-05-02 00:45:45 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/keycard_lv4": {
-    "criteria": {
-      "has_iron": "2025-05-02 00:45:45 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/keycard_lv1": {
-    "criteria": {
-      "has_iron": "2025-05-02 00:45:45 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/keycard_lv2": {
-    "criteria": {
-      "has_iron": "2025-05-02 00:45:45 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/mine": {
-    "criteria": {
-      "has_iron": "2025-05-02 00:45:45 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/harming_module": {
-    "criteria": {
-      "has_iron": "2025-05-02 00:45:45 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/smart_module": {
-    "criteria": {
-      "has_iron": "2025-05-02 00:45:45 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/trophy_system": {
-    "criteria": {
-      "has_iron": "2025-05-02 00:45:45 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/speed_module": {
-    "criteria": {
-      "has_iron": "2025-05-02 00:45:45 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/camera_monitor": {
-    "criteria": {
-      "has_iron": "2025-05-02 00:45:45 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/redstone_module": {
-    "criteria": {
-      "has_iron": "2025-05-02 00:45:45 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/door_indestructible_iron_item": {
-    "criteria": {
-      "has_iron": "2025-05-02 00:45:45 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/tools/universal_block_remover": {
-    "criteria": {
-      "has_iron": "2025-05-02 00:45:45 +0000"
-    },
-    "done": true
-  },
   "mutantmonsters:root": {
     "criteria": {
       "killed_something": "2025-05-02 00:47:22 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/laser_block": {
-    "criteria": {
-      "has_stone": "2025-05-02 00:49:13 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_diorite": {
-    "criteria": {
-      "has_cobblestone": "2025-05-02 00:49:13 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
-    "criteria": {
-      "has_cobblestone": "2025-05-02 00:49:13 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_andesite": {
-    "criteria": {
-      "has_cobblestone": "2025-05-02 00:49:13 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_diorite": {
-    "criteria": {
-      "has_cobblestone": "2025-05-02 00:49:13 +0000"
     },
     "done": true
   },
@@ -2392,150 +2182,6 @@
   "iceandfire:recipes/combat/tide_red_helmet": {
     "criteria": {
       "has_item": "2025-05-02 01:06:05 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_birch_fence_gate": {
-    "criteria": {
-      "has_stick": "2025-05-02 01:06:36 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_crimson_fence_gate": {
-    "criteria": {
-      "has_stick": "2025-05-02 01:06:36 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/motion_activated_light": {
-    "criteria": {
-      "has_stick": "2025-05-02 01:06:36 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_jungle_fence_gate": {
-    "criteria": {
-      "has_stick": "2025-05-02 01:06:36 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_spruce_fence_gate": {
-    "criteria": {
-      "has_stick": "2025-05-02 01:06:36 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_jungle_fence": {
-    "criteria": {
-      "has_stick": "2025-05-02 01:06:36 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_warped_fence": {
-    "criteria": {
-      "has_stick": "2025-05-02 01:06:36 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_cherry_fence_gate": {
-    "criteria": {
-      "has_stick": "2025-05-02 01:06:36 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_acacia_fence": {
-    "criteria": {
-      "has_stick": "2025-05-02 01:06:36 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_acacia_fence_gate": {
-    "criteria": {
-      "has_stick": "2025-05-02 01:06:36 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_cherry_fence": {
-    "criteria": {
-      "has_stick": "2025-05-02 01:06:36 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_bamboo_fence_gate": {
-    "criteria": {
-      "has_stick": "2025-05-02 01:06:36 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_warped_fence_gate": {
-    "criteria": {
-      "has_stick": "2025-05-02 01:06:36 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/sonic_security_system": {
-    "criteria": {
-      "has_stick": "2025-05-02 01:06:36 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_mangrove_fence_gate": {
-    "criteria": {
-      "has_stick": "2025-05-02 01:06:36 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_mangrove_fence": {
-    "criteria": {
-      "has_stick": "2025-05-02 01:06:36 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_dark_oak_fence_gate": {
-    "criteria": {
-      "has_stick": "2025-05-02 01:06:36 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_birch_fence": {
-    "criteria": {
-      "has_stick": "2025-05-02 01:06:36 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_dark_oak_fence": {
-    "criteria": {
-      "has_stick": "2025-05-02 01:06:36 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_oak_fence": {
-    "criteria": {
-      "has_stick": "2025-05-02 01:06:36 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_oak_fence_gate": {
-    "criteria": {
-      "has_stick": "2025-05-02 01:06:36 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_bamboo_fence": {
-    "criteria": {
-      "has_stick": "2025-05-02 01:06:36 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_crimson_fence": {
-    "criteria": {
-      "has_stick": "2025-05-02 01:06:36 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_spruce_fence": {
-    "criteria": {
-      "has_stick": "2025-05-02 01:06:36 +0000"
     },
     "done": true
   },
@@ -3175,12 +2821,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-05-02 02:08:02 +0000"
-    },
-    "done": true
-  },
   "enchantinginfuser:recipes/decorations/enchanting_infuser": {
     "criteria": {
       "has_amethyst_shard": "2025-05-02 02:08:02 +0000"
@@ -3283,18 +2923,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/tools/universal_key_changer": {
-    "criteria": {
-      "has_redstone": "2025-05-02 21:08:37 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/alarm": {
-    "criteria": {
-      "has_redstone": "2025-05-02 21:08:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-05-02 21:08:37 +0000"
@@ -3302,36 +2930,6 @@
     "done": true
   },
   "minecraft:recipes/tools/clock": {
-    "criteria": {
-      "has_redstone": "2025-05-02 21:08:37 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
-    "criteria": {
-      "has_redstone": "2025-05-02 21:08:37 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/tools/universal_block_reinforcer_lvl3": {
-    "criteria": {
-      "has_redstone": "2025-05-02 21:08:37 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
-    "criteria": {
-      "has_redstone": "2025-05-02 21:08:37 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_piston": {
-    "criteria": {
-      "has_redstone": "2025-05-02 21:08:37 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/username_logger": {
     "criteria": {
       "has_redstone": "2025-05-02 21:08:37 +0000"
     },
@@ -3349,73 +2947,13 @@
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
-    "criteria": {
-      "has_redstone": "2025-05-02 21:08:37 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/portable_tune_player": {
-    "criteria": {
-      "has_redstone": "2025-05-02 21:08:37 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/keypad_frame": {
-    "criteria": {
-      "has_redstone": "2025-05-02 21:08:37 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/portable_radar": {
-    "criteria": {
-      "has_redstone": "2025-05-02 21:08:37 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/claymore": {
-    "criteria": {
-      "has_redstone": "2025-05-02 21:08:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-05-02 21:08:37 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/panic_button": {
-    "criteria": {
-      "has_redstone": "2025-05-02 21:08:37 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/tools/taser": {
-    "criteria": {
-      "has_redstone": "2025-05-02 21:08:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/redstone_block": {
-    "criteria": {
-      "has_redstone": "2025-05-02 21:08:37 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/tools/universal_block_modifier": {
-    "criteria": {
-      "has_redstone": "2025-05-02 21:08:37 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_dropper": {
-    "criteria": {
-      "has_redstone": "2025-05-02 21:08:37 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/cage_trap": {
     "criteria": {
       "has_redstone": "2025-05-02 21:08:37 +0000"
     },
@@ -3463,18 +3001,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2025-05-02 21:25:42 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
-    "criteria": {
-      "has_book": "2025-05-02 21:25:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2025-05-02 21:29:08 +0000"
@@ -3518,12 +3044,6 @@
     "done": true
   },
   "minecraft:recipes/redstone/sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2025-05-02 21:44:58 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-05-02 21:44:58 +0000"
     },
@@ -3673,12 +3193,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/reinforced_lectern": {
-    "criteria": {
-      "has_bookshelf": "2025-05-03 21:05:06 +0000"
-    },
-    "done": true
-  },
   "alexscaves:alexscaves/root": {
     "criteria": {
       "underground_cabin": "2025-05-03 21:11:32 +0000"
@@ -3688,12 +3202,6 @@
   "alexscaves:alexscaves/cave_book": {
     "criteria": {
       "cave_book": "2025-05-03 21:11:41 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_dispenser": {
-    "criteria": {
-      "has_bow": "2025-05-03 21:13:25 +0000"
     },
     "done": true
   },
@@ -3817,36 +3325,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/keypad_item": {
-    "criteria": {
-      "has_stone_button": "2025-05-03 22:18:42 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-05-03 22:20:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/reinforced_orange_stained_glass_pane_from_dye": {
-    "criteria": {
-      "has_glass": "2025-05-03 22:20:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/reinforced_green_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2025-05-03 22:20:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-05-03 22:20:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-03 22:20:53 +0000"
@@ -3859,43 +3337,7 @@
     },
     "done": true
   },
-  "securitycraft:recipes/decorations/reinforced_glass_pane": {
-    "criteria": {
-      "has_glass": "2025-05-03 22:20:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_black_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-05-03 22:20:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-05-03 22:20:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-05-03 22:20:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_red_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-05-03 22:20:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/reinforced_white_stained_glass_pane_from_dye": {
-    "criteria": {
-      "has_glass": "2025-05-03 22:20:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/reinforced_red_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-05-03 22:20:53 +0000"
     },
@@ -3907,25 +3349,7 @@
     },
     "done": true
   },
-  "securitycraft:recipes/decorations/reinforced_pink_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2025-05-03 22:20:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/reinforced_green_stained_glass_pane_from_dye": {
-    "criteria": {
-      "has_glass": "2025-05-03 22:20:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-05-03 22:20:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/reinforced_brown_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-05-03 22:20:53 +0000"
     },
@@ -3943,55 +3367,13 @@
     },
     "done": true
   },
-  "securitycraft:recipes/decorations/reinforced_magenta_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2025-05-03 22:20:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-03 22:20:53 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/decorations/reinforced_yellow_stained_glass_pane_from_dye": {
-    "criteria": {
-      "has_glass": "2025-05-03 22:20:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-05-03 22:20:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/reinforced_gray_stained_glass_pane_from_dye": {
-    "criteria": {
-      "has_glass": "2025-05-03 22:20:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/reinforced_magenta_stained_glass_pane_from_dye": {
-    "criteria": {
-      "has_glass": "2025-05-03 22:20:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/reinforced_pink_stained_glass_pane_from_dye": {
-    "criteria": {
-      "has_glass": "2025-05-03 22:20:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-05-03 22:20:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/reinforced_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-05-03 22:20:53 +0000"
     },
@@ -4009,49 +3391,7 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-05-03 22:20:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-05-03 22:20:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/reinforced_orange_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2025-05-03 22:20:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/reinforced_cyan_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2025-05-03 22:20:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-05-03 22:20:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_white_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-05-03 22:20:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/reinforced_light_gray_stained_glass_pane_from_dye": {
-    "criteria": {
-      "has_glass": "2025-05-03 22:20:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/reinforced_yellow_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-05-03 22:20:53 +0000"
     },
@@ -4063,49 +3403,7 @@
     },
     "done": true
   },
-  "securitycraft:recipes/decorations/reinforced_light_blue_stained_glass_pane_from_dye": {
-    "criteria": {
-      "has_glass": "2025-05-03 22:20:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/glass_bottle": {
-    "criteria": {
-      "has_glass": "2025-05-03 22:20:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/reinforced_lime_stained_glass_pane_from_dye": {
-    "criteria": {
-      "has_glass": "2025-05-03 22:20:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/reinforced_white_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2025-05-03 22:20:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/reinforced_black_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2025-05-03 22:20:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-05-03 22:20:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/reinforced_cyan_stained_glass_pane_from_dye": {
-    "criteria": {
-      "has_glass": "2025-05-03 22:20:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/reinforced_light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-05-03 22:20:53 +0000"
     },
@@ -4117,19 +3415,7 @@
     },
     "done": true
   },
-  "securitycraft:recipes/decorations/reinforced_red_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2025-05-03 22:20:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-05-03 22:20:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/reinforced_black_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-05-03 22:20:53 +0000"
     },
@@ -4141,85 +3427,7 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_green_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-05-03 22:20:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-05-03 22:20:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-05-03 22:20:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/reinforced_purple_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2025-05-03 22:20:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-05-03 22:20:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/reinforced_brown_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2025-05-03 22:20:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-05-03 22:20:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-05-03 22:20:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/reinforced_blue_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2025-05-03 22:20:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/reinforced_purple_stained_glass_pane_from_dye": {
-    "criteria": {
-      "has_glass": "2025-05-03 22:20:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-05-03 22:20:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/reinforced_light_gray_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2025-05-03 22:20:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/reinforced_lime_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2025-05-03 22:20:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/reinforced_blue_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-05-03 22:20:53 +0000"
     },
@@ -4327,12 +3535,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/block_pocket_manager": {
-    "criteria": {
-      "has_redstone_block": "2025-05-03 22:22:02 +0000"
-    },
-    "done": true
-  },
   "alexscaves:alexscaves/discover_toxic_caves": {
     "criteria": {
       "discover": "2025-05-03 22:24:20 +0000"
@@ -4381,15 +3583,9 @@
     },
     "done": false
   },
-  "alexscaves:alexscaves/discover_dinosaur": {
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
     "criteria": {
-      "killed_by_vallumraptor": "2025-05-04 21:16:46 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/tree_star": {
-    "criteria": {
-      "tree_star": "2025-05-04 21:32:02 +0000"
+      "sword": "2025-05-04 20:54:33 +0000"
     },
     "done": true
   },
@@ -4405,27 +3601,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/summon_luxtructosaurus": {
-    "criteria": {
-      "summon_luxtructosaurus": "2025-05-04 21:36:02 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragonbone_flaming_sword": {
-    "criteria": {
-      "sword": "2025-05-04 20:54:33 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/building_blocks/ash": {
     "criteria": {
       "has_item": "2025-05-04 21:07:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-05-04 21:29:45 +0000"
     },
     "done": true
   },
@@ -4435,9 +3613,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
+  "alexscaves:alexscaves/discover_dinosaur": {
     "criteria": {
-      "has_moss": "2025-05-04 21:29:45 +0000"
+      "killed_by_vallumraptor": "2025-05-04 21:16:46 +0000"
     },
     "done": true
   },
@@ -4447,13 +3625,25 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+  "alexscaves:alexscaves/defeat_big_dinosaur": {
     "criteria": {
-      "has_moss": "2025-05-04 21:29:45 +0000"
+      "killed_relicheirus": "2025-05-04 21:26:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-04 21:29:45 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-05-04 21:29:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-05-04 21:29:45 +0000"
     },
@@ -4465,15 +3655,27 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/defeat_big_dinosaur": {
+  "alexscaves:alexscaves/tree_star": {
     "criteria": {
-      "killed_relicheirus": "2025-05-04 21:26:22 +0000"
+      "tree_star": "2025-05-04 21:32:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+  "alexscaves:alexscaves/summon_luxtructosaurus": {
     "criteria": {
-      "has_moss_block": "2025-05-04 21:29:45 +0000"
+      "summon_luxtructosaurus": "2025-05-04 21:36:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_the_recipe": "2025-05-05 22:09:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-05-05 22:09:54 +0000"
     },
     "done": true
   },
