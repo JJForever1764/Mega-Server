@@ -3728,6 +3728,24 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/hatch_tremorzilla_egg": {
+    "criteria": {
+      "hatch_tremorzilla_egg": "2025-05-05 23:01:39 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/tools/phasometer": {
+    "criteria": {
+      "has_spyglass": "2025-05-05 23:01:21 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/remote_detonation": {
+    "criteria": {
+      "stalked_by_deep_one": "2025-05-05 23:01:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-05-05 22:21:44 +0000"
