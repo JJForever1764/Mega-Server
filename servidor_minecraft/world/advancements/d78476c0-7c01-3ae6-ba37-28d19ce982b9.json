@@ -3950,6 +3950,24 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_input": {
+    "criteria": {
+      "has_item": "2025-05-06 22:59:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_core_disabled": {
+    "criteria": {
+      "has_item": "2025-05-06 22:59:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_forge_core": {
+    "criteria": {
+      "core": "2025-05-06 23:05:01 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/lectern": {
     "criteria": {
       "bestiary": "2025-05-06 22:55:04 +0000"
@@ -3974,6 +3992,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragonscale_bronze_to_dragonscales_bronze": {
+    "criteria": {
+      "has_dragonscale_bronze": "2025-05-06 23:03:30 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragonscale_green_to_dragonscales_green": {
     "criteria": {
       "has_dragonscale_green": "2025-05-06 22:57:59 +0000"
@@ -3995,6 +4019,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-05-06 22:06:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_electric_to_dragonscales_electric": {
+    "criteria": {
+      "has_dragonscale_electric": "2025-05-06 23:03:08 +0000"
     },
     "done": true
   },

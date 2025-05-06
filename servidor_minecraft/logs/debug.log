@@ -3595,3 +3595,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [06May2025 22:59:09.973] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
 [06May2025 22:59:29.645] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06May2025 22:59:29.662] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06May2025 23:02:53.175] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[06May2025 23:04:29.619] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06May2025 23:04:29.626] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06May2025 23:05:01.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [The Heart and the Flame]
+[06May2025 23:06:13.474] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[06May2025 23:09:29.630] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06May2025 23:09:29.637] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

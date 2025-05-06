@@ -246,3 +246,6 @@
 [06May2025 22:55:15.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
 [06May2025 22:55:39.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
 [06May2025 22:59:09.973] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[06May2025 23:02:53.175] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[06May2025 23:05:01.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [The Heart and the Flame]
+[06May2025 23:06:13.474] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
