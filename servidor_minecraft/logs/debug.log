@@ -3509,3 +3509,26 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [06May2025 21:54:19.056] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [06May2025 21:55:26.784] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
 [06May2025 21:56:59.375] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[06May2025 21:59:08.324] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[06May2025 21:59:19.002] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06May2025 21:59:19.018] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06May2025 21:59:37.324] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[06May2025 22:00:54.024] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[06May2025 22:02:00.625] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[06May2025 22:04:18.978] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06May2025 22:04:18.989] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06May2025 22:06:05.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to -300.500000, 40.500000, -357.500000]
+[06May2025 22:06:05.713] [Worker-Main-2/DEBUG] [mixin/]: Mixing IMixinStructurePiecesBuilder from witherstormmod.mixins.json into net.minecraft.world.level.levelgen.structure.pieces.StructurePiecesBuilder
+[06May2025 22:06:05.729] [Worker-Main-35/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[06May2025 22:06:06.119] [Worker-Main-35/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[06May2025 22:06:07.796] [Worker-Main-41/DEBUG] [mixin/]: Mixing IMixinJigsawPlacement from witherstormmod.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement
+[06May2025 22:06:07.796] [Worker-Main-41/DEBUG] [mixin/]: Renaming @Invoker method invokeAddPieces(Lnet/minecraft/world/level/levelgen/RandomState;IZLnet/minecraft/world/level/chunk/ChunkGenerator;Lnet/minecraft/world/level/levelgen/structure/templatesystem/StructureTemplateManager;Lnet/minecraft/world/level/LevelHeightAccessor;Lnet/minecraft/util/RandomSource;Lnet/minecraft/core/Registry;Lnet/minecraft/world/level/levelgen/structure/PoolElementStructurePiece;Ljava/util/List;Lnet/minecraft/world/phys/shapes/VoxelShape;)V to invokeAddPieces_$md$614568$0 in witherstormmod.mixins.json:IMixinJigsawPlacement
+[06May2025 22:06:07.821] [Worker-Main-41/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[06May2025 22:07:15.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[06May2025 22:09:18.964] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06May2025 22:09:18.973] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06May2025 22:11:19.786] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[06May2025 22:11:21.631] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[06May2025 22:14:18.968] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06May2025 22:14:18.977] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06May2025 22:15:37.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]

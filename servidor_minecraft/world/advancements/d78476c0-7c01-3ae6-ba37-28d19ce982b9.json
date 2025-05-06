@@ -267,6 +267,7 @@
     "criteria": {
       "cooked_porkchop": "2025-04-30 22:59:47 +0000",
       "chicken": "2025-04-30 21:30:00 +0000",
+      "cooked_beef": "2025-05-06 22:09:12 +0000",
       "beef": "2025-05-02 01:16:52 +0000",
       "porkchop": "2025-04-30 21:29:51 +0000",
       "apple": "2025-05-02 21:34:00 +0000",
@@ -3940,6 +3941,18 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-05-05 23:29:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-05-06 22:06:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-05-06 22:06:22 +0000"
     },
     "done": true
   },
