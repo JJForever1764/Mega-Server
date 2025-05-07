@@ -1,15 +1,15 @@
-[06May2025 21:48:33.770] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[06May2025 21:48:33.775] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
-[06May2025 21:48:34.944] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[06May2025 21:48:35.040] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Mega-Server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[06May2025 21:48:35.361] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mega-Server/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[06May2025 21:48:35.362] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mega-Server/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[06May2025 21:48:35.364] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mega-Server/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[06May2025 21:48:35.365] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mega-Server/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[06May2025 21:48:35.643] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 9 dependencies adding them to mods collection
-[06May2025 21:48:37.672] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[06May2025 21:48:37.753] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[06May2025 21:48:37.936] [main/INFO] [Puzzles Lib/]: Loading 41 mods:
+[07May2025 21:22:00.748] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[07May2025 21:22:00.754] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
+[07May2025 21:22:01.901] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[07May2025 21:22:01.992] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Mega-Server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[07May2025 21:22:02.288] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mega-Server/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[07May2025 21:22:02.290] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mega-Server/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[07May2025 21:22:02.292] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mega-Server/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[07May2025 21:22:02.293] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mega-Server/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[07May2025 21:22:02.567] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 9 dependencies adding them to mods collection
+[07May2025 21:22:04.653] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[07May2025 21:22:04.745] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[07May2025 21:22:04.952] [main/INFO] [Puzzles Lib/]: Loading 41 mods:
 	- alexscaves 1.1.4
 	- apollyon 1.0.0
 	- balm 7.3.27
@@ -51,201 +51,165 @@
 	- wom 20.1.8.5.6
 	- xaerominimap 24.1.1
 	- xaeroworldmap 1.38.4
-[06May2025 21:48:37.943] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[06May2025 21:48:39.453] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[06May2025 21:48:42.998] [main/WARN] [mixin/]: @Final field f_31427_:[I in mixins.epicfight.json:MixinWitherBoss should be final
-[06May2025 21:48:42.998] [main/WARN] [mixin/]: @Final field f_31428_:[I in mixins.epicfight.json:MixinWitherBoss should be final
-[06May2025 21:48:45.146] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=2 on witherstormmod.mixins.json:MixinSwellGoal::handler$zff000$canUseInvoke exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[06May2025 21:48:45.591] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
-[06May2025 21:48:45.591] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
-[06May2025 21:48:45.591] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
-[06May2025 21:48:45.591] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
-[06May2025 21:48:46.927] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mutantmonsters:main
-[06May2025 21:48:47.349] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: GeckolibCompat
-[06May2025 21:48:47.358] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: IceAndFireCompat
-[06May2025 21:48:47.754] [modloading-worker-0/INFO] [info.u_team.u_team_core.util.verify.JarSignVerifier/]: Mod musicplayer is signed with a valid certificate.
-[06May2025 21:48:48.415] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.14...
-[06May2025 21:48:48.489] [modloading-worker-0/INFO] [info.u_team.u_team_core.util.verify.JarSignVerifier/]: Mod uteamcore is signed with a valid certificate.
-[06May2025 21:48:48.533] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[06May2025 21:48:48.580] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[06May2025 21:48:48.580] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[06May2025 21:48:48.599] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for enchantinginfuser:main
-[06May2025 21:48:50.712] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class yesman.epicfight.world.capabilities.entitypatch.player.PlayerPatch
-[06May2025 21:48:50.770] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[06May2025 21:48:50.770] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[06May2025 21:48:50.770] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[06May2025 21:48:50.770] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[06May2025 21:48:50.770] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[06May2025 21:48:50.771] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[06May2025 21:48:50.771] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[06May2025 21:48:50.771] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[06May2025 21:48:50.771] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[06May2025 21:48:50.821] [main/INFO] [Puzzles Lib/]: Loading common config for mutantmonsters
-[06May2025 21:48:50.822] [Thread-1/INFO] [Puzzles Lib/]: Reloading common config for mutantmonsters
-[06May2025 21:48:50.823] [Thread-1/INFO] [Puzzles Lib/]: Reloading common config for mutantmonsters
-[06May2025 21:48:51.302] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
-[06May2025 21:48:51.509] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/mutantmonsters.json
-[06May2025 21:48:51.825] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Found status: UP_TO_DATE Current: 8.0.7 Target: null
-[06May2025 21:48:51.827] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [musicplayer] Starting version check at https://api.u-team.info/update/musicplayer.json
-[06May2025 21:48:52.114] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [musicplayer] Found status: AHEAD Current: 2.7.0.327 Target: null
-[06May2025 21:48:52.117] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [witherstormmod] Starting version check at https://raw.githubusercontent.com/nonamecrackers2/cwsm-update-info/main/update_checker.json
-[06May2025 21:48:52.136] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [witherstormmod] Found status: UP_TO_DATE Current: 4.2.1 Target: null
-[06May2025 21:48:52.136] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[06May2025 21:48:52.150] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.9.2 Target: 8.9.4
-[06May2025 21:48:52.150] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [multiverse] Starting version check at https://raw.githubusercontent.com/DavidQF555/Multiverse/update/update.json
-[06May2025 21:48:52.325] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [multiverse] Found status: OUTDATED Current: 1.20.1-2.3.4 Target: 1.20.1-4.3.1
-[06May2025 21:48:52.326] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
-[06May2025 21:48:52.353] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Found status: AHEAD Current: 5.1.4.362 Target: null
-[06May2025 21:48:52.353] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[06May2025 21:48:52.373] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.32 Target: null
-[06May2025 21:48:52.373] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[06May2025 21:48:52.633] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
-[06May2025 21:48:52.634] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[06May2025 21:48:52.842] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[06May2025 21:48:52.842] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/enchantinginfuser.json
-[06May2025 21:48:52.857] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Found status: UP_TO_DATE Current: 8.0.3 Target: null
-[06May2025 21:48:52.944] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
-[06May2025 21:48:52.945] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
-[06May2025 21:48:52.945] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
-[06May2025 21:48:52.946] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
-[06May2025 21:48:52.946] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
-[06May2025 21:48:52.946] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
-[06May2025 21:48:52.946] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
-[06May2025 21:48:52.946] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:bolt_cool_down for minecraft:living_entity
-[06May2025 21:48:52.947] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[06May2025 21:48:52.948] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[06May2025 21:48:52.952] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[06May2025 21:48:52.952] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[06May2025 21:48:52.965] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
-[06May2025 21:48:53.023] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[06May2025 21:48:53.050] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[06May2025 21:48:53.055] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[06May2025 21:48:53.058] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
-[06May2025 21:48:53.061] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
-[06May2025 21:48:53.062] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
-[06May2025 21:48:55.130] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[06May2025 21:48:56.499] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Mega-Server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23171!/assets/.mcassetsroot' uses unexpected schema
-[06May2025 21:48:56.499] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Mega-Server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23171!/data/.mcassetsroot' uses unexpected schema
-[06May2025 21:48:58.401] [Worker-Main-3/INFO] [epicfight/]: Register animations from epicfight
-[06May2025 21:48:59.177] [Worker-Main-3/INFO] [epicfight/]: Register animations from wom
-[06May2025 21:49:00.783] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 12 recipes
-[06May2025 21:49:00.908] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2190 advancements
-[06May2025 21:49:01.028] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
-[06May2025 21:49:01.033] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[06May2025 21:49:01.067] [main/INFO] [Dungeon Crawl/]: Loading data...
-[06May2025 21:49:01.390] [main/INFO] [Dungeon Crawl/]: Done.
-[06May2025 21:49:01.415] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
-[06May2025 21:49:02.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[06May2025 21:49:02.560] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[06May2025 21:49:02.560] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[06May2025 21:49:02.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[06May2025 21:49:02.670] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[06May2025 21:49:02.697] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[06May2025 21:49:02.788] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[06May2025 21:49:02.788] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[06May2025 21:49:02.788] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[06May2025 21:49:02.788] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[06May2025 21:49:02.814] [Server thread/INFO] [Puzzles Lib/]: Loading server config for mutantmonsters
-[06May2025 21:49:02.815] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for mutantmonsters
-[06May2025 21:49:02.815] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for mutantmonsters
-[06May2025 21:49:02.839] [Server thread/INFO] [Puzzles Lib/]: Loading server config for enchantinginfuser
-[06May2025 21:49:02.841] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for enchantinginfuser
-[06May2025 21:49:02.844] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for enchantinginfuser
-[06May2025 21:49:02.956] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[06May2025 21:49:12.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[06May2025 21:49:15.701] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06May2025 21:49:15.742] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06May2025 21:49:15.758] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06May2025 21:49:15.825] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06May2025 21:49:15.836] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06May2025 21:49:15.847] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06May2025 21:49:15.867] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06May2025 21:49:16.306] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06May2025 21:49:16.802] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06May2025 21:49:17.302] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 23%
-[06May2025 21:49:17.802] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 96%
-[06May2025 21:49:18.663] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5862 ms
-[06May2025 21:49:18.664] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (15.862s)! For help, type "help"
-[06May2025 21:49:18.938] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[06May2025 21:49:18.970] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[06May2025 21:49:18.971] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[06May2025 21:52:09.165] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JJForever1764[/127.125.156.34:56569] logged in with entity id 898 at (-2003.0762130463388, 74.23000001907349, -265.39723598725095)
-[06May2025 21:52:09.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 joined the game
-[06May2025 21:52:09.431] [Server thread/INFO] [Jade/]: Syncing config to JJForever1764 (d78476c0-7c01-3ae6-ba37-28d19ce982b9)
-[06May2025 21:52:41.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.2997519740872576
-[06May2025 21:52:42.146] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.5059030311807646
-[06May2025 21:52:42.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.33440680917283316
-[06May2025 21:52:42.250] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.9417488808644521
-[06May2025 21:52:42.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.7576030245912762
-[06May2025 21:52:42.393] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 2.2008574891738135
-[06May2025 21:52:42.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.6165109376973419
-[06May2025 21:52:42.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.6243970520005178
-[06May2025 21:52:42.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.6319472006791784
-[06May2025 21:52:42.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.4480122132463293
-[06May2025 21:52:42.797] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.26277379681158664
-[06May2025 21:52:42.846] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.9946396797581656
-[06May2025 21:52:44.195] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.3535533905932738
-[06May2025 21:52:44.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.3535533905932738
-[06May2025 21:52:55.346] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.7050300977457482
-[06May2025 21:52:55.445] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.6478576958488702
-[06May2025 21:52:55.446] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.5782992452591316
-[06May2025 21:52:55.505] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.5278126377658054
-[06May2025 21:52:55.556] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.6548668112657183
-[06May2025 21:52:55.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.5451366997008336
-[06May2025 21:52:55.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.8901764980383046
-[06May2025 21:52:56.065] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.2609005581657584
-[06May2025 21:52:56.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.9609019192735104
-[06May2025 21:52:56.306] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.28797194745811794
-[06May2025 21:52:56.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.0064744768906166
-[06May2025 21:52:56.792] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.37569243437974364
-[06May2025 21:52:56.843] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.826861527944402
-[06May2025 21:52:56.909] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.3372043223098444
-[06May2025 21:52:56.947] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.9431949089247988
-[06May2025 21:52:56.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 2.7191157319052737
-[06May2025 21:52:59.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.2545233782749392
-[06May2025 21:52:59.669] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.5807184710970432
-[06May2025 21:52:59.715] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 1.2136644489351056
-[06May2025 21:52:59.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.8609952029646593
-[06May2025 21:52:59.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.4109370090690446
-[06May2025 21:53:00.247] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of JJForever1764) moved wrongly! 0.8673677051240816
-[06May2025 21:55:26.784] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
-[06May2025 21:56:59.375] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
-[06May2025 21:59:08.324] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
-[06May2025 21:59:37.324] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
-[06May2025 22:00:54.024] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
-[06May2025 22:02:00.625] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
-[06May2025 22:06:05.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to -300.500000, 40.500000, -357.500000]
-[06May2025 22:07:15.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
-[06May2025 22:15:37.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
-[06May2025 22:21:21.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
-[06May2025 22:22:21.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
-[06May2025 22:23:05.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
-[06May2025 22:23:41.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
-[06May2025 22:24:11.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
-[06May2025 22:25:56.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Spooky Scary Skeleton]
-[06May2025 22:28:05.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
-[06May2025 22:29:47.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
-[06May2025 22:30:45.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
-[06May2025 22:30:53.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
-[06May2025 22:31:11.635] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-297, y=26, z=-389} BlockPos{x=-296, y=25, z=-389}
-[06May2025 22:31:57.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Spectator Mode]
-[06May2025 22:32:05.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
-[06May2025 22:35:24.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Spectator Mode]
-[06May2025 22:35:36.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
-[06May2025 22:36:06.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Spectator Mode]
-[06May2025 22:36:12.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
-[06May2025 22:36:16.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
-[06May2025 22:39:09.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
-[06May2025 22:39:21.874] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10653ms or 213 ticks behind
-[06May2025 22:39:58.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to -264.500000, 44.500000, -54.500000]
-[06May2025 22:43:05.623] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
-[06May2025 22:45:01.873] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
-[06May2025 22:45:03.425] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
-[06May2025 22:54:42.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Book of Monsters]
-[06May2025 22:55:04.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Would you Like to Know More?]
-[06May2025 22:55:15.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
-[06May2025 22:55:39.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
-[06May2025 22:59:09.973] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
-[06May2025 23:02:53.175] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
-[06May2025 23:05:01.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [The Heart and the Flame]
-[06May2025 23:06:13.474] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[07May2025 21:22:04.960] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[07May2025 21:22:06.172] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[07May2025 21:22:09.744] [main/WARN] [mixin/]: @Final field f_31427_:[I in mixins.epicfight.json:MixinWitherBoss should be final
+[07May2025 21:22:09.745] [main/WARN] [mixin/]: @Final field f_31428_:[I in mixins.epicfight.json:MixinWitherBoss should be final
+[07May2025 21:22:12.030] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=2 on witherstormmod.mixins.json:MixinSwellGoal::handler$zff000$canUseInvoke exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[07May2025 21:22:12.531] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[07May2025 21:22:12.531] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[07May2025 21:22:12.531] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[07May2025 21:22:12.531] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[07May2025 21:22:13.960] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mutantmonsters:main
+[07May2025 21:22:14.379] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: GeckolibCompat
+[07May2025 21:22:14.385] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: IceAndFireCompat
+[07May2025 21:22:14.800] [modloading-worker-0/INFO] [info.u_team.u_team_core.util.verify.JarSignVerifier/]: Mod musicplayer is signed with a valid certificate.
+[07May2025 21:22:15.568] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.14...
+[07May2025 21:22:15.691] [modloading-worker-0/INFO] [info.u_team.u_team_core.util.verify.JarSignVerifier/]: Mod uteamcore is signed with a valid certificate.
+[07May2025 21:22:15.715] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[07May2025 21:22:15.771] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for enchantinginfuser:main
+[07May2025 21:22:15.777] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[07May2025 21:22:15.778] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[07May2025 21:22:18.092] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class yesman.epicfight.world.capabilities.entitypatch.player.PlayerPatch
+[07May2025 21:22:18.156] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[07May2025 21:22:18.156] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[07May2025 21:22:18.156] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[07May2025 21:22:18.156] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[07May2025 21:22:18.156] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[07May2025 21:22:18.157] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[07May2025 21:22:18.157] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[07May2025 21:22:18.157] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[07May2025 21:22:18.157] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[07May2025 21:22:18.214] [main/INFO] [Puzzles Lib/]: Loading common config for mutantmonsters
+[07May2025 21:22:18.214] [Thread-1/INFO] [Puzzles Lib/]: Reloading common config for mutantmonsters
+[07May2025 21:22:18.215] [Thread-1/INFO] [Puzzles Lib/]: Reloading common config for mutantmonsters
+[07May2025 21:22:18.667] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[07May2025 21:22:18.925] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/mutantmonsters.json
+[07May2025 21:22:19.230] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Found status: UP_TO_DATE Current: 8.0.7 Target: null
+[07May2025 21:22:19.231] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [musicplayer] Starting version check at https://api.u-team.info/update/musicplayer.json
+[07May2025 21:22:19.651] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [musicplayer] Found status: AHEAD Current: 2.7.0.327 Target: null
+[07May2025 21:22:19.655] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [witherstormmod] Starting version check at https://raw.githubusercontent.com/nonamecrackers2/cwsm-update-info/main/update_checker.json
+[07May2025 21:22:19.670] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [witherstormmod] Found status: UP_TO_DATE Current: 4.2.1 Target: null
+[07May2025 21:22:19.673] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[07May2025 21:22:19.690] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.9.2 Target: 8.9.4
+[07May2025 21:22:19.691] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [multiverse] Starting version check at https://raw.githubusercontent.com/DavidQF555/Multiverse/update/update.json
+[07May2025 21:22:19.903] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [multiverse] Found status: OUTDATED Current: 1.20.1-2.3.4 Target: 1.20.1-4.3.1
+[07May2025 21:22:19.903] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
+[07May2025 21:22:19.925] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Found status: AHEAD Current: 5.1.4.362 Target: null
+[07May2025 21:22:19.925] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[07May2025 21:22:19.939] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.32 Target: null
+[07May2025 21:22:19.939] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[07May2025 21:22:19.953] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
+[07May2025 21:22:19.953] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[07May2025 21:22:20.165] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[07May2025 21:22:20.165] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/enchantinginfuser.json
+[07May2025 21:22:20.179] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Found status: UP_TO_DATE Current: 8.0.3 Target: null
+[07May2025 21:22:20.218] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
+[07May2025 21:22:20.219] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
+[07May2025 21:22:20.219] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
+[07May2025 21:22:20.219] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
+[07May2025 21:22:20.219] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
+[07May2025 21:22:20.219] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
+[07May2025 21:22:20.220] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
+[07May2025 21:22:20.220] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:bolt_cool_down for minecraft:living_entity
+[07May2025 21:22:20.221] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[07May2025 21:22:20.222] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[07May2025 21:22:20.224] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[07May2025 21:22:20.224] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[07May2025 21:22:20.242] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
+[07May2025 21:22:20.321] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[07May2025 21:22:20.351] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[07May2025 21:22:20.355] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[07May2025 21:22:20.357] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[07May2025 21:22:20.358] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[07May2025 21:22:20.359] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
+[07May2025 21:22:22.891] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[07May2025 21:22:24.215] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Mega-Server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23171!/assets/.mcassetsroot' uses unexpected schema
+[07May2025 21:22:24.216] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Mega-Server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23171!/data/.mcassetsroot' uses unexpected schema
+[07May2025 21:22:26.188] [Worker-Main-1/INFO] [epicfight/]: Register animations from epicfight
+[07May2025 21:22:27.001] [Worker-Main-1/INFO] [epicfight/]: Register animations from wom
+[07May2025 21:22:28.745] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 12 recipes
+[07May2025 21:22:28.875] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2190 advancements
+[07May2025 21:22:28.977] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
+[07May2025 21:22:28.982] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[07May2025 21:22:29.020] [main/INFO] [Dungeon Crawl/]: Loading data...
+[07May2025 21:22:29.389] [main/INFO] [Dungeon Crawl/]: Done.
+[07May2025 21:22:29.405] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
+[07May2025 21:22:30.481] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[07May2025 21:22:30.481] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[07May2025 21:22:30.482] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[07May2025 21:22:30.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[07May2025 21:22:30.587] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[07May2025 21:22:30.610] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[07May2025 21:22:30.694] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[07May2025 21:22:30.695] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[07May2025 21:22:30.695] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[07May2025 21:22:30.695] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[07May2025 21:22:30.721] [Server thread/INFO] [Puzzles Lib/]: Loading server config for mutantmonsters
+[07May2025 21:22:30.753] [Server thread/INFO] [Puzzles Lib/]: Loading server config for enchantinginfuser
+[07May2025 21:22:30.755] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for enchantinginfuser
+[07May2025 21:22:30.757] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for enchantinginfuser
+[07May2025 21:22:30.867] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[07May2025 21:22:40.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[07May2025 21:22:44.446] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07May2025 21:22:44.500] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07May2025 21:22:44.520] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07May2025 21:22:44.578] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07May2025 21:22:44.600] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07May2025 21:22:44.623] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07May2025 21:22:44.637] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07May2025 21:22:44.641] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07May2025 21:22:44.983] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07May2025 21:22:45.467] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07May2025 21:22:45.967] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 22%
+[07May2025 21:22:46.467] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 85%
+[07May2025 21:22:46.557] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5591 ms
+[07May2025 21:22:46.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (15.848s)! For help, type "help"
+[07May2025 21:22:46.603] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[07May2025 21:22:46.624] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[07May2025 21:22:46.624] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[07May2025 21:22:50.790] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2166ms or 43 ticks behind
+[07May2025 21:26:57.640] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JJForever1764[/127.125.156.34:59411] logged in with entity id 886 at (-2362.5045934157815, 71.0, -473.7376041369207)
+[07May2025 21:26:57.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 joined the game
+[07May2025 21:26:57.827] [Server thread/INFO] [Jade/]: Syncing config to JJForever1764 (d78476c0-7c01-3ae6-ba37-28d19ce982b9)
+[07May2025 21:29:17.787] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[07May2025 21:31:39.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to 1098.500000, 72.000000, 3038.500000]
+[07May2025 21:31:39.465] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8541ms or 170 ticks behind
+[07May2025 21:32:14.305] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1199, y=0, z=3037} but found not block entity block Block{minecraft:water}[level=0] at location
+[07May2025 21:32:14.305] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=1199, y=0, z=3037}
+[07May2025 21:32:14.305] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1198, y=0, z=3037} but found not block entity block Block{minecraft:water}[level=1] at location
+[07May2025 21:32:14.305] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=1198, y=0, z=3037}
+[07May2025 21:32:20.710] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1200, y=-1, z=3036} but found not block entity block Block{minecraft:water}[level=1] at location
+[07May2025 21:32:20.710] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=1200, y=-1, z=3036}
+[07May2025 21:32:22.519] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-177, y=-55, z=-77}
+[07May2025 21:32:22.520] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-181, y=-50, z=-73}
+[07May2025 21:32:22.521] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-182, y=-45, z=-75}
+[07May2025 21:32:22.521] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-70}
+[07May2025 21:32:22.549] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-50, z=-211}
+[07May2025 21:32:22.550] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-49, z=-217}
+[07May2025 21:32:22.550] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-418, y=-50, z=-208}
+[07May2025 21:32:22.566] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-45, z=-85}
+[07May2025 21:32:22.566] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-41, z=-89}
+[07May2025 21:32:22.566] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-92}
+[07May2025 21:32:22.567] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-93}
+[07May2025 21:32:22.567] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-175, y=-41, z=-90}
+[07May2025 21:32:29.380] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-423, y=-50, z=-211}
+[07May2025 21:32:29.393] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-195, y=-54, z=-92}
+[07May2025 21:32:29.394] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-88}
+[07May2025 21:32:29.394] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-85}
+[07May2025 21:32:29.395] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-51, z=-89}
+[07May2025 21:32:29.395] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-50, z=-90}
+[07May2025 21:32:29.396] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-45, z=-87}
+[07May2025 21:32:29.397] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-84}
+[07May2025 21:32:29.420] [Worker-Main-25/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[07May2025 21:32:29.429] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-74}
+[07May2025 21:32:29.430] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-77}
+[07May2025 21:32:29.430] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-50, z=-72}
+[07May2025 21:32:29.431] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-45, z=-75}
+[07May2025 21:32:31.614] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1243, y=54, z=3096} but found not block entity block Block{minecraft:water}[level=0] at location
+[07May2025 21:32:31.614] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=1243, y=54, z=3096}
+[07May2025 21:32:31.614] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1244, y=54, z=3095} but found not block entity block Block{minecraft:water}[level=8] at location
+[07May2025 21:32:31.614] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=1244, y=54, z=3095}
+[07May2025 21:32:31.614] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1239, y=55, z=3099} but found not block entity block Block{minecraft:water}[level=0] at location
+[07May2025 21:32:31.615] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=1239, y=55, z=3099}
+[07May2025 21:41:47.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]

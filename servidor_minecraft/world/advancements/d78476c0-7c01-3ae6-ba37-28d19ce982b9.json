@@ -3944,9 +3944,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-05-06 22:06:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-05-06 22:06:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-06 22:21:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-05-06 22:25:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-05-06 22:25:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-05-06 22:25:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_lantern": {
     "criteria": {
       "has_soul_torch": "2025-05-06 22:35:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2025-05-06 22:54:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2025-05-06 22:54:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/lectern": {
+    "criteria": {
+      "bestiary": "2025-05-06 22:55:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_green_to_dragonscales_green": {
+    "criteria": {
+      "has_dragonscale_green": "2025-05-06 22:57:59 +0000"
     },
     "done": true
   },
@@ -3962,33 +4022,9 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_forge_core": {
+  "iceandfire:recipes/misc/dragonscale_electric_to_dragonscales_electric": {
     "criteria": {
-      "core": "2025-05-06 23:05:01 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/lectern": {
-    "criteria": {
-      "bestiary": "2025-05-06 22:55:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2025-05-06 22:06:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2025-05-06 22:25:31 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/bestiary": {
-    "criteria": {
-      "has_item": "2025-05-06 22:54:56 +0000"
+      "has_dragonscale_electric": "2025-05-06 23:03:08 +0000"
     },
     "done": true
   },
@@ -3998,45 +4034,81 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragonscale_green_to_dragonscales_green": {
+  "iceandfire:iceandfire/dragon_forge_core": {
     "criteria": {
-      "has_dragonscale_green": "2025-05-06 22:57:59 +0000"
+      "core": "2025-05-06 23:05:01 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/bestiary": {
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
     "criteria": {
-      "bestiary": "2025-05-06 22:54:42 +0000"
+      "sword": "2025-05-06 23:11:38 +0000"
     },
     "done": true
   },
-  "minecraft:nether/get_wither_skull": {
+  "iceandfire:recipes/tools/dragonsteel_fire_shovel": {
     "criteria": {
-      "wither_skull": "2025-05-06 22:25:56 +0000"
+      "has_item": "2025-05-06 23:12:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/soul_campfire": {
+  "iceandfire:recipes/combat/dragonsteel_fire_helmet": {
     "criteria": {
-      "has_soul_sand": "2025-05-06 22:06:22 +0000"
+      "has_item": "2025-05-06 23:12:28 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragonscale_electric_to_dragonscales_electric": {
+  "iceandfire:recipes/combat/dragonsteel_fire_boots": {
     "criteria": {
-      "has_dragonscale_electric": "2025-05-06 23:03:08 +0000"
+      "has_item": "2025-05-06 23:12:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/skull_banner_pattern": {
+  "iceandfire:iceandfire/dragonsteel": {
     "criteria": {
-      "has_wither_skeleton_skull": "2025-05-06 22:25:56 +0000"
+      "steel": "2025-05-06 23:12:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+  "iceandfire:recipes/combat/dragonsteel_fire_leggings": {
     "criteria": {
-      "has_iron_nugget": "2025-05-06 22:21:31 +0000"
+      "has_item": "2025-05-06 23:12:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_fire_hoe": {
+    "criteria": {
+      "has_item": "2025-05-06 23:12:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonsteel_fire_ingot_to_dragonsteel_fire_block": {
+    "criteria": {
+      "has_dragonsteel_fire_ingot": "2025-05-06 23:12:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_fire_sword": {
+    "criteria": {
+      "has_item": "2025-05-06 23:12:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_fire_pickaxe": {
+    "criteria": {
+      "has_item": "2025-05-06 23:12:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_fire_axe": {
+    "criteria": {
+      "has_item": "2025-05-06 23:12:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_fire_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-06 23:12:28 +0000"
     },
     "done": true
   },
