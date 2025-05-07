@@ -26,6 +26,7 @@
       "minecraft:birch_forest": "2025-05-03 21:11:38 +0000",
       "minecraft:windswept_hills": "2025-05-02 21:40:26 +0000",
       "minecraft:bamboo_jungle": "2025-04-30 21:58:03 +0000",
+      "minecraft:savanna_plateau": "2025-05-07 21:41:31 +0000",
       "minecraft:beach": "2025-04-30 21:08:24 +0000",
       "minecraft:sparse_jungle": "2025-04-30 21:36:45 +0000",
       "minecraft:river": "2025-04-30 21:08:14 +0000",
@@ -4109,6 +4110,12 @@
   "iceandfire:recipes/combat/dragonsteel_fire_chestplate": {
     "criteria": {
       "has_item": "2025-05-06 23:12:28 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-05-07 21:44:45 +0000"
     },
     "done": true
   },

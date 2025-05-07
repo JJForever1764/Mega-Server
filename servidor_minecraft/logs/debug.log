@@ -3529,3 +3529,26 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [07May2025 21:41:31.400] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
 [07May2025 21:41:31.401] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 8(0) Nodes and 5(0) Rooms
 [07May2025 21:41:47.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[07May2025 21:42:57.272] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07May2025 21:42:57.280] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07May2025 21:43:08.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: The difficulty has been set to Hard]
+[07May2025 21:43:39.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 hit the ground too hard
+[07May2025 21:43:39.886] [Server thread/DEBUG] [tombstone/]: A new grave of the player JJForever1764 was created at position [x:1030, y:95, z:2971, dim:minecraft:overworld]
+[07May2025 21:43:39.915] [Server thread/INFO] [tombstone/]: The player JJForever1764 has successfully been saved
+[07May2025 21:43:49.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[07May2025 21:45:06.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[07May2025 21:46:06.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Spectator Mode]
+[07May2025 21:46:10.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[07May2025 21:46:33.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Spectator Mode]
+[07May2025 21:46:47.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[07May2025 21:47:57.285] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07May2025 21:47:57.294] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07May2025 21:50:43.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Spectator Mode]
+[07May2025 21:51:13.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[07May2025 21:52:30.388] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[07May2025 21:52:30.389] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[07May2025 21:52:30.411] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[07May2025 21:52:30.412] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[07May2025 21:52:30.412] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[07May2025 21:52:30.413] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[07May2025 21:52:30.413] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
