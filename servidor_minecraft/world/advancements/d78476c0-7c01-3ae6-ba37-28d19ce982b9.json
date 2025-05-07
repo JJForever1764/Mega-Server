@@ -4113,6 +4113,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonbone_sword_lightning": {
+    "criteria": {
+      "has_item": "2025-05-07 21:55:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/crackled_to_gravel": {
+    "criteria": {
+      "has_item": "2025-05-07 21:53:58 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_small_blimp": {
     "criteria": {
       "location0": "2025-05-07 21:44:45 +0000"
