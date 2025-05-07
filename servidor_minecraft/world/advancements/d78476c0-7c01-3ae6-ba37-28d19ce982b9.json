@@ -20,6 +20,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-05-02 01:49:00 +0000",
+      "minecraft:mushroom_fields": "2025-05-07 22:35:49 +0000",
       "minecraft:taiga": "2025-05-02 01:07:47 +0000",
       "minecraft:deep_ocean": "2025-05-04 21:59:17 +0000",
       "minecraft:sunflower_plains": "2025-05-02 21:38:09 +0000",
@@ -4117,6 +4118,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
+    "criteria": {
+      "scroll_forge": "2025-05-07 22:37:58 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/ink_root": {
     "criteria": {
       "requirement": "2025-05-07 22:16:10 +0000"
@@ -4138,6 +4145,12 @@
   "minecraft:recipes/decorations/light_blue_banner": {
     "criteria": {
       "has_light_blue_wool": "2025-05-07 22:14:16 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-05-07 22:33:50 +0000"
     },
     "done": true
   },
@@ -4198,6 +4211,12 @@
   "born_in_chaos_v1:horrorofthe_depths": {
     "criteria": {
       "horrorofthe_depths_0": "2025-05-07 22:07:08 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-05-07 22:33:50 +0000"
     },
     "done": true
   },
