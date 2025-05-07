@@ -298,3 +298,63 @@
 [07May2025 22:02:03.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [The Twelve Labors of Hercules]
 [07May2025 22:02:11.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
 [07May2025 22:02:43.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[07May2025 22:02:47.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[07May2025 22:02:56.478] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[07May2025 22:02:59.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[07May2025 22:03:10.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[07May2025 22:04:01.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to 416.500000, 94.678410, 2424.500000]
+[07May2025 22:04:02.681] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[07May2025 22:04:53.327] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[07May2025 22:05:22.775] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:snowy_taiga took 2228 ms
+[07May2025 22:05:22.775] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2201ms or 44 ticks behind
+[07May2025 22:05:30.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to 211.500000, -43.000000, 2385.500000]
+[07May2025 22:05:40.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to 101.500000, -45.500000, 2363.500000]
+[07May2025 22:05:52.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to 98.500000, -55.500000, 2349.500000]
+[07May2025 22:05:52.703] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=43, y=61, z=2172} but found not block entity block Block{minecraft:water}[level=0] at location
+[07May2025 22:05:52.704] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=43, y=61, z=2172}
+[07May2025 22:05:52.704] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=44, y=61, z=2171} but found not block entity block Block{minecraft:water}[level=0] at location
+[07May2025 22:05:52.704] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=44, y=61, z=2171}
+[07May2025 22:05:52.704] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=42, y=61, z=2172} but found not block entity block Block{minecraft:water}[level=0] at location
+[07May2025 22:05:52.704] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=42, y=61, z=2172}
+[07May2025 22:05:52.705] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=43, y=61, z=2171} but found not block entity block Block{minecraft:water}[level=0] at location
+[07May2025 22:05:52.705] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=43, y=61, z=2171}
+[07May2025 22:05:52.705] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=42, y=60, z=2173} but found not block entity block Block{minecraft:water}[level=0] at location
+[07May2025 22:05:52.705] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=42, y=60, z=2173}
+[07May2025 22:05:52.705] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=43, y=60, z=2172} but found not block entity block Block{minecraft:water}[level=0] at location
+[07May2025 22:05:52.705] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=43, y=60, z=2172}
+[07May2025 22:05:52.705] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=45, y=62, z=2170} but found not block entity block Block{minecraft:water}[level=0] at location
+[07May2025 22:05:52.706] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=45, y=62, z=2170}
+[07May2025 22:05:52.706] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=46, y=62, z=2169} but found not block entity block Block{minecraft:water}[level=0] at location
+[07May2025 22:05:52.706] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=46, y=62, z=2169}
+[07May2025 22:05:52.706] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=43, y=62, z=2171} but found not block entity block Block{minecraft:water}[level=1] at location
+[07May2025 22:05:52.706] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=43, y=62, z=2171}
+[07May2025 22:05:52.706] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=44, y=62, z=2170} but found not block entity block Block{minecraft:water}[level=0] at location
+[07May2025 22:05:52.706] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=44, y=62, z=2170}
+[07May2025 22:05:52.707] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=45, y=62, z=2169} but found not block entity block Block{minecraft:water}[level=0] at location
+[07May2025 22:05:52.707] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=45, y=62, z=2169}
+[07May2025 22:05:52.707] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=42, y=62, z=2171} but found not block entity block Block{minecraft:water}[level=0] at location
+[07May2025 22:05:52.707] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=42, y=62, z=2171}
+[07May2025 22:05:52.707] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=43, y=62, z=2170} but found not block entity block Block{minecraft:water}[level=0] at location
+[07May2025 22:05:52.707] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=43, y=62, z=2170}
+[07May2025 22:06:08.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to 2464.500000, -44.000000, 3494.500000]
+[07May2025 22:06:08.520] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7846ms or 156 ticks behind
+[07May2025 22:06:30.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Spectator Mode]
+[07May2025 22:06:46.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[07May2025 22:07:08.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has reached the goal [Horror of the Depths]
+[07May2025 22:07:29.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to 2388.500000, 75.500000, 3535.500000]
+[07May2025 22:08:54.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Spectator Mode]
+[07May2025 22:08:56.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[07May2025 22:09:43.799] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:ancient_city took 995 ms
+[07May2025 22:09:54.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to 1712.500000, 75.000000, 4832.500000]
+[07May2025 22:09:54.411] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7337ms or 146 ticks behind
+[07May2025 22:10:04.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Spectator Mode]
+[07May2025 22:10:29.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[07May2025 22:10:58.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Sneak 100]
+[07May2025 22:13:29.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Spectator Mode]
+[07May2025 22:13:46.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[07May2025 22:14:52.976] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity apollyon:the_damned but it was marked as removed already
+[07May2025 22:15:58.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has completed the challenge [It Spreads]
+[07May2025 22:16:10.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Tools of the Trade]
+[07May2025 22:16:32.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has completed the challenge [Premium!]
+[07May2025 22:20:16.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[07May2025 22:20:58.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Deceived Hopes]
