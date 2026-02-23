@@ -1,0 +1,385 @@
+[20:28:03] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[20:28:05] [ServerMain/INFO]: Loaded 1470 recipes
+[20:28:05] [ServerMain/INFO]: Loaded 1584 advancements
+[20:28:06] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[20:28:06] [Server thread/INFO]: Loading properties
+[20:28:06] [Server thread/INFO]: Default game type: SURVIVAL
+[20:28:06] [Server thread/INFO]: Generating keypair
+[20:28:06] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:28:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:28:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:28:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:28:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:28:06] [Server thread/INFO]: Preparing level "world"
+[20:28:06] [Server thread/INFO]: Loading 0 persistent chunks...
+[20:28:06] [Server thread/INFO]: Preparing spawn area: 100%
+[20:28:06] [Server thread/INFO]: Time elapsed: 19 ms
+[20:28:06] [Server thread/INFO]: Done (0.482s)! For help, type "help"
+[20:28:09] [Server thread/INFO]: kuthimaster1[/127.187.237.39:49343] logged in with entity id 43 at (-20.682107014772235, 60.0, -40.66114461204832)
+[20:28:09] [Server thread/INFO]: kuthimaster1 joined the game
+[20:31:42] [Server thread/INFO]: [kuthimaster1: Set own game mode to Creative Mode]
+[20:32:12] [Server thread/INFO]: [kuthimaster1: Set own game mode to Survival Mode]
+[20:33:08] [Server thread/INFO]: cangrejin[/127.68.31.247:46333] logged in with entity id 1313 at (29.835336977323664, 69.0, -409.7912785430192)
+[20:33:08] [Server thread/INFO]: cangrejin joined the game
+[20:34:33] [Server thread/INFO]: [Not Secure] <kuthimaster1> 1
+[20:34:46] [Server thread/INFO]: [Not Secure] <kuthimaster1> y 8 lingotes de hierro
+[20:35:04] [Server thread/INFO]: [kuthimaster1: Set own game mode to Creative Mode]
+[20:35:05] [Server thread/INFO]: [kuthimaster1: Set own game mode to Spectator Mode]
+[20:35:10] [Server thread/INFO]: [Not Secure] <cangrejin> esta tu papa verdad
+[20:35:14] [Server thread/INFO]: [Not Secure] <kuthimaster1> si
+[20:35:39] [Server thread/INFO]: [kuthimaster1: Set own game mode to Survival Mode]
+[20:35:48] [Server thread/INFO]: [Not Secure] <cangrejin> ya tengo para el pug
+[20:35:52] [Server thread/INFO]: [Not Secure] <kuthimaster1> ok
+[20:35:55] [Server thread/INFO]: [Not Secure] <cangrejin> digo bug
+[20:36:01] [Server thread/INFO]: [Not Secure] <cangrejin> traigo a un zombi
+[20:36:05] [Server thread/INFO]: [Not Secure] <kuthimaster1> si
+[20:36:16] [Server thread/INFO]: [kuthimaster1: Set own game mode to Spectator Mode]
+[20:36:25] [Server thread/INFO]: [kuthimaster1: Set own game mode to Survival Mode]
+[20:37:14] [Server thread/INFO]: [kuthimaster1: Set own game mode to Spectator Mode]
+[20:37:24] [Server thread/INFO]: [kuthimaster1: Set own game mode to Survival Mode]
+[20:37:56] [Server thread/INFO]: [Not Secure] <kuthimaster1> hay un aldeano que tiene propulsion acuatica 3
+[20:38:03] [Server thread/INFO]: [Not Secure] <kuthimaster1> te sirver
+[20:38:10] [Server thread/INFO]: [Not Secure] <kuthimaster1> te sirve
+[20:38:15] [Server thread/INFO]: [Not Secure] <cangrejin> chi
+[20:38:19] [Server thread/INFO]: [Not Secure] <kuthimaster1> ok
+[20:40:05] [Server thread/INFO]: [Not Secure] <kuthimaster1> me voy a ir a buscar trial
+[20:40:11] [Server thread/INFO]: [Not Secure] <cangrejin> oki
+[20:40:54] [Server thread/INFO]: [Not Secure] <kuthimaster1> boy yendo
+[20:42:46] [Server thread/WARN]: Mismatch in destroy block pos: is{x=328, y=87, z=-331} is{x=330, y=86, z=-331}
+[20:42:51] [Server thread/WARN]: Mismatch in destroy block pos: is{x=323, y=86, z=-338} is{x=323, y=86, z=-337}
+[20:42:51] [Server thread/WARN]: Mismatch in destroy block pos: is{x=323, y=86, z=-338} is{x=323, y=86, z=-337}
+[20:43:22] [Server thread/WARN]: Mismatch in destroy block pos: is{x=381, y=98, z=-338} is{x=382, y=97, z=-338}
+[20:46:00] [Server thread/INFO]: Villager dcx['Farmer'/711, l='ServerLevel[world]', x=-37.37, y=70.19, z=-433.50] died, message: 'Farmer was slain by Zombie'
+[20:50:56] [Server thread/INFO]: Villager dcx['Villager'/804, l='ServerLevel[world]', x=21.36, y=68.19, z=-397.64] died, message: 'Villager was slain by Zombie'
+[20:53:30] [Server thread/INFO]: [kuthimaster1: Teleported kuthimaster1 to cangrejin]
+[20:54:51] [Server thread/INFO]: [Not Secure] <kuthimaster1> un ratito
+[20:55:16] [Server thread/INFO]: [Not Secure] <cangrejin> disculpa por decir piensa un poquito
+[20:55:21] [Server thread/INFO]: [Not Secure] <kuthimaster1> ok
+[20:58:30] [Server thread/INFO]: [Not Secure] <kuthimaster1> edwin que paso
+[21:00:39] [Server thread/INFO]: kuthimaster1 has reached the goal [Hired Help]
+[21:01:36] [Server thread/INFO]: [Not Secure] <kuthimaster1> que pasa
+[21:01:44] [Server thread/INFO]: [Not Secure] <cangrejin> esta tu papa no
+[21:01:59] [Server thread/INFO]: [Not Secure] <kuthimaster1> esta mi mama esta hablando con mi hermano
+[21:02:28] [Server thread/INFO]: [Not Secure] <cangrejin> mira cuanto genera la granja de comida
+[21:02:37] [Server thread/INFO]: [Not Secure] <kuthimaster1> aver
+[21:02:54] [Server thread/INFO]: [Not Secure] <kuthimaster1> ala
+[21:03:36] [Server thread/INFO]: [Not Secure] <cangrejin> juan preparate para capturar al zombi
+[21:03:39] [Server thread/INFO]: [Not Secure] <kuthimaster1> ok
+[21:04:19] [Server thread/INFO]: [Not Secure] <cangrejin> juan bamos yendo al cambo plano
+[21:04:39] [Server thread/INFO]: [Not Secure] <kuthimaster1> edwin ya son las 4
+[21:04:46] [Server thread/INFO]: [Not Secure] <cangrejin> bhamos con arthur
+[21:05:01] [Server thread/INFO]: [Not Secure] <kuthimaster1> ahorita le acabo de escribir
+[21:05:06] [Server thread/INFO]: [Not Secure] <cangrejin> aver que dice
+[21:05:06] [Server thread/INFO]: [Not Secure] <kuthimaster1> que me responda
+[21:06:53] [Server thread/INFO]: [Not Secure] <cangrejin> ahi esta
+[21:08:06] [Server thread/INFO]: [Not Secure] <kuthimaster1> buena
+[21:08:11] [Server thread/INFO]: [Not Secure] <cangrejin> chi
+[21:08:28] [Server thread/INFO]: [Not Secure] <cangrejin> tdurmamos
+[21:08:29] [Server thread/INFO]: kuthimaster1 lost connection: Disconnected
+[21:08:29] [Server thread/INFO]: kuthimaster1 left the game
+[21:08:34] [Server thread/INFO]: kuthimaster1[/127.187.237.39:51765] logged in with entity id 15238 at (42.61965346605756, 69.0, -256.84193294193597)
+[21:08:34] [Server thread/INFO]: kuthimaster1 joined the game
+[21:09:31] [Server thread/INFO]: [kuthimaster1: Set own game mode to Spectator Mode]
+[21:09:33] [Server thread/INFO]: [kuthimaster1: Set own game mode to Creative Mode]
+[21:11:38] [Server thread/INFO]: [kuthimaster1: Set own game mode to Survival Mode]
+[21:12:48] [Server thread/INFO]: Villager dcx['Librarian'/639, l='ServerLevel[world]', x=46.33, y=68.19, z=-262.69] died, message: 'Librarian was slain by Zombie'
+[21:14:33] [Server thread/INFO]: [kuthimaster1: The difficulty has been set to Hard]
+[21:19:54] [Server thread/INFO]: [kuthimaster1: Set own game mode to Creative Mode]
+[21:21:45] [Server thread/INFO]: JJForever1764[/127.187.237.39:44375] logged in with entity id 18760 at (-7.613679743304815, 58.0, -38.22231655105902)
+[21:21:45] [Server thread/INFO]: JJForever1764 joined the game
+[21:21:48] [Server thread/INFO]: [kuthimaster1: Set own game mode to Survival Mode]
+[21:22:03] [Server thread/INFO]: Villager dcx['Librarian'/739, l='ServerLevel[world]', x=44.75, y=68.19, z=-262.69] died, message: 'Librarian was slain by Zombie'
+[21:22:17] [Server thread/INFO]: Wish[/127.97.20.159:33341] logged in with entity id 19209 at (-22.635140448573683, 65.0, -291.16453751119457)
+[21:22:17] [Server thread/INFO]: Wish joined the game
+[21:22:26] [Server thread/INFO]: [Not Secure] <Wish> halllo
+[21:22:28] [Server thread/INFO]: [Not Secure] <kuthimaster1> joshua
+[21:22:33] [Server thread/INFO]: [Not Secure] <cangrejin> tenmos dos granjas
+[21:22:35] [Server thread/INFO]: [Not Secure] <Wish> manda meet
+[21:22:42] [Server thread/INFO]: [Not Secure] <cangrejin> de aldeano y comida no los toque plsi
+[21:22:43] [Server thread/INFO]: [JJForever1764: Set own game mode to Survival Mode]
+[21:22:49] [Server thread/INFO]: [Not Secure] <Wish> si yo las armo XD
+[21:23:00] [Server thread/INFO]: [Not Secure] <kuthimaster1> johua te paso link o sin video
+[21:23:06] [Server thread/INFO]: [Not Secure] <Wish> pasa ps
+[21:23:20] [Server thread/INFO]: [Not Secure] <Wish> crerezos?
+[21:23:58] [Server thread/INFO]: kuthimaster1 was slain by Zombie Villager
+[21:25:46] [Server thread/INFO]: [Not Secure] <Wish> le di un puño de saludo
+[21:25:52] [Server thread/INFO]: [Not Secure] <Wish> ni medio corazon le baje seguro XD
+[21:25:53] [Server thread/INFO]: [Not Secure] <kuthimaster1> como
+[21:27:07] [Server thread/INFO]: [Not Secure] <Wish> NECECITO 10 PISTONES 50 ESTALATITAS Y 20 STACKS DE HIERRO GRANJA DE LAVA CHABAL
+[21:27:08] [Server thread/INFO]: [Not Secure] <Wish> xd
+[21:27:20] [Server thread/INFO]: [Not Secure] <kuthimaster1> ala
+[21:27:26] [Server thread/INFO]: [Not Secure] <Wish> broma x
+[21:27:31] [Server thread/INFO]: [Not Secure] <cangrejin> mira te muestro mis granjs que ise sigeme joshuita
+[21:27:33] [Server thread/INFO]: [Not Secure] <Wish> ni se cuanto se nececita
+[21:27:57] [Server thread/INFO]: [Not Secure] <kuthimaster1> joshua ya te pase
+[21:28:03] [Server thread/INFO]: [Not Secure] <Wish> si ando entrando
+[21:28:07] [Server thread/INFO]: [Not Secure] <kuthimaster1> ok
+[21:28:08] [Server thread/INFO]: [Not Secure] <cangrejin> aca tenemos la de cultivos
+[21:28:16] [Server thread/INFO]: [Not Secure] <Wish> granja pa criar?
+[21:28:21] [Server thread/INFO]: [JJForever1764: Set own game mode to Creative Mode]
+[21:28:22] [Server thread/INFO]: [Not Secure] <kuthimaster1> si
+[21:28:51] [Server thread/INFO]: [Not Secure] <Wish> ?
+[21:28:56] [Server thread/INFO]: [Not Secure] <Wish> no me funciona
+[21:28:58] [Server thread/INFO]: [Not Secure] <kuthimaster1> ?
+[21:28:59] [Server thread/INFO]: [Not Secure] <kuthimaster1> a
+[21:29:02] [Server thread/INFO]: [Not Secure] <Wish> nose porque
+[21:29:09] [Server thread/INFO]: [Not Secure] <kuthimaster1> intenta hablar
+[21:29:14] [Server thread/INFO]: [Not Secure] <Wish> estoy diciendo haloo
+[21:29:34] [Server thread/INFO]: [Not Secure] <Wish> si me funciona
+[21:29:43] [Server thread/INFO]: [Not Secure] <Wish> osea
+[21:29:52] [Server thread/INFO]: [Not Secure] <Wish> si esta normal pero no
+[21:29:56] [Server thread/INFO]: [Not Secure] <Wish> no puedo hablar
+[21:31:06] [Server thread/INFO]: [Not Secure] <kuthimaster1> a dormir
+[21:31:38] [Server thread/INFO]: [Not Secure] <Wish> faltan flecheros
+[21:31:43] [Server thread/INFO]: [Not Secure] <kuthimaster1> verdad
+[21:31:44] [Server thread/INFO]: [Not Secure] <Wish> para esmeraldas
+[21:31:50] [Server thread/INFO]: [Not Secure] <Wish> te escucho solo habla
+[21:32:28] [Server thread/INFO]: [Not Secure] <Wish> diablo
+[21:32:31] [Server thread/INFO]: [Not Secure] <Wish> nooo
+[21:32:35] [Server thread/INFO]: [Not Secure] <Wish> es rarisimo
+[21:33:26] [Server thread/INFO]: [Not Secure] <Wish> ?
+[21:33:32] [Server thread/INFO]: [Not Secure] <Wish> va
+[21:33:39] [Server thread/INFO]: [Not Secure] <kuthimaster1> joshua por que pones ?
+[21:33:41] [Server thread/INFO]: [Not Secure] <Wish> brotes de ceresos
+[21:33:45] [Server thread/INFO]: [Not Secure] <Wish> es como que
+[21:33:53] [Server thread/INFO]: [Not Secure] <Wish> pero es mas facil
+[21:34:08] [Server thread/INFO]: [Not Secure] <Wish> cuando me dicen joshua yo pongo ? porque es como decir que paso
+[21:34:13] [Server thread/INFO]: [Not Secure] <kuthimaster1> a
+[21:34:52] [Server thread/INFO]: [Not Secure] <Wish> y los aldeanos bebes?
+[21:35:38] [Server thread/INFO]: [Not Secure] <Wish> q
+[21:35:43] [Server thread/INFO]: [Not Secure] <Wish> pero de donde?
+[21:36:08] [Server thread/INFO]: [Not Secure] <Wish> tenes cuerdas?
+[21:36:24] [Server thread/INFO]: [Not Secure] <kuthimaster1> espera
+[21:36:32] [Server thread/INFO]: [Not Secure] <kuthimaster1> edwin lo tiene
+[21:36:54] [Server thread/INFO]: [Not Secure] <kuthimaster1> 2
+[21:36:58] [Server thread/INFO]: [Not Secure] <Wish> yap
+[21:37:26] [Server thread/INFO]: [Not Secure] <Wish> cuantos llevo edwin?
+[21:37:33] [Server thread/INFO]: [Not Secure] <kuthimaster1> edwin tienes mi madera
+[21:37:50] [Server thread/INFO]: [Not Secure] <kuthimaster1> 4
+[21:38:52] [Server thread/INFO]: [Not Secure] <kuthimaster1> encontre chocolate
+[21:39:19] [Server thread/INFO]: [Not Secure] <JJForever1764> perdon
+[21:39:26] [Server thread/INFO]: [Not Secure] <cangrejin> ok
+[21:40:35] [Server thread/INFO]: [Not Secure] <cangrejin> juan
+[21:40:41] [Server thread/INFO]: [Not Secure] <cangrejin> poque no habla
+[21:40:43] [Server thread/INFO]: [Not Secure] <kuthimaster1> que paso
+[21:40:58] [Server thread/INFO]: [Not Secure] <Wish> secuestrando
+[21:42:39] [Server thread/INFO]: [Not Secure] <Wish> yo los tape
+[21:43:22] [Server thread/INFO]: [Not Secure] <Wish> menos el diamante XD
+[21:43:28] [Server thread/INFO]: [Not Secure] <kuthimaster1> porque
+[21:44:41] [Server thread/INFO]: [Not Secure] <Wish> Chocolate?
+[21:44:57] [Server thread/INFO]: [Not Secure] <Wish> netherite?
+[21:45:00] [Server thread/INFO]: [Not Secure] <Wish> eso pense XD
+[21:45:29] [Server thread/INFO]: [Not Secure] <Wish> OSTIA
+[21:45:39] [Server thread/INFO]: [Not Secure] <Wish> casi me muero XD
+[21:45:52] [Server thread/INFO]: [JJForever1764: Teleported kuthimaster1 to JJForever1764]
+[21:46:11] [Server thread/INFO]: [Not Secure] <Wish> juan pq tenes unos leggins de dimante cansaos
+[21:46:26] [Server thread/INFO]: [Not Secure] <Wish> buscando hierrro
+[21:46:42] [Server thread/INFO]: cangrejin has made the advancement [Hidden in the Depths]
+[21:46:43] [Server thread/INFO]: Wish has made the advancement [Hidden in the Depths]
+[21:46:47] [Server thread/INFO]: [Not Secure] <Wish> gracia
+[21:46:56] [Server thread/INFO]: [Not Secure] <kuthimaster1> de nada
+[21:47:03] [Server thread/INFO]: [Not Secure] <Wish> pa mi esapda
+[21:47:32] [Server thread/INFO]: [Not Secure] <Wish> tengo 1 fragmento
+[21:47:37] [Server thread/INFO]: [Not Secure] <Wish> cuantos nececitabamos?
+[21:47:50] [Server thread/INFO]: [Not Secure] <Wish> 4 ok
+[21:48:11] [Server thread/INFO]: [Not Secure] <Wish> facil es
+[21:48:15] [Server thread/INFO]: [Not Secure] <Wish> camino y tnt
+[21:48:18] [Server thread/INFO]: [Not Secure] <Wish> o camas
+[21:48:26] [Server thread/INFO]: [Not Secure] <Wish> o cualquier cosa que ahga kaboom
+[21:48:50] [Server thread/INFO]: [Not Secure] <Wish> diablo
+[21:48:58] [Server thread/INFO]: [Not Secure] <Wish> y la granja de niños?
+[21:49:03] [Server thread/INFO]: [kuthimaster1: Set own game mode to Creative Mode]
+[21:49:13] [Server thread/INFO]: [kuthimaster1: Set own game mode to Survival Mode]
+[21:49:29] [Server thread/INFO]: [Not Secure] <Wish> pero -1 van
+[21:49:32] [Server thread/INFO]: [Not Secure] <Wish> mejor w
+[21:49:48] [Server thread/INFO]: [Not Secure] <Wish> no tengo
+[21:49:58] [Server thread/INFO]: [Not Secure] <Wish> tengo 2 llaves
+[21:50:25] [Server thread/INFO]: [Not Secure] <Wish> todo es tu culpa pollo
+[21:50:41] [Server thread/INFO]: [Not Secure] <Wish> trae happy ghast
+[21:50:46] [Server thread/INFO]: [Not Secure] <kuthimaster1> ok
+[21:51:05] [Server thread/INFO]: [Not Secure] <Wish> ya void
+[21:51:11] [Server thread/INFO]: [JJForever1764: Teleported cangrejin to JJForever1764]
+[21:51:14] [Server thread/INFO]: kuthimaster1 has made the advancement [Oh Shiny]
+[21:51:28] [Server thread/INFO]: [Not Secure] <Wish> q encontraste juansi
+[21:51:51] [Server thread/INFO]: [Not Secure] <Wish> pero tu lo creaste edwin
+[21:52:32] [Server thread/INFO]: [kuthimaster1: Set own game mode to Creative Mode]
+[21:52:39] [Server thread/INFO]: [kuthimaster1: Set own game mode to Survival Mode]
+[21:52:57] [Server thread/INFO]: [Not Secure] <Wish> q
+[21:53:04] [Server thread/INFO]: [kuthimaster1: Teleported kuthimaster1 to cangrejin]
+[21:53:08] [Server thread/INFO]: [Not Secure] <kuthimaster1> como
+[21:53:24] [Server thread/INFO]: [Not Secure] <Wish> nop
+[21:53:33] [Server thread/INFO]: [Not Secure] <Wish> cuando tenga peto de diamante void
+[21:53:47] [Server thread/INFO]: [Not Secure] <Wish> tu sabes q paso ahi XD
+[21:53:54] [Server thread/INFO]: [Not Secure] <kuthimaster1> si se
+[21:54:02] [Server thread/INFO]: [kuthimaster1: Set own game mode to Creative Mode]
+[21:54:09] [Server thread/INFO]: [kuthimaster1: Set own game mode to Survival Mode]
+[21:54:09] [Server thread/INFO]: [Not Secure] <Wish> ok
+[21:55:06] [Server thread/INFO]: [Not Secure] <Wish> q hace tu hermano juan
+[21:55:13] [Server thread/INFO]: [Not Secure] <Wish> su mansion
+[21:55:35] [Server thread/INFO]: [Not Secure] <Wish> yo hice algo simple para luego cambiarlo
+[21:55:42] [Server thread/INFO]: [kuthimaster1: Set own game mode to Creative Mode]
+[21:55:54] [Server thread/INFO]: [Not Secure] <Wish> fue el viento
+[21:55:59] [Server thread/INFO]: [kuthimaster1: Set own game mode to Survival Mode]
+[21:56:50] [Server thread/INFO]: [Not Secure] <Wish> nd
+[21:56:52] [Server thread/INFO]: [Not Secure] <Wish> waterdrops
+[21:58:11] [Server thread/INFO]: [Not Secure] <Wish> les quitare su chamba
+[21:58:40] [Server thread/INFO]: [Not Secure] <Wish> trae varas de blaze para hacer pociones
+[21:58:45] [Server thread/INFO]: [Not Secure] <kuthimaster1> ok
+[21:58:55] [Server thread/INFO]: [Not Secure] <Wish> ?
+[21:58:57] [Server thread/INFO]: [Not Secure] <Wish> XD
+[22:00:33] [Server thread/INFO]: [Not Secure] <Wish> traere losas
+[22:00:44] [Server thread/INFO]: [Not Secure] <Wish> para tapar
+[22:01:10] [Server thread/INFO]: [Not Secure] <Wish> a quien?
+[22:01:19] [Server thread/INFO]: [Not Secure] <Wish> a?
+[22:02:02] [Server thread/INFO]: [Not Secure] <Wish> a quien esperan?
+[22:02:24] [Server thread/INFO]: [Not Secure] <Wish> explotarle el mundo?
+[22:02:33] [Server thread/INFO]: [Not Secure] <Wish> les ayudo
+[22:02:44] [Server thread/INFO]: [Not Secure] <Wish> yo se maquinas de dupeo
+[22:03:04] [Server thread/INFO]: [kuthimaster1: Teleported cangrejin to kuthimaster1]
+[22:03:07] [Server thread/INFO]: [JJForever1764: Set own game mode to Survival Mode]
+[22:03:36] [Server thread/INFO]: [JJForever1764: Set own game mode to Creative Mode]
+[22:06:51] [Server thread/INFO]: [Not Secure] <Wish> tienen esponjas?
+[22:07:09] [Server thread/INFO]: [JJForever1764: Teleported cangrejin to JJForever1764]
+[22:08:12] [Server thread/INFO]: [Not Secure] <Wish> ?
+[22:08:46] [Server thread/INFO]: [Not Secure] <Wish> diblo
+[22:08:55] [Server thread/INFO]: Wish has made the advancement [Stay Hydrated!]
+[22:09:19] [Server thread/INFO]: [Not Secure] <Wish> tienen 2 diamantes q me regalen para mi pico
+[22:09:32] [Server thread/INFO]: Villager dcx['Farmer'/808, l='ServerLevel[world]', x=28.49, y=67.00, z=-405.70] died, message: 'Farmer was slain by Zombie'
+[22:09:43] [Server thread/INFO]: [JJForever1764: Gave 2 [Diamond] to Wish]
+[22:10:59] [Server thread/INFO]: [Not Secure] <Wish> un arquero bajo el agua
+[22:11:23] [Server thread/INFO]: [Not Secure] <Wish> espada
+[22:11:28] [Server thread/INFO]: [Not Secure] <Wish> demasiado
+[22:12:28] [Server thread/INFO]: [Not Secure] <JJForever1764> q
+[22:12:29] [Server thread/INFO]: [JJForever1764: Set own game mode to Survival Mode]
+[22:12:33] [Server thread/INFO]: [Not Secure] <JJForever1764> si
+[22:12:48] [Server thread/INFO]: [Not Secure] <JJForever1764> como funciona
+[22:12:49] [Server thread/INFO]: [Not Secure] <Wish> ps se va queda ahi w
+[22:12:52] [Server thread/INFO]: [Not Secure] <JJForever1764> si
+[22:12:58] [Server thread/INFO]: [Not Secure] <Wish> es que tu cargaras los chunks xd
+[22:13:07] [Server thread/INFO]: [Not Secure] <Wish> por eso funcionara
+[22:13:12] [Server thread/INFO]: [Not Secure] <Wish> q
+[22:13:18] [Server thread/INFO]: [Not Secure] <Wish> de?
+[22:13:56] [Server thread/INFO]: [Not Secure] <Wish> ?
+[22:14:17] [Server thread/INFO]: [Not Secure] <Wish> ns
+[22:14:26] [Server thread/INFO]: [JJForever1764: Set own game mode to Creative Mode]
+[22:14:36] [Server thread/INFO]: [Not Secure] <Wish> a deforestar
+[22:16:22] [Server thread/INFO]: [Not Secure] <Wish> tp para a mi porque si me dan arco les doy
+[22:16:33] [Server thread/INFO]: [kuthimaster1: Teleported cangrejin to kuthimaster1]
+[22:16:41] [Server thread/INFO]: [kuthimaster1: Teleported Wish to kuthimaster1]
+[22:18:20] [Server thread/INFO]: [JJForever1764: Teleported cangrejin to JJForever1764]
+[22:18:21] [Server thread/INFO]: [kuthimaster1: Teleported cangrejin to kuthimaster1]
+[22:18:35] [Server thread/INFO]: Wish has made the advancement [Into Fire]
+[22:18:50] [Server thread/INFO]: [Not Secure] <Wish> no
+[22:19:53] [Server thread/INFO]: [JJForever1764: Teleported cangrejin to JJForever1764]
+[22:20:04] [Server thread/INFO]: [Not Secure] <Wish> aca
+[22:20:14] [Server thread/INFO]: [kuthimaster1: Teleported cangrejin to kuthimaster1]
+[22:20:29] [Server thread/INFO]: Wish has made the advancement [Oh Shiny]
+[22:20:39] [Server thread/INFO]: cangrejin has made the advancement [Oh Shiny]
+[22:21:06] [Server thread/INFO]: [Not Secure] <Wish> a mi botas
+[22:21:40] [Server thread/INFO]: [Not Secure] <Wish> xd
+[22:21:51] [Server thread/INFO]: [Not Secure] <Wish> fuga
+[22:21:53] [Server thread/INFO]: [JJForever1764: Teleported cangrejin to JJForever1764]
+[22:22:08] [Server thread/INFO]: [Not Secure] <Wish> ya
+[22:22:24] [Server thread/INFO]: [Not Secure] <Wish> no
+[22:22:28] [Server thread/INFO]: [Not Secure] <Wish> me llevo el hueso
+[22:22:37] [Server thread/INFO]: [Not Secure] <Wish> sisi
+[22:24:02] [Server thread/INFO]: cangrejin has made the advancement [Stay Hydrated!]
+[22:24:15] [Server thread/INFO]: [Not Secure] <Wish> nadie me devuelve
+[22:24:24] [Server thread/INFO]: [Not Secure] <Wish> quiero volver xd
+[22:24:36] [Server thread/INFO]: [Not Secure] <kuthimaster1> pera
+[22:24:38] [Server thread/INFO]: [JJForever1764: Teleported Wish to JJForever1764]
+[22:25:18] [Server thread/INFO]: [Not Secure] <Wish> la unica manera de derrota a mahoraga
+[22:25:23] [Server thread/INFO]: [Not Secure] <Wish> GATOOOS
+[22:25:36] [Server thread/INFO]: [Not Secure] <Wish> NECECITO ESO PARA MI GRANJA DE POLVORA
+[22:25:44] [Server thread/INFO]: [Not Secure] <Wish> GATOS
+[22:25:57] [Server thread/INFO]: [Not Secure] <Wish> ACA
+[22:26:01] [Server thread/INFO]: [Not Secure] <Wish> si
+[22:26:03] [Server thread/INFO]: [Not Secure] <Wish> hay aca 2
+[22:26:54] [Server thread/INFO]: [kuthimaster1: Set own game mode to Spectator Mode]
+[22:27:21] [Server thread/INFO]: [Not Secure] <Wish> espera
+[22:27:31] [Server thread/INFO]: [kuthimaster1: Set own game mode to Survival Mode]
+[22:27:31] [Server thread/INFO]: [kuthimaster1: Set own game mode to Creative Mode]
+[22:27:33] [Server thread/INFO]: [kuthimaster1: Set own game mode to Survival Mode]
+[22:27:33] [Server thread/INFO]: [Not Secure] <Wish> ya no tenemos ceresos
+[22:27:41] [Server thread/INFO]: [Not Secure] <Wish> desaparecio
+[22:28:01] [Server thread/INFO]: [Not Secure] <Wish> NO
+[22:28:49] [Server thread/INFO]: [kuthimaster1: Set own game mode to Creative Mode]
+[22:30:20] [Server thread/INFO]: [kuthimaster1: Teleported kuthimaster1 to cangrejin]
+[22:30:21] [Server thread/INFO]: [kuthimaster1: Set own game mode to Survival Mode]
+[22:32:22] [Server thread/INFO]: [Not Secure] <Wish> yo quiero de xp
+[22:34:03] [Server thread/INFO]: [Not Secure] <Wish> tengo mi happy ghast con el gato en un bote XD
+[22:34:23] [Server thread/INFO]: [Not Secure] <Wish> miralo por ti mismo
+[22:34:32] [Server thread/INFO]: [Not Secure] <Wish> se
+[22:34:36] [Server thread/INFO]: kuthimaster1 lost connection: Disconnected
+[22:34:36] [Server thread/INFO]: kuthimaster1 left the game
+[22:34:39] [Server thread/INFO]: [Not Secure] <Wish> cahu
+[22:34:47] [Server thread/INFO]: [Not Secure] <Wish> no
+[22:35:11] [Server thread/INFO]: [Not Secure] <Wish> q malo
+[22:37:09] [Server thread/INFO]: [Not Secure] <Wish> esa moto xd
+[22:37:11] [Server thread/INFO]: [Not Secure] <Wish> ?
+[22:37:15] [Server thread/INFO]: [Not Secure] <Wish> no
+[22:37:26] [Server thread/INFO]: [Not Secure] <Wish> recuerdos malos
+[22:37:42] [Server thread/INFO]: [Not Secure] <Wish> q bonito arbol crecio
+[22:39:32] [Server thread/INFO]: [Not Secure] <Wish> brote de abeto
+[22:39:42] [Server thread/INFO]: [Not Secure] <Wish> ya
+[22:39:45] [Server thread/INFO]: [Not Secure] <Wish> edwin
+[22:39:56] [Server thread/INFO]: [Not Secure] <Wish> encontre un zombi de cuero full encantado
+[22:41:09] [Server thread/INFO]: [Not Secure] <Wish> plante un arbol
+[22:41:37] [Server thread/INFO]: [Not Secure] <Wish> pvp contra araña y creepr
+[22:41:44] [Server thread/INFO]: [Not Secure] <Wish> yo
+[22:41:56] [Server thread/INFO]: [Not Secure] <Wish> no
+[22:42:24] [Server thread/INFO]: [Not Secure] <Wish> no
+[22:42:34] [Server thread/INFO]: [Not Secure] <cangrejin> forever
+[22:43:55] [Server thread/INFO]: [Not Secure] <Wish> me fui de explorcion
+[22:44:22] [Server thread/INFO]: [Not Secure] <Wish> una aldea xd
+[22:44:28] [Server thread/INFO]: [Not Secure] <Wish> serio
+[22:44:39] [Server thread/INFO]: [Not Secure] <Wish> ?
+[22:44:50] [Server thread/INFO]: [Not Secure] <Wish> atrapalo en un bote
+[22:45:03] [Server thread/INFO]: [JJForever1764: Set own game mode to Survival Mode]
+[22:45:04] [Server thread/INFO]: [Not Secure] <Wish> isla voladora
+[22:45:54] [Server thread/INFO]: [Not Secure] <Wish> aldea pre saqueda
+[22:47:38] [Server thread/INFO]: [Not Secure] <Wish> no hay abetos
+[22:48:07] [Server thread/INFO]: [Not Secure] <Wish> ?
+[22:48:11] [Server thread/INFO]: [Not Secure] <Wish> q
+[22:48:18] [Server thread/INFO]: [Not Secure] <Wish> x2
+[22:48:23] [Server thread/INFO]: [Not Secure] <Wish> se
+[22:49:54] [Server thread/INFO]: [Not Secure] <Wish> q?
+[22:50:28] [Server thread/INFO]: [JJForever1764: Set own game mode to Creative Mode]
+[22:51:04] [Server thread/INFO]: [Not Secure] <Wish> ?
+[22:51:22] [Server thread/INFO]: [Not Secure] <Wish> mata al aldeano si no da nada bueno
+[22:51:57] [Server thread/INFO]: [Not Secure] <JJForever1764> no los maten directamente con una espada ahoguenlos en lava
+[22:52:15] [Server thread/INFO]: [Not Secure] <Wish> ponles en lava
+[22:53:19] [Server thread/INFO]: [JJForever1764: Teleported JJForever1764 to -16.500000, 70.500000, -399.500000]
+[22:53:21] [Server thread/INFO]: [Not Secure] <Wish> ese ghast?
+[22:53:23] [Server thread/INFO]: [JJForever1764: Teleported JJForever1764 to 593.500000, 66.500000, -731.500000]
+[22:53:28] [Server thread/INFO]: [Not Secure] <cangrejin> ES TUYO
+[22:53:33] [Server thread/INFO]: [Not Secure] <Wish> a
+[22:53:36] [Server thread/INFO]: [Not Secure] <Wish> pq no hablas
+[22:53:39] [Server thread/INFO]: [Not Secure] <cangrejin> sorry por las mayus
+[22:53:52] [Server thread/INFO]: [JJForever1764: Teleported JJForever1764 to -16.500000, 70.500000, -399.500000]
+[22:53:53] [Server thread/INFO]: [Not Secure] <Wish> cuerdas
+[22:54:15] [Server thread/INFO]: Villager dcx['Farmer'/736, l='ServerLevel[world]', x=-6.40, y=72.94, z=-421.85] died, message: 'Farmer was slain by Zombie'
+[22:54:20] [Server thread/INFO]: Villager dcx['Farmer'/737, l='ServerLevel[world]', x=-2.31, y=73.00, z=-421.40] died, message: 'Farmer was slain by Zombie Villager'
+[22:54:34] [Server thread/INFO]: [Not Secure] <JJForever1764> se estan contangiando los aldeanos
+[22:54:56] [Server thread/INFO]: [Not Secure] <cangrejin> forever esta bien mi granja de hierro
+[22:55:26] [Server thread/INFO]: [Not Secure] <JJForever1764> una mas grande
+[22:55:35] [Server thread/INFO]: [Not Secure] <JJForever1764> una vez hize una
+[22:55:36] [Server thread/INFO]: [Not Secure] <cangrejin> y en el cofre
+[22:56:09] [Server thread/INFO]: [Not Secure] <Wish> listo lo atrape
+[22:56:17] [Server thread/INFO]: [Not Secure] <Wish> al haooy
+[22:56:23] [Server thread/INFO]: [Not Secure] <Wish> se
+[22:57:41] [Server thread/INFO]: [Not Secure] <Wish> q
+[22:57:51] [Server thread/INFO]: [Not Secure] <Wish> iq
+[22:57:58] [Server thread/INFO]: [Not Secure] <Wish> 1 millon
+[22:58:05] [Server thread/INFO]: [Not Secure] <Wish> 20
+[22:58:11] [Server thread/INFO]: [Not Secure] <Wish> pa q
+[22:58:24] [Server thread/INFO]: [Not Secure] <Wish> si haremos una wea de tradeos simple
+[22:58:48] [Server thread/INFO]: JJForever1764 lost connection: Disconnected
+[22:58:48] [Server thread/INFO]: JJForever1764 left the game
+[22:58:51] [Server thread/INFO]: [Not Secure] <Wish> na id win
+[23:00:57] [Server thread/INFO]: cangrejin lost connection: Disconnected
+[23:00:57] [Server thread/INFO]: cangrejin left the game
+[23:00:59] [Server thread/INFO]: [Not Secure] <Wish> pq
+[23:01:15] [Server thread/INFO]: Wish lost connection: Disconnected
+[23:01:15] [Server thread/INFO]: Wish left the game
+[23:02:15] [Server thread/INFO]: Server empty for 60 seconds, pausing
